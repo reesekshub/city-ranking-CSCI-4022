@@ -1,0 +1,126 @@
+{
+  "city": "Forks, WA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 132,
+      "distance_text": "0.1 km",
+      "duration_s": 27,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 50325,
+      "distance_text": "50.3 km",
+      "duration_s": 2931,
+      "duration_text": "49 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 90492,
+      "distance_text": "90.5 km",
+      "duration_s": 3948,
+      "duration_text": "1 hour 6 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1062,
+      "distance_text": "1.1 km",
+      "duration_s": 205,
+      "duration_text": "3 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1054,
+      "distance_text": "1.1 km",
+      "duration_s": 205,
+      "duration_text": "3 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 51392,
+      "distance_text": "51.4 km",
+      "duration_s": 3137,
+      "duration_text": "52 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 90024,
+      "distance_text": "90.0 km",
+      "duration_s": 3953,
+      "duration_text": "1 hour 6 mins"
+    },
+    "grocery|home": {
+      "distance_m": 111,
+      "distance_text": "0.1 km",
+      "duration_s": 17,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 103,
+      "distance_text": "0.1 km",
+      "duration_s": 16,
+      "duration_text": "1 min"
+    },
+    "grocery|nature": {
+      "distance_m": 50441,
+      "distance_text": "50.4 km",
+      "duration_s": 2949,
+      "duration_text": "49 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 90381,
+      "distance_text": "90.4 km",
+      "duration_s": 3935,
+      "duration_text": "1 hour 6 mins"
+    },
+    "hospital|home": {
+      "distance_m": 625,
+      "distance_text": "0.6 km",
+      "duration_s": 65,
+      "duration_text": "1 min"
+    },
+    "hospital|downtown": {
+      "distance_m": 616,
+      "distance_text": "0.6 km",
+      "duration_s": 65,
+      "duration_text": "1 min"
+    },
+    "hospital|nature": {
+      "distance_m": 50954,
+      "distance_text": "51.0 km",
+      "duration_s": 2997,
+      "duration_text": "50 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 89868,
+      "distance_text": "89.9 km",
+      "duration_s": 3880,
+      "duration_text": "1 hour 5 mins"
+    },
+    "stadium|home": {
+      "distance_m": 773,
+      "distance_text": "0.8 km",
+      "duration_s": 132,
+      "duration_text": "2 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 765,
+      "distance_text": "0.8 km",
+      "duration_s": 131,
+      "duration_text": "2 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 51103,
+      "distance_text": "51.1 km",
+      "duration_s": 3064,
+      "duration_text": "51 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 91073,
+      "distance_text": "91.1 km",
+      "duration_s": 4056,
+      "duration_text": "1 hour 8 mins"
+    }
+  }
+}

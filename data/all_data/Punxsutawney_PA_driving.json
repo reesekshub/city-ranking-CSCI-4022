@@ -1,0 +1,126 @@
+{
+  "city": "Punxsutawney, PA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 844,
+      "distance_text": "0.8 km",
+      "duration_s": 213,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 4715,
+      "distance_text": "4.7 km",
+      "duration_s": 481,
+      "duration_text": "8 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 120322,
+      "distance_text": "120 km",
+      "duration_s": 6093,
+      "duration_text": "1 hour 42 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4715,
+      "distance_text": "4.7 km",
+      "duration_s": 478,
+      "duration_text": "8 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 3988,
+      "distance_text": "4.0 km",
+      "duration_s": 437,
+      "duration_text": "7 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nearby city": {
+      "distance_m": 118623,
+      "distance_text": "119 km",
+      "duration_s": 6116,
+      "duration_text": "1 hour 42 mins"
+    },
+    "grocery|home": {
+      "distance_m": 275,
+      "distance_text": "0.3 km",
+      "duration_s": 54,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 1075,
+      "distance_text": "1.1 km",
+      "duration_s": 199,
+      "duration_text": "3 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 4816,
+      "distance_text": "4.8 km",
+      "duration_s": 514,
+      "duration_text": "9 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 120450,
+      "distance_text": "120 km",
+      "duration_s": 6097,
+      "duration_text": "1 hour 42 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1984,
+      "distance_text": "2.0 km",
+      "duration_s": 263,
+      "duration_text": "4 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1904,
+      "distance_text": "1.9 km",
+      "duration_s": 255,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 5088,
+      "distance_text": "5.1 km",
+      "duration_s": 521,
+      "duration_text": "9 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 119888,
+      "distance_text": "120 km",
+      "duration_s": 6070,
+      "duration_text": "1 hour 41 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1076,
+      "distance_text": "1.1 km",
+      "duration_s": 221,
+      "duration_text": "4 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 429,
+      "distance_text": "0.4 km",
+      "duration_s": 117,
+      "duration_text": "2 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 4465,
+      "distance_text": "4.5 km",
+      "duration_s": 416,
+      "duration_text": "7 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 120470,
+      "distance_text": "120 km",
+      "duration_s": 6175,
+      "duration_text": "1 hour 43 mins"
+    }
+  }
+}

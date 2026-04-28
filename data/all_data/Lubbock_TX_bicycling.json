@@ -1,0 +1,126 @@
+{
+  "city": "Lubbock, TX",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 4093,
+      "distance_text": "4.1 km",
+      "duration_s": 798,
+      "duration_text": "13 mins"
+    },
+    "home|nature": {
+      "distance_m": 6999,
+      "distance_text": "7.0 km",
+      "duration_s": 1440,
+      "duration_text": "24 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 192402,
+      "distance_text": "192 km",
+      "duration_s": 35366,
+      "duration_text": "9 hours 49 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2116,
+      "distance_text": "2.1 km",
+      "duration_s": 425,
+      "duration_text": "7 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1866,
+      "distance_text": "1.9 km",
+      "duration_s": 353,
+      "duration_text": "6 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 4773,
+      "distance_text": "4.8 km",
+      "duration_s": 995,
+      "duration_text": "17 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 190177,
+      "distance_text": "190 km",
+      "duration_s": 34923,
+      "duration_text": "9 hours 42 mins"
+    },
+    "grocery|home": {
+      "distance_m": 4346,
+      "distance_text": "4.3 km",
+      "duration_s": 965,
+      "duration_text": "16 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 7709,
+      "distance_text": "7.7 km",
+      "duration_s": 1481,
+      "duration_text": "25 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 10615,
+      "distance_text": "10.6 km",
+      "duration_s": 2123,
+      "duration_text": "35 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 195495,
+      "distance_text": "195 km",
+      "duration_s": 35890,
+      "duration_text": "9 hours 58 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3614,
+      "distance_text": "3.6 km",
+      "duration_s": 718,
+      "duration_text": "12 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3794,
+      "distance_text": "3.8 km",
+      "duration_s": 719,
+      "duration_text": "12 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 6243,
+      "distance_text": "6.2 km",
+      "duration_s": 1183,
+      "duration_text": "20 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 189554,
+      "distance_text": "190 km",
+      "duration_s": 34760,
+      "duration_text": "9 hours 39 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3211,
+      "distance_text": "3.2 km",
+      "duration_s": 616,
+      "duration_text": "10 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2554,
+      "distance_text": "2.6 km",
+      "duration_s": 474,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5461,
+      "distance_text": "5.5 km",
+      "duration_s": 1117,
+      "duration_text": "19 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 189352,
+      "distance_text": "189 km",
+      "duration_s": 34858,
+      "duration_text": "9 hours 41 mins"
+    }
+  }
+}

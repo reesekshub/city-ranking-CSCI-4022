@@ -1,0 +1,126 @@
+{
+  "city": "Mesquite, NV",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 520,
+      "distance_text": "0.5 km",
+      "duration_s": 88,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 2776,
+      "distance_text": "2.8 km",
+      "duration_s": 710,
+      "duration_text": "12 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 77801,
+      "distance_text": "77.8 km",
+      "duration_s": 16902,
+      "duration_text": "4 hours 42 mins"
+    },
+    "local icon|home": {
+      "distance_m": 583,
+      "distance_text": "0.6 km",
+      "duration_s": 96,
+      "duration_text": "2 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 62,
+      "distance_text": "62 m",
+      "duration_s": 11,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 2192,
+      "distance_text": "2.2 km",
+      "duration_s": 604,
+      "duration_text": "10 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 77217,
+      "distance_text": "77.2 km",
+      "duration_s": 16796,
+      "duration_text": "4 hours 40 mins"
+    },
+    "grocery|home": {
+      "distance_m": 436,
+      "distance_text": "0.4 km",
+      "duration_s": 68,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 899,
+      "distance_text": "0.9 km",
+      "duration_s": 153,
+      "duration_text": "3 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 2279,
+      "distance_text": "2.3 km",
+      "duration_s": 616,
+      "duration_text": "10 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 77304,
+      "distance_text": "77.3 km",
+      "duration_s": 16809,
+      "duration_text": "4 hours 40 mins"
+    },
+    "hospital|home": {
+      "distance_m": 939,
+      "distance_text": "0.9 km",
+      "duration_s": 213,
+      "duration_text": "4 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 918,
+      "distance_text": "0.9 km",
+      "duration_s": 211,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3174,
+      "distance_text": "3.2 km",
+      "duration_s": 831,
+      "duration_text": "14 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 78199,
+      "distance_text": "78.2 km",
+      "duration_s": 17024,
+      "duration_text": "4 hours 44 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1114,
+      "distance_text": "1.1 km",
+      "duration_s": 212,
+      "duration_text": "4 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 601,
+      "distance_text": "0.6 km",
+      "duration_s": 127,
+      "duration_text": "2 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2184,
+      "distance_text": "2.2 km",
+      "duration_s": 646,
+      "duration_text": "11 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 77210,
+      "distance_text": "77.2 km",
+      "duration_s": 16838,
+      "duration_text": "4 hours 41 mins"
+    }
+  }
+}

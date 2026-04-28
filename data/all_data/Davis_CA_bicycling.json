@@ -1,0 +1,126 @@
+{
+  "city": "Davis, CA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1087,
+      "distance_text": "1.1 km",
+      "duration_s": 218,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 5028,
+      "distance_text": "5.0 km",
+      "duration_s": 927,
+      "duration_text": "15 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 26831,
+      "distance_text": "26.8 km",
+      "duration_s": 5409,
+      "duration_text": "1 hour 30 mins"
+    },
+    "local icon|home": {
+      "distance_m": 3442,
+      "distance_text": "3.4 km",
+      "duration_s": 740,
+      "duration_text": "12 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2994,
+      "distance_text": "3.0 km",
+      "duration_s": 573,
+      "duration_text": "10 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 2738,
+      "distance_text": "2.7 km",
+      "duration_s": 475,
+      "duration_text": "8 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 29288,
+      "distance_text": "29.3 km",
+      "duration_s": 5815,
+      "duration_text": "1 hour 37 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2892,
+      "distance_text": "2.9 km",
+      "duration_s": 526,
+      "duration_text": "9 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2629,
+      "distance_text": "2.6 km",
+      "duration_s": 564,
+      "duration_text": "9 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6317,
+      "distance_text": "6.3 km",
+      "duration_s": 1150,
+      "duration_text": "19 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 28856,
+      "distance_text": "28.9 km",
+      "duration_s": 5693,
+      "duration_text": "1 hour 35 mins"
+    },
+    "hospital|home": {
+      "distance_m": 5343,
+      "distance_text": "5.3 km",
+      "duration_s": 1014,
+      "duration_text": "17 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4950,
+      "distance_text": "5.0 km",
+      "duration_s": 968,
+      "duration_text": "16 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 6769,
+      "distance_text": "6.8 km",
+      "duration_s": 1269,
+      "duration_text": "21 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 31152,
+      "distance_text": "31.2 km",
+      "duration_s": 6202,
+      "duration_text": "1 hour 43 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3902,
+      "distance_text": "3.9 km",
+      "duration_s": 744,
+      "duration_text": "12 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2877,
+      "distance_text": "2.9 km",
+      "duration_s": 537,
+      "duration_text": "9 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2292,
+      "distance_text": "2.3 km",
+      "duration_s": 407,
+      "duration_text": "7 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 29171,
+      "distance_text": "29.2 km",
+      "duration_s": 5779,
+      "duration_text": "1 hour 36 mins"
+    }
+  }
+}

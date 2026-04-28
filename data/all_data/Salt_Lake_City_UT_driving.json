@@ -1,0 +1,126 @@
+{
+  "city": "Salt Lake City, UT",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 6771,
+      "distance_text": "6.8 km",
+      "duration_s": 841,
+      "duration_text": "14 mins"
+    },
+    "home|nature": {
+      "distance_m": 5137,
+      "distance_text": "5.1 km",
+      "duration_s": 719,
+      "duration_text": "12 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 17348,
+      "distance_text": "17.3 km",
+      "duration_s": 1131,
+      "duration_text": "19 mins"
+    },
+    "local icon|home": {
+      "distance_m": 8028,
+      "distance_text": "8.0 km",
+      "duration_s": 1041,
+      "duration_text": "17 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1696,
+      "distance_text": "1.7 km",
+      "duration_s": 348,
+      "duration_text": "6 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 5384,
+      "distance_text": "5.4 km",
+      "duration_s": 844,
+      "duration_text": "14 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 19496,
+      "distance_text": "19.5 km",
+      "duration_s": 1348,
+      "duration_text": "22 mins"
+    },
+    "grocery|home": {
+      "distance_m": 674,
+      "distance_text": "0.7 km",
+      "duration_s": 217,
+      "duration_text": "4 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 6574,
+      "distance_text": "6.6 km",
+      "duration_s": 792,
+      "duration_text": "13 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 4940,
+      "distance_text": "4.9 km",
+      "duration_s": 672,
+      "duration_text": "11 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 17637,
+      "distance_text": "17.6 km",
+      "duration_s": 1147,
+      "duration_text": "19 mins"
+    },
+    "hospital|home": {
+      "distance_m": 7042,
+      "distance_text": "7.0 km",
+      "duration_s": 968,
+      "duration_text": "16 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4312,
+      "distance_text": "4.3 km",
+      "duration_s": 614,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 5168,
+      "distance_text": "5.2 km",
+      "duration_s": 791,
+      "duration_text": "13 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 21746,
+      "distance_text": "21.7 km",
+      "duration_s": 1652,
+      "duration_text": "28 mins"
+    },
+    "stadium|home": {
+      "distance_m": 12684,
+      "distance_text": "12.7 km",
+      "duration_s": 929,
+      "duration_text": "15 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2100,
+      "distance_text": "2.1 km",
+      "duration_s": 391,
+      "duration_text": "7 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5723,
+      "distance_text": "5.7 km",
+      "duration_s": 920,
+      "duration_text": "15 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 18828,
+      "distance_text": "18.8 km",
+      "duration_s": 1243,
+      "duration_text": "21 mins"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "city": "Rolla, MO",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 389,
+      "distance_text": "0.4 km",
+      "duration_s": 73,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 46287,
+      "distance_text": "46.3 km",
+      "duration_s": 2247,
+      "duration_text": "37 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 100384,
+      "distance_text": "100 km",
+      "duration_s": 4139,
+      "duration_text": "1 hour 9 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1029,
+      "distance_text": "1.0 km",
+      "duration_s": 208,
+      "duration_text": "3 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 729,
+      "distance_text": "0.7 km",
+      "duration_s": 167,
+      "duration_text": "3 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 47086,
+      "distance_text": "47.1 km",
+      "duration_s": 2365,
+      "duration_text": "39 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 100700,
+      "distance_text": "101 km",
+      "duration_s": 4192,
+      "duration_text": "1 hour 10 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1702,
+      "distance_text": "1.7 km",
+      "duration_s": 275,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1381,
+      "distance_text": "1.4 km",
+      "duration_s": 228,
+      "duration_text": "4 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 47828,
+      "distance_text": "47.8 km",
+      "duration_s": 2411,
+      "duration_text": "40 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 100612,
+      "distance_text": "101 km",
+      "duration_s": 4092,
+      "duration_text": "1 hour 8 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1606,
+      "distance_text": "1.6 km",
+      "duration_s": 254,
+      "duration_text": "4 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2083,
+      "distance_text": "2.1 km",
+      "duration_s": 321,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 46516,
+      "distance_text": "46.5 km",
+      "duration_s": 2237,
+      "duration_text": "37 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 103104,
+      "distance_text": "103 km",
+      "duration_s": 4181,
+      "duration_text": "1 hour 10 mins"
+    },
+    "stadium|home": {
+      "distance_m": 568,
+      "distance_text": "0.6 km",
+      "duration_s": 99,
+      "duration_text": "2 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 268,
+      "distance_text": "0.3 km",
+      "duration_s": 68,
+      "duration_text": "1 min"
+    },
+    "stadium|nature": {
+      "distance_m": 46660,
+      "distance_text": "46.7 km",
+      "duration_s": 2271,
+      "duration_text": "38 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 100263,
+      "distance_text": "100 km",
+      "duration_s": 4134,
+      "duration_text": "1 hour 9 mins"
+    }
+  }
+}

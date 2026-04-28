@@ -1,0 +1,126 @@
+{
+  "city": "Worcester, MA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3195,
+      "distance_text": "3.2 km",
+      "duration_s": 463,
+      "duration_text": "8 mins"
+    },
+    "home|nature": {
+      "distance_m": 1887,
+      "distance_text": "1.9 km",
+      "duration_s": 254,
+      "duration_text": "4 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 47237,
+      "distance_text": "47.2 km",
+      "duration_s": 2485,
+      "duration_text": "41 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4152,
+      "distance_text": "4.2 km",
+      "duration_s": 542,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1303,
+      "distance_text": "1.3 km",
+      "duration_s": 260,
+      "duration_text": "4 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3245,
+      "distance_text": "3.2 km",
+      "duration_s": 437,
+      "duration_text": "7 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 43778,
+      "distance_text": "43.8 km",
+      "duration_s": 2079,
+      "duration_text": "35 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2100,
+      "distance_text": "2.1 km",
+      "duration_s": 288,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2862,
+      "distance_text": "2.9 km",
+      "duration_s": 474,
+      "duration_text": "8 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 2371,
+      "distance_text": "2.4 km",
+      "duration_s": 291,
+      "duration_text": "5 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 45204,
+      "distance_text": "45.2 km",
+      "duration_s": 2406,
+      "duration_text": "40 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3495,
+      "distance_text": "3.5 km",
+      "duration_s": 443,
+      "duration_text": "7 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2971,
+      "distance_text": "3.0 km",
+      "duration_s": 482,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2140,
+      "distance_text": "2.1 km",
+      "duration_s": 277,
+      "duration_text": "5 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 45563,
+      "distance_text": "45.6 km",
+      "duration_s": 2356,
+      "duration_text": "39 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3597,
+      "distance_text": "3.6 km",
+      "duration_s": 538,
+      "duration_text": "9 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 600,
+      "distance_text": "0.6 km",
+      "duration_s": 146,
+      "duration_text": "2 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2718,
+      "distance_text": "2.7 km",
+      "duration_s": 432,
+      "duration_text": "7 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 44142,
+      "distance_text": "44.1 km",
+      "duration_s": 2150,
+      "duration_text": "36 mins"
+    }
+  }
+}

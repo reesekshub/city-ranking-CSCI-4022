@@ -1,0 +1,126 @@
+{
+  "city": "Fayetteville, AR",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2501,
+      "distance_text": "2.5 km",
+      "duration_s": 397,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 10259,
+      "distance_text": "10.3 km",
+      "duration_s": 756,
+      "duration_text": "13 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 20056,
+      "distance_text": "20.1 km",
+      "duration_s": 1224,
+      "duration_text": "20 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2045,
+      "distance_text": "2.0 km",
+      "duration_s": 387,
+      "duration_text": "6 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 3395,
+      "distance_text": "3.4 km",
+      "duration_s": 397,
+      "duration_text": "7 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 10672,
+      "distance_text": "10.7 km",
+      "duration_s": 810,
+      "duration_text": "14 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 20469,
+      "distance_text": "20.5 km",
+      "duration_s": 1278,
+      "duration_text": "21 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3137,
+      "distance_text": "3.1 km",
+      "duration_s": 511,
+      "duration_text": "9 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1617,
+      "distance_text": "1.6 km",
+      "duration_s": 212,
+      "duration_text": "4 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 7659,
+      "distance_text": "7.7 km",
+      "duration_s": 696,
+      "duration_text": "12 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 14044,
+      "distance_text": "14.0 km",
+      "duration_s": 1247,
+      "duration_text": "21 mins"
+    },
+    "hospital|home": {
+      "distance_m": 7143,
+      "distance_text": "7.1 km",
+      "duration_s": 949,
+      "duration_text": "16 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 7731,
+      "distance_text": "7.7 km",
+      "duration_s": 866,
+      "duration_text": "14 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 7460,
+      "distance_text": "7.5 km",
+      "duration_s": 639,
+      "duration_text": "11 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 17256,
+      "distance_text": "17.3 km",
+      "duration_s": 1107,
+      "duration_text": "18 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2284,
+      "distance_text": "2.3 km",
+      "duration_s": 460,
+      "duration_text": "8 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3633,
+      "distance_text": "3.6 km",
+      "duration_s": 470,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 10883,
+      "distance_text": "10.9 km",
+      "duration_s": 880,
+      "duration_text": "15 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 20680,
+      "distance_text": "20.7 km",
+      "duration_s": 1348,
+      "duration_text": "22 mins"
+    }
+  }
+}

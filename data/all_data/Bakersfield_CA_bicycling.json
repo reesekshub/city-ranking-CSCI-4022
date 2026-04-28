@@ -1,0 +1,126 @@
+{
+  "city": "Bakersfield, CA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 10655,
+      "distance_text": "10.7 km",
+      "duration_s": 2060,
+      "duration_text": "34 mins"
+    },
+    "home|nature": {
+      "distance_m": 23728,
+      "distance_text": "23.7 km",
+      "duration_s": 4917,
+      "duration_text": "1 hour 22 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 63119,
+      "distance_text": "63.1 km",
+      "duration_s": 11654,
+      "duration_text": "3 hours 14 mins"
+    },
+    "local icon|home": {
+      "distance_m": 10433,
+      "distance_text": "10.4 km",
+      "duration_s": 1982,
+      "duration_text": "33 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 698,
+      "distance_text": "0.7 km",
+      "duration_s": 175,
+      "duration_text": "3 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 13458,
+      "distance_text": "13.5 km",
+      "duration_s": 3036,
+      "duration_text": "51 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 62771,
+      "distance_text": "62.8 km",
+      "duration_s": 11450,
+      "duration_text": "3 hours 11 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1278,
+      "distance_text": "1.3 km",
+      "duration_s": 241,
+      "duration_text": "4 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 9360,
+      "distance_text": "9.4 km",
+      "duration_s": 1802,
+      "duration_text": "30 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 22433,
+      "distance_text": "22.4 km",
+      "duration_s": 4659,
+      "duration_text": "1 hour 18 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 62067,
+      "distance_text": "62.1 km",
+      "duration_s": 11440,
+      "duration_text": "3 hours 11 mins"
+    },
+    "hospital|home": {
+      "distance_m": 13496,
+      "distance_text": "13.5 km",
+      "duration_s": 2530,
+      "duration_text": "42 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3406,
+      "distance_text": "3.4 km",
+      "duration_s": 689,
+      "duration_text": "11 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 12126,
+      "distance_text": "12.1 km",
+      "duration_s": 2803,
+      "duration_text": "47 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 65755,
+      "distance_text": "65.8 km",
+      "duration_s": 11922,
+      "duration_text": "3 hours 19 mins"
+    },
+    "stadium|home": {
+      "distance_m": 10802,
+      "distance_text": "10.8 km",
+      "duration_s": 2037,
+      "duration_text": "34 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 174,
+      "distance_text": "0.2 km",
+      "duration_s": 51,
+      "duration_text": "1 min"
+    },
+    "stadium|nature": {
+      "distance_m": 14035,
+      "distance_text": "14.0 km",
+      "duration_s": 3157,
+      "duration_text": "53 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 63138,
+      "distance_text": "63.1 km",
+      "duration_s": 11509,
+      "duration_text": "3 hours 12 mins"
+    }
+  }
+}

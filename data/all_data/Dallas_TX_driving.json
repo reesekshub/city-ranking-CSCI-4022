@@ -1,0 +1,126 @@
+{
+  "city": "Dallas, TX",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 7808,
+      "distance_text": "7.8 km",
+      "duration_s": 728,
+      "duration_text": "12 mins"
+    },
+    "home|nature": {
+      "distance_m": 4192,
+      "distance_text": "4.2 km",
+      "duration_s": 501,
+      "duration_text": "8 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 27028,
+      "distance_text": "27.0 km",
+      "duration_s": 1452,
+      "duration_text": "24 mins"
+    },
+    "local icon|home": {
+      "distance_m": 11007,
+      "distance_text": "11.0 km",
+      "duration_s": 930,
+      "duration_text": "16 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1959,
+      "distance_text": "2.0 km",
+      "duration_s": 414,
+      "duration_text": "7 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 14053,
+      "distance_text": "14.1 km",
+      "duration_s": 1139,
+      "duration_text": "19 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 32263,
+      "distance_text": "32.3 km",
+      "duration_s": 1659,
+      "duration_text": "28 mins"
+    },
+    "grocery|home": {
+      "distance_m": 632,
+      "distance_text": "0.6 km",
+      "duration_s": 95,
+      "duration_text": "2 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 8377,
+      "distance_text": "8.4 km",
+      "duration_s": 765,
+      "duration_text": "13 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 3773,
+      "distance_text": "3.8 km",
+      "duration_s": 456,
+      "duration_text": "8 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 26849,
+      "distance_text": "26.8 km",
+      "duration_s": 1424,
+      "duration_text": "24 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4391,
+      "distance_text": "4.4 km",
+      "duration_s": 593,
+      "duration_text": "10 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3368,
+      "distance_text": "3.4 km",
+      "duration_s": 606,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 8064,
+      "distance_text": "8.1 km",
+      "duration_s": 922,
+      "duration_text": "15 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 30834,
+      "distance_text": "30.8 km",
+      "duration_s": 1623,
+      "duration_text": "27 mins"
+    },
+    "stadium|home": {
+      "distance_m": 7482,
+      "distance_text": "7.5 km",
+      "duration_s": 910,
+      "duration_text": "15 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2594,
+      "distance_text": "2.6 km",
+      "duration_s": 518,
+      "duration_text": "9 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 14090,
+      "distance_text": "14.1 km",
+      "duration_s": 1206,
+      "duration_text": "20 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 30655,
+      "distance_text": "30.7 km",
+      "duration_s": 1552,
+      "duration_text": "26 mins"
+    }
+  }
+}

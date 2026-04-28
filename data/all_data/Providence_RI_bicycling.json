@@ -1,0 +1,126 @@
+{
+  "city": "Providence, RI",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1180,
+      "distance_text": "1.2 km",
+      "duration_s": 334,
+      "duration_text": "6 mins"
+    },
+    "home|nature": {
+      "distance_m": 4729,
+      "distance_text": "4.7 km",
+      "duration_s": 973,
+      "duration_text": "16 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 5629,
+      "distance_text": "5.6 km",
+      "duration_s": 1081,
+      "duration_text": "18 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1529,
+      "distance_text": "1.5 km",
+      "duration_s": 521,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 349,
+      "distance_text": "0.3 km",
+      "duration_s": 95,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 5158,
+      "distance_text": "5.2 km",
+      "duration_s": 1130,
+      "duration_text": "19 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 6922,
+      "distance_text": "6.9 km",
+      "duration_s": 1523,
+      "duration_text": "25 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2306,
+      "distance_text": "2.3 km",
+      "duration_s": 848,
+      "duration_text": "14 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1127,
+      "distance_text": "1.1 km",
+      "duration_s": 422,
+      "duration_text": "7 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5878,
+      "distance_text": "5.9 km",
+      "duration_s": 1464,
+      "duration_text": "24 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 7699,
+      "distance_text": "7.7 km",
+      "duration_s": 1850,
+      "duration_text": "31 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2490,
+      "distance_text": "2.5 km",
+      "duration_s": 679,
+      "duration_text": "11 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2354,
+      "distance_text": "2.4 km",
+      "duration_s": 572,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 4092,
+      "distance_text": "4.1 km",
+      "duration_s": 837,
+      "duration_text": "14 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 5545,
+      "distance_text": "5.5 km",
+      "duration_s": 1247,
+      "duration_text": "21 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1109,
+      "distance_text": "1.1 km",
+      "duration_s": 405,
+      "duration_text": "7 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 106,
+      "distance_text": "0.1 km",
+      "duration_s": 18,
+      "duration_text": "1 min"
+    },
+    "stadium|nature": {
+      "distance_m": 5381,
+      "distance_text": "5.4 km",
+      "duration_s": 1171,
+      "duration_text": "20 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 6502,
+      "distance_text": "6.5 km",
+      "duration_s": 1407,
+      "duration_text": "23 mins"
+    }
+  }
+}

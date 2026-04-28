@@ -1,0 +1,126 @@
+{
+  "city": "Westchester, NY",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2775,
+      "distance_text": "2.8 km",
+      "duration_s": 465,
+      "duration_text": "8 mins"
+    },
+    "home|nature": {
+      "distance_m": 4045,
+      "distance_text": "4.0 km",
+      "duration_s": 613,
+      "duration_text": "10 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 20513,
+      "distance_text": "20.5 km",
+      "duration_s": 1340,
+      "duration_text": "22 mins"
+    },
+    "local icon|home": {
+      "distance_m": 7658,
+      "distance_text": "7.7 km",
+      "duration_s": 777,
+      "duration_text": "13 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 4869,
+      "distance_text": "4.9 km",
+      "duration_s": 576,
+      "duration_text": "10 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 5787,
+      "distance_text": "5.8 km",
+      "duration_s": 618,
+      "duration_text": "10 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 26069,
+      "distance_text": "26.1 km",
+      "duration_s": 1596,
+      "duration_text": "27 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3253,
+      "distance_text": "3.3 km",
+      "duration_s": 554,
+      "duration_text": "9 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1160,
+      "distance_text": "1.2 km",
+      "duration_s": 221,
+      "duration_text": "4 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 2313,
+      "distance_text": "2.3 km",
+      "duration_s": 428,
+      "duration_text": "7 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 24928,
+      "distance_text": "24.9 km",
+      "duration_s": 1528,
+      "duration_text": "25 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2625,
+      "distance_text": "2.6 km",
+      "duration_s": 382,
+      "duration_text": "6 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 40,
+      "distance_text": "40 m",
+      "duration_s": 10,
+      "duration_text": "1 min"
+    },
+    "hospital|nature": {
+      "distance_m": 2595,
+      "distance_text": "2.6 km",
+      "duration_s": 414,
+      "duration_text": "7 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 24941,
+      "distance_text": "24.9 km",
+      "duration_s": 1514,
+      "duration_text": "25 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3139,
+      "distance_text": "3.1 km",
+      "duration_s": 509,
+      "duration_text": "8 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 957,
+      "distance_text": "1.0 km",
+      "duration_s": 188,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2199,
+      "distance_text": "2.2 km",
+      "duration_s": 377,
+      "duration_text": "6 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 24888,
+      "distance_text": "24.9 km",
+      "duration_s": 1501,
+      "duration_text": "25 mins"
+    }
+  }
+}

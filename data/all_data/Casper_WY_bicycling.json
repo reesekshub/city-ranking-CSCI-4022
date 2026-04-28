@@ -1,0 +1,126 @@
+{
+  "city": "Casper, WY",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3312,
+      "distance_text": "3.3 km",
+      "duration_s": 693,
+      "duration_text": "12 mins"
+    },
+    "home|nature": {
+      "distance_m": 7998,
+      "distance_text": "8.0 km",
+      "duration_s": 1974,
+      "duration_text": "33 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 205571,
+      "distance_text": "206 km",
+      "duration_s": 36502,
+      "duration_text": "10 hours 8 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4373,
+      "distance_text": "4.4 km",
+      "duration_s": 939,
+      "duration_text": "16 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 5285,
+      "distance_text": "5.3 km",
+      "duration_s": 1019,
+      "duration_text": "17 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 7412,
+      "distance_text": "7.4 km",
+      "duration_s": 1895,
+      "duration_text": "32 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 204809,
+      "distance_text": "205 km",
+      "duration_s": 36366,
+      "duration_text": "10 hours 6 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1783,
+      "distance_text": "1.8 km",
+      "duration_s": 290,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 4945,
+      "distance_text": "4.9 km",
+      "duration_s": 971,
+      "duration_text": "16 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6018,
+      "distance_text": "6.0 km",
+      "duration_s": 1483,
+      "duration_text": "25 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 205326,
+      "distance_text": "205 km",
+      "duration_s": 36451,
+      "duration_text": "10 hours 8 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1932,
+      "distance_text": "1.9 km",
+      "duration_s": 490,
+      "duration_text": "8 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4618,
+      "distance_text": "4.6 km",
+      "duration_s": 893,
+      "duration_text": "15 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 6684,
+      "distance_text": "6.7 km",
+      "duration_s": 1787,
+      "duration_text": "30 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 204142,
+      "distance_text": "204 km",
+      "duration_s": 36239,
+      "duration_text": "10 hours 4 mins"
+    },
+    "stadium|home": {
+      "distance_m": 7566,
+      "distance_text": "7.6 km",
+      "duration_s": 1484,
+      "duration_text": "25 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3129,
+      "distance_text": "3.1 km",
+      "duration_s": 582,
+      "duration_text": "10 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 10605,
+      "distance_text": "10.6 km",
+      "duration_s": 2440,
+      "duration_text": "41 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 199820,
+      "distance_text": "200 km",
+      "duration_s": 35127,
+      "duration_text": "9 hours 45 mins"
+    }
+  }
+}

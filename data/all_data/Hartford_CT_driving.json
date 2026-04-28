@@ -1,0 +1,126 @@
+{
+  "city": "Hartford, CT",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3699,
+      "distance_text": "3.7 km",
+      "duration_s": 432,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 890,
+      "distance_text": "0.9 km",
+      "duration_s": 155,
+      "duration_text": "3 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 3830,
+      "distance_text": "3.8 km",
+      "duration_s": 492,
+      "duration_text": "8 mins"
+    },
+    "local icon|home": {
+      "distance_m": 3961,
+      "distance_text": "4.0 km",
+      "duration_s": 389,
+      "duration_text": "6 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 302,
+      "distance_text": "0.3 km",
+      "duration_s": 52,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 3934,
+      "distance_text": "3.9 km",
+      "duration_s": 379,
+      "duration_text": "6 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 7805,
+      "distance_text": "7.8 km",
+      "duration_s": 525,
+      "duration_text": "9 mins"
+    },
+    "grocery|home": {
+      "distance_m": 544,
+      "distance_text": "0.5 km",
+      "duration_s": 99,
+      "duration_text": "2 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3584,
+      "distance_text": "3.6 km",
+      "duration_s": 389,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 581,
+      "distance_text": "0.6 km",
+      "duration_s": 87,
+      "duration_text": "1 min"
+    },
+    "grocery|nearby city": {
+      "distance_m": 2976,
+      "distance_text": "3.0 km",
+      "duration_s": 409,
+      "duration_text": "7 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4923,
+      "distance_text": "4.9 km",
+      "duration_s": 617,
+      "duration_text": "10 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1265,
+      "distance_text": "1.3 km",
+      "duration_s": 280,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 4896,
+      "distance_text": "4.9 km",
+      "duration_s": 607,
+      "duration_text": "10 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 8767,
+      "distance_text": "8.8 km",
+      "duration_s": 753,
+      "duration_text": "13 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4012,
+      "distance_text": "4.0 km",
+      "duration_s": 461,
+      "duration_text": "8 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1417,
+      "distance_text": "1.4 km",
+      "duration_s": 206,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 3985,
+      "distance_text": "4.0 km",
+      "duration_s": 450,
+      "duration_text": "8 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 7856,
+      "distance_text": "7.9 km",
+      "duration_s": 596,
+      "duration_text": "10 mins"
+    }
+  }
+}

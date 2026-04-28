@@ -1,0 +1,126 @@
+{
+  "city": "Kenosha, WI",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 7993,
+      "distance_text": "8.0 km",
+      "duration_s": 1648,
+      "duration_text": "27 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 20360,
+      "distance_text": "20.4 km",
+      "duration_s": 4019,
+      "duration_text": "1 hour 7 mins"
+    },
+    "local icon|home": {
+      "distance_m": 464,
+      "distance_text": "0.5 km",
+      "duration_s": 86,
+      "duration_text": "1 min"
+    },
+    "local icon|downtown": {
+      "distance_m": 464,
+      "distance_text": "0.5 km",
+      "duration_s": 86,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 7704,
+      "distance_text": "7.7 km",
+      "duration_s": 1577,
+      "duration_text": "26 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 20067,
+      "distance_text": "20.1 km",
+      "duration_s": 3944,
+      "duration_text": "1 hour 6 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3210,
+      "distance_text": "3.2 km",
+      "duration_s": 611,
+      "duration_text": "10 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3210,
+      "distance_text": "3.2 km",
+      "duration_s": 611,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5109,
+      "distance_text": "5.1 km",
+      "duration_s": 1068,
+      "duration_text": "18 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 19593,
+      "distance_text": "19.6 km",
+      "duration_s": 3917,
+      "duration_text": "1 hour 5 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3021,
+      "distance_text": "3.0 km",
+      "duration_s": 571,
+      "duration_text": "10 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3021,
+      "distance_text": "3.0 km",
+      "duration_s": 571,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 5014,
+      "distance_text": "5.0 km",
+      "duration_s": 1066,
+      "duration_text": "18 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 19114,
+      "distance_text": "19.1 km",
+      "duration_s": 3832,
+      "duration_text": "1 hour 4 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3690,
+      "distance_text": "3.7 km",
+      "duration_s": 733,
+      "duration_text": "12 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3690,
+      "distance_text": "3.7 km",
+      "duration_s": 733,
+      "duration_text": "12 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 4088,
+      "distance_text": "4.1 km",
+      "duration_s": 880,
+      "duration_text": "15 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 17221,
+      "distance_text": "17.2 km",
+      "duration_s": 3466,
+      "duration_text": "58 mins"
+    }
+  }
+}

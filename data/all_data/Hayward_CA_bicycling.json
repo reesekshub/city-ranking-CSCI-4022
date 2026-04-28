@@ -1,0 +1,126 @@
+{
+  "city": "Hayward, CA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 915,
+      "distance_text": "0.9 km",
+      "duration_s": 229,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 14067,
+      "distance_text": "14.1 km",
+      "duration_s": 4556,
+      "duration_text": "1 hour 16 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 21385,
+      "distance_text": "21.4 km",
+      "duration_s": 4234,
+      "duration_text": "1 hour 11 mins"
+    },
+    "local icon|home": {
+      "distance_m": 939,
+      "distance_text": "0.9 km",
+      "duration_s": 327,
+      "duration_text": "5 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 382,
+      "distance_text": "0.4 km",
+      "duration_s": 109,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 13189,
+      "distance_text": "13.2 km",
+      "duration_s": 4365,
+      "duration_text": "1 hour 13 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 20507,
+      "distance_text": "20.5 km",
+      "duration_s": 4042,
+      "duration_text": "1 hour 7 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2284,
+      "distance_text": "2.3 km",
+      "duration_s": 592,
+      "duration_text": "10 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1608,
+      "distance_text": "1.6 km",
+      "duration_s": 353,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 12559,
+      "distance_text": "12.6 km",
+      "duration_s": 4185,
+      "duration_text": "1 hour 10 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 19878,
+      "distance_text": "19.9 km",
+      "duration_s": 3863,
+      "duration_text": "1 hour 4 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2665,
+      "distance_text": "2.7 km",
+      "duration_s": 661,
+      "duration_text": "11 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1989,
+      "distance_text": "2.0 km",
+      "duration_s": 422,
+      "duration_text": "7 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 13475,
+      "distance_text": "13.5 km",
+      "duration_s": 4351,
+      "duration_text": "1 hour 13 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 20793,
+      "distance_text": "20.8 km",
+      "duration_s": 4029,
+      "duration_text": "1 hour 7 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4420,
+      "distance_text": "4.4 km",
+      "duration_s": 947,
+      "duration_text": "16 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 4520,
+      "distance_text": "4.5 km",
+      "duration_s": 1017,
+      "duration_text": "17 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 10053,
+      "distance_text": "10.1 km",
+      "duration_s": 3892,
+      "duration_text": "1 hour 5 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 19638,
+      "distance_text": "19.6 km",
+      "duration_s": 3871,
+      "duration_text": "1 hour 5 mins"
+    }
+  }
+}

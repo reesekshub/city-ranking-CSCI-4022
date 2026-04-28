@@ -1,0 +1,126 @@
+{
+  "city": "Chattanooga, TN",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2199,
+      "distance_text": "2.2 km",
+      "duration_s": 597,
+      "duration_text": "10 mins"
+    },
+    "home|nature": {
+      "distance_m": 15477,
+      "distance_text": "15.5 km",
+      "duration_s": 4678,
+      "duration_text": "1 hour 18 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 61238,
+      "distance_text": "61.2 km",
+      "duration_s": 12763,
+      "duration_text": "3 hours 33 mins"
+    },
+    "local icon|home": {
+      "distance_m": 894,
+      "distance_text": "0.9 km",
+      "duration_s": 231,
+      "duration_text": "4 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1305,
+      "distance_text": "1.3 km",
+      "duration_s": 336,
+      "duration_text": "6 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 14583,
+      "distance_text": "14.6 km",
+      "duration_s": 4416,
+      "duration_text": "1 hour 14 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 60143,
+      "distance_text": "60.1 km",
+      "duration_s": 12484,
+      "duration_text": "3 hours 28 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1204,
+      "distance_text": "1.2 km",
+      "duration_s": 255,
+      "duration_text": "4 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3165,
+      "distance_text": "3.2 km",
+      "duration_s": 745,
+      "duration_text": "12 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 16442,
+      "distance_text": "16.4 km",
+      "duration_s": 4825,
+      "duration_text": "1 hour 20 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 62206,
+      "distance_text": "62.2 km",
+      "duration_s": 12871,
+      "duration_text": "3 hours 35 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3192,
+      "distance_text": "3.2 km",
+      "duration_s": 684,
+      "duration_text": "11 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1746,
+      "distance_text": "1.7 km",
+      "duration_s": 465,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 14280,
+      "distance_text": "14.3 km",
+      "duration_s": 4475,
+      "duration_text": "1 hour 15 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 59843,
+      "distance_text": "59.8 km",
+      "duration_s": 12320,
+      "duration_text": "3 hours 25 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3646,
+      "distance_text": "3.6 km",
+      "duration_s": 924,
+      "duration_text": "15 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1616,
+      "distance_text": "1.6 km",
+      "duration_s": 416,
+      "duration_text": "7 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 12037,
+      "distance_text": "12.0 km",
+      "duration_s": 3835,
+      "duration_text": "1 hour 4 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 54693,
+      "distance_text": "54.7 km",
+      "duration_s": 11637,
+      "duration_text": "3 hours 14 mins"
+    }
+  }
+}

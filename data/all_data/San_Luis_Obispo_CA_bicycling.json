@@ -1,0 +1,126 @@
+{
+  "city": "San Luis Obispo, CA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 699,
+      "distance_text": "0.7 km",
+      "duration_s": 234,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 4133,
+      "distance_text": "4.1 km",
+      "duration_s": 962,
+      "duration_text": "16 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 32327,
+      "distance_text": "32.3 km",
+      "duration_s": 7555,
+      "duration_text": "2 hours 6 mins"
+    },
+    "local icon|home": {
+      "distance_m": 229,
+      "distance_text": "0.2 km",
+      "duration_s": 37,
+      "duration_text": "1 min"
+    },
+    "local icon|downtown": {
+      "distance_m": 522,
+      "distance_text": "0.5 km",
+      "duration_s": 179,
+      "duration_text": "3 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3923,
+      "distance_text": "3.9 km",
+      "duration_s": 942,
+      "duration_text": "16 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 32151,
+      "distance_text": "32.2 km",
+      "duration_s": 7500,
+      "duration_text": "2 hours 5 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3475,
+      "distance_text": "3.5 km",
+      "duration_s": 862,
+      "duration_text": "14 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3999,
+      "distance_text": "4.0 km",
+      "duration_s": 1025,
+      "duration_text": "17 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 7399,
+      "distance_text": "7.4 km",
+      "duration_s": 1788,
+      "duration_text": "30 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 35627,
+      "distance_text": "35.6 km",
+      "duration_s": 8346,
+      "duration_text": "2 hours 19 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4472,
+      "distance_text": "4.5 km",
+      "duration_s": 1083,
+      "duration_text": "18 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4995,
+      "distance_text": "5.0 km",
+      "duration_s": 1246,
+      "duration_text": "21 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 8396,
+      "distance_text": "8.4 km",
+      "duration_s": 2009,
+      "duration_text": "33 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 36624,
+      "distance_text": "36.6 km",
+      "duration_s": 8567,
+      "duration_text": "2 hours 23 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3630,
+      "distance_text": "3.6 km",
+      "duration_s": 698,
+      "duration_text": "12 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2987,
+      "distance_text": "3.0 km",
+      "duration_s": 593,
+      "duration_text": "10 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 1737,
+      "distance_text": "1.7 km",
+      "duration_s": 343,
+      "duration_text": "6 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 32551,
+      "distance_text": "32.6 km",
+      "duration_s": 7516,
+      "duration_text": "2 hours 5 mins"
+    }
+  }
+}

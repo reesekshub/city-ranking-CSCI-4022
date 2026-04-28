@@ -1,0 +1,126 @@
+{
+  "city": "Salina, KS",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 43,
+      "distance_text": "43 m",
+      "duration_s": 8,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 2304,
+      "distance_text": "2.3 km",
+      "duration_s": 433,
+      "duration_text": "7 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 115415,
+      "distance_text": "115 km",
+      "duration_s": 21149,
+      "duration_text": "5 hours 52 mins"
+    },
+    "local icon|home": {
+      "distance_m": 43,
+      "distance_text": "43 m",
+      "duration_s": 8,
+      "duration_text": "1 min"
+    },
+    "local icon|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 2261,
+      "distance_text": "2.3 km",
+      "duration_s": 426,
+      "duration_text": "7 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 115372,
+      "distance_text": "115 km",
+      "duration_s": 21141,
+      "duration_text": "5 hours 52 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2474,
+      "distance_text": "2.5 km",
+      "duration_s": 513,
+      "duration_text": "9 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2504,
+      "distance_text": "2.5 km",
+      "duration_s": 519,
+      "duration_text": "9 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 4765,
+      "distance_text": "4.8 km",
+      "duration_s": 940,
+      "duration_text": "16 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 117875,
+      "distance_text": "118 km",
+      "duration_s": 21657,
+      "duration_text": "6 hours 1 min"
+    },
+    "hospital|home": {
+      "distance_m": 1905,
+      "distance_text": "1.9 km",
+      "duration_s": 335,
+      "duration_text": "6 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1862,
+      "distance_text": "1.9 km",
+      "duration_s": 327,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 1162,
+      "distance_text": "1.2 km",
+      "duration_s": 250,
+      "duration_text": "4 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 115304,
+      "distance_text": "115 km",
+      "duration_s": 21093,
+      "duration_text": "5 hours 52 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1776,
+      "distance_text": "1.8 km",
+      "duration_s": 316,
+      "duration_text": "5 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1806,
+      "distance_text": "1.8 km",
+      "duration_s": 321,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 1854,
+      "distance_text": "1.9 km",
+      "duration_s": 353,
+      "duration_text": "6 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 114968,
+      "distance_text": "115 km",
+      "duration_s": 21073,
+      "duration_text": "5 hours 51 mins"
+    }
+  }
+}

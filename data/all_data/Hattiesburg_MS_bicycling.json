@@ -1,0 +1,126 @@
+{
+  "city": "Hattiesburg, MS",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 839,
+      "distance_text": "0.8 km",
+      "duration_s": 263,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 39194,
+      "distance_text": "39.2 km",
+      "duration_s": 7559,
+      "duration_text": "2 hours 6 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 131577,
+      "distance_text": "132 km",
+      "duration_s": 24066,
+      "duration_text": "6 hours 41 mins"
+    },
+    "local icon|home": {
+      "distance_m": 5908,
+      "distance_text": "5.9 km",
+      "duration_s": 1151,
+      "duration_text": "19 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 5470,
+      "distance_text": "5.5 km",
+      "duration_s": 1001,
+      "duration_text": "17 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 42496,
+      "distance_text": "42.5 km",
+      "duration_s": 8205,
+      "duration_text": "2 hours 17 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 134880,
+      "distance_text": "135 km",
+      "duration_s": 24712,
+      "duration_text": "6 hours 52 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1633,
+      "distance_text": "1.6 km",
+      "duration_s": 362,
+      "duration_text": "6 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1135,
+      "distance_text": "1.1 km",
+      "duration_s": 298,
+      "duration_text": "5 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 42128,
+      "distance_text": "42.1 km",
+      "duration_s": 8141,
+      "duration_text": "2 hours 16 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 134511,
+      "distance_text": "135 km",
+      "duration_s": 24648,
+      "duration_text": "6 hours 51 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3220,
+      "distance_text": "3.2 km",
+      "duration_s": 604,
+      "duration_text": "10 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3559,
+      "distance_text": "3.6 km",
+      "duration_s": 714,
+      "duration_text": "12 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 41332,
+      "distance_text": "41.3 km",
+      "duration_s": 7956,
+      "duration_text": "2 hours 13 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 133716,
+      "distance_text": "134 km",
+      "duration_s": 24463,
+      "duration_text": "6 hours 48 mins"
+    },
+    "stadium|home": {
+      "distance_m": 6630,
+      "distance_text": "6.6 km",
+      "duration_s": 1279,
+      "duration_text": "21 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 6191,
+      "distance_text": "6.2 km",
+      "duration_s": 1129,
+      "duration_text": "19 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 42986,
+      "distance_text": "43.0 km",
+      "duration_s": 8390,
+      "duration_text": "2 hours 20 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 135370,
+      "distance_text": "135 km",
+      "duration_s": 24897,
+      "duration_text": "6 hours 55 mins"
+    }
+  }
+}

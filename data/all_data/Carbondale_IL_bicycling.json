@@ -1,0 +1,126 @@
+{
+  "city": "Carbondale, IL",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 381,
+      "distance_text": "0.4 km",
+      "duration_s": 91,
+      "duration_text": "2 mins"
+    },
+    "home|nature": {
+      "distance_m": 17782,
+      "distance_text": "17.8 km",
+      "duration_s": 3812,
+      "duration_text": "1 hour 4 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 73656,
+      "distance_text": "73.7 km",
+      "duration_s": 13835,
+      "duration_text": "3 hours 51 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2560,
+      "distance_text": "2.6 km",
+      "duration_s": 541,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2446,
+      "distance_text": "2.4 km",
+      "duration_s": 501,
+      "duration_text": "8 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 16334,
+      "distance_text": "16.3 km",
+      "duration_s": 3561,
+      "duration_text": "59 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 71685,
+      "distance_text": "71.7 km",
+      "duration_s": 13413,
+      "duration_text": "3 hours 44 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1445,
+      "distance_text": "1.4 km",
+      "duration_s": 362,
+      "duration_text": "6 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2199,
+      "distance_text": "2.2 km",
+      "duration_s": 513,
+      "duration_text": "9 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 18167,
+      "distance_text": "18.2 km",
+      "duration_s": 3949,
+      "duration_text": "1 hour 6 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 73517,
+      "distance_text": "73.5 km",
+      "duration_s": 13801,
+      "duration_text": "3 hours 50 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1681,
+      "distance_text": "1.7 km",
+      "duration_s": 452,
+      "duration_text": "8 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1566,
+      "distance_text": "1.6 km",
+      "duration_s": 412,
+      "duration_text": "7 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 18004,
+      "distance_text": "18.0 km",
+      "duration_s": 3903,
+      "duration_text": "1 hour 5 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 73355,
+      "distance_text": "73.4 km",
+      "duration_s": 13756,
+      "duration_text": "3 hours 49 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2843,
+      "distance_text": "2.8 km",
+      "duration_s": 588,
+      "duration_text": "10 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2728,
+      "distance_text": "2.7 km",
+      "duration_s": 548,
+      "duration_text": "9 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 16164,
+      "distance_text": "16.2 km",
+      "duration_s": 3527,
+      "duration_text": "59 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 71514,
+      "distance_text": "71.5 km",
+      "duration_s": 13380,
+      "duration_text": "3 hours 43 mins"
+    }
+  }
+}

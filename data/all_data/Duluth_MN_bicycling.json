@@ -1,0 +1,126 @@
+{
+  "city": "Duluth, MN",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3759,
+      "distance_text": "3.8 km",
+      "duration_s": 643,
+      "duration_text": "11 mins"
+    },
+    "home|nature": {
+      "distance_m": 5913,
+      "distance_text": "5.9 km",
+      "duration_s": 1708,
+      "duration_text": "28 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 16691,
+      "distance_text": "16.7 km",
+      "duration_s": 3270,
+      "duration_text": "55 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4772,
+      "distance_text": "4.8 km",
+      "duration_s": 1239,
+      "duration_text": "21 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2227,
+      "distance_text": "2.2 km",
+      "duration_s": 550,
+      "duration_text": "9 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 4500,
+      "distance_text": "4.5 km",
+      "duration_s": 1810,
+      "duration_text": "30 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 13584,
+      "distance_text": "13.6 km",
+      "duration_s": 2822,
+      "duration_text": "47 mins"
+    },
+    "grocery|home": {
+      "distance_m": 936,
+      "distance_text": "0.9 km",
+      "duration_s": 325,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 5462,
+      "distance_text": "5.5 km",
+      "duration_s": 1116,
+      "duration_text": "19 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6769,
+      "distance_text": "6.8 km",
+      "duration_s": 2017,
+      "duration_text": "34 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 18181,
+      "distance_text": "18.2 km",
+      "duration_s": 3601,
+      "duration_text": "1 hour 0 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4779,
+      "distance_text": "4.8 km",
+      "duration_s": 1255,
+      "duration_text": "21 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1368,
+      "distance_text": "1.4 km",
+      "duration_s": 420,
+      "duration_text": "7 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2794,
+      "distance_text": "2.8 km",
+      "duration_s": 1379,
+      "duration_text": "23 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 12953,
+      "distance_text": "13.0 km",
+      "duration_s": 2631,
+      "duration_text": "44 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4748,
+      "distance_text": "4.7 km",
+      "duration_s": 1250,
+      "duration_text": "21 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1337,
+      "distance_text": "1.3 km",
+      "duration_s": 415,
+      "duration_text": "7 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2763,
+      "distance_text": "2.8 km",
+      "duration_s": 1374,
+      "duration_text": "23 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 12922,
+      "distance_text": "12.9 km",
+      "duration_s": 2627,
+      "duration_text": "44 mins"
+    }
+  }
+}

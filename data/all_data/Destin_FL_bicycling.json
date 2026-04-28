@@ -1,0 +1,126 @@
+{
+  "city": "Destin, FL",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 6741,
+      "distance_text": "6.7 km",
+      "duration_s": 1204,
+      "duration_text": "20 mins"
+    },
+    "home|nature": {
+      "distance_m": 4932,
+      "distance_text": "4.9 km",
+      "duration_s": 947,
+      "duration_text": "16 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 19534,
+      "distance_text": "19.5 km",
+      "duration_s": 3595,
+      "duration_text": "1 hour 0 mins"
+    },
+    "local icon|home": {
+      "distance_m": 8618,
+      "distance_text": "8.6 km",
+      "duration_s": 1596,
+      "duration_text": "27 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 5196,
+      "distance_text": "5.2 km",
+      "duration_s": 999,
+      "duration_text": "17 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 7475,
+      "distance_text": "7.5 km",
+      "duration_s": 1344,
+      "duration_text": "22 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 17988,
+      "distance_text": "18.0 km",
+      "duration_s": 3429,
+      "duration_text": "57 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3887,
+      "distance_text": "3.9 km",
+      "duration_s": 665,
+      "duration_text": "11 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3604,
+      "distance_text": "3.6 km",
+      "duration_s": 630,
+      "duration_text": "11 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 3627,
+      "distance_text": "3.6 km",
+      "duration_s": 622,
+      "duration_text": "10 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 16198,
+      "distance_text": "16.2 km",
+      "duration_s": 3007,
+      "duration_text": "50 mins"
+    },
+    "hospital|home": {
+      "distance_m": 21103,
+      "distance_text": "21.1 km",
+      "duration_s": 3864,
+      "duration_text": "1 hour 4 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 14553,
+      "distance_text": "14.6 km",
+      "duration_s": 2733,
+      "duration_text": "46 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 19960,
+      "distance_text": "20.0 km",
+      "duration_s": 3612,
+      "duration_text": "1 hour 0 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 2270,
+      "distance_text": "2.3 km",
+      "duration_s": 420,
+      "duration_text": "7 mins"
+    },
+    "stadium|home": {
+      "distance_m": 6832,
+      "distance_text": "6.8 km",
+      "duration_s": 1173,
+      "duration_text": "20 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 727,
+      "distance_text": "0.7 km",
+      "duration_s": 138,
+      "duration_text": "2 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 6382,
+      "distance_text": "6.4 km",
+      "duration_s": 1183,
+      "duration_text": "20 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 13322,
+      "distance_text": "13.3 km",
+      "duration_s": 2514,
+      "duration_text": "42 mins"
+    }
+  }
+}

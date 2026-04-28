@@ -1,0 +1,126 @@
+{
+  "city": "Syracuse, NY",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1915,
+      "distance_text": "1.9 km",
+      "duration_s": 295,
+      "duration_text": "5 mins"
+    },
+    "home|nature": {
+      "distance_m": 12592,
+      "distance_text": "12.6 km",
+      "duration_s": 804,
+      "duration_text": "13 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 22720,
+      "distance_text": "22.7 km",
+      "duration_s": 1098,
+      "duration_text": "18 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2511,
+      "distance_text": "2.5 km",
+      "duration_s": 514,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2257,
+      "distance_text": "2.3 km",
+      "duration_s": 566,
+      "duration_text": "9 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 12127,
+      "distance_text": "12.1 km",
+      "duration_s": 1006,
+      "duration_text": "17 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 23000,
+      "distance_text": "23.0 km",
+      "duration_s": 1419,
+      "duration_text": "24 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1055,
+      "distance_text": "1.1 km",
+      "duration_s": 150,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2668,
+      "distance_text": "2.7 km",
+      "duration_s": 378,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 12805,
+      "distance_text": "12.8 km",
+      "duration_s": 900,
+      "duration_text": "15 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 23705,
+      "distance_text": "23.7 km",
+      "duration_s": 1233,
+      "duration_text": "21 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2249,
+      "distance_text": "2.2 km",
+      "duration_s": 438,
+      "duration_text": "7 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1995,
+      "distance_text": "2.0 km",
+      "duration_s": 488,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 11865,
+      "distance_text": "11.9 km",
+      "duration_s": 929,
+      "duration_text": "15 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 22738,
+      "distance_text": "22.7 km",
+      "duration_s": 1342,
+      "duration_text": "22 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2511,
+      "distance_text": "2.5 km",
+      "duration_s": 514,
+      "duration_text": "9 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2257,
+      "distance_text": "2.3 km",
+      "duration_s": 566,
+      "duration_text": "9 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 12127,
+      "distance_text": "12.1 km",
+      "duration_s": 1006,
+      "duration_text": "17 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 23000,
+      "distance_text": "23.0 km",
+      "duration_s": 1419,
+      "duration_text": "24 mins"
+    }
+  }
+}

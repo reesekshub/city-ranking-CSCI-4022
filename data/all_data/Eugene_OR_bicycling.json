@@ -1,0 +1,126 @@
+{
+  "city": "Eugene, OR",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2885,
+      "distance_text": "2.9 km",
+      "duration_s": 663,
+      "duration_text": "11 mins"
+    },
+    "home|nature": {
+      "distance_m": 2421,
+      "distance_text": "2.4 km",
+      "duration_s": 674,
+      "duration_text": "11 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 7193,
+      "distance_text": "7.2 km",
+      "duration_s": 1544,
+      "duration_text": "26 mins"
+    },
+    "local icon|home": {
+      "distance_m": 5120,
+      "distance_text": "5.1 km",
+      "duration_s": 1173,
+      "duration_text": "20 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 3148,
+      "distance_text": "3.1 km",
+      "duration_s": 721,
+      "duration_text": "12 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 4784,
+      "distance_text": "4.8 km",
+      "duration_s": 1113,
+      "duration_text": "19 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 5639,
+      "distance_text": "5.6 km",
+      "duration_s": 1085,
+      "duration_text": "18 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1141,
+      "distance_text": "1.1 km",
+      "duration_s": 314,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3340,
+      "distance_text": "3.3 km",
+      "duration_s": 758,
+      "duration_text": "13 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 2396,
+      "distance_text": "2.4 km",
+      "duration_s": 665,
+      "duration_text": "11 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 7164,
+      "distance_text": "7.2 km",
+      "duration_s": 1513,
+      "duration_text": "25 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2608,
+      "distance_text": "2.6 km",
+      "duration_s": 575,
+      "duration_text": "10 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2304,
+      "distance_text": "2.3 km",
+      "duration_s": 487,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2242,
+      "distance_text": "2.2 km",
+      "duration_s": 637,
+      "duration_text": "11 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 5352,
+      "distance_text": "5.4 km",
+      "duration_s": 1022,
+      "duration_text": "17 mins"
+    },
+    "stadium|home": {
+      "distance_m": 5120,
+      "distance_text": "5.1 km",
+      "duration_s": 1173,
+      "duration_text": "20 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3148,
+      "distance_text": "3.1 km",
+      "duration_s": 721,
+      "duration_text": "12 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 4784,
+      "distance_text": "4.8 km",
+      "duration_s": 1113,
+      "duration_text": "19 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 5639,
+      "distance_text": "5.6 km",
+      "duration_s": 1085,
+      "duration_text": "18 mins"
+    }
+  }
+}

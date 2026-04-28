@@ -1,0 +1,126 @@
+{
+  "city": "St. Louis, MO",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 7004,
+      "distance_text": "7.0 km",
+      "duration_s": 725,
+      "duration_text": "12 mins"
+    },
+    "home|nature": {
+      "distance_m": 3451,
+      "distance_text": "3.5 km",
+      "duration_s": 455,
+      "duration_text": "8 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 6555,
+      "distance_text": "6.6 km",
+      "duration_s": 789,
+      "duration_text": "13 mins"
+    },
+    "local icon|home": {
+      "distance_m": 10176,
+      "distance_text": "10.2 km",
+      "duration_s": 928,
+      "duration_text": "15 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 3742,
+      "distance_text": "3.7 km",
+      "duration_s": 515,
+      "duration_text": "9 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 12590,
+      "distance_text": "12.6 km",
+      "duration_s": 832,
+      "duration_text": "14 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 15961,
+      "distance_text": "16.0 km",
+      "duration_s": 1021,
+      "duration_text": "17 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1400,
+      "distance_text": "1.4 km",
+      "duration_s": 245,
+      "duration_text": "4 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 8027,
+      "distance_text": "8.0 km",
+      "duration_s": 617,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 2379,
+      "distance_text": "2.4 km",
+      "duration_s": 255,
+      "duration_text": "4 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 5593,
+      "distance_text": "5.6 km",
+      "duration_s": 617,
+      "duration_text": "10 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1370,
+      "distance_text": "1.4 km",
+      "duration_s": 334,
+      "duration_text": "6 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 6861,
+      "distance_text": "6.9 km",
+      "duration_s": 597,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3403,
+      "distance_text": "3.4 km",
+      "duration_s": 510,
+      "duration_text": "9 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 8340,
+      "distance_text": "8.3 km",
+      "duration_s": 699,
+      "duration_text": "12 mins"
+    },
+    "stadium|home": {
+      "distance_m": 7723,
+      "distance_text": "7.7 km",
+      "duration_s": 691,
+      "duration_text": "12 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 846,
+      "distance_text": "0.8 km",
+      "duration_s": 196,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 10137,
+      "distance_text": "10.1 km",
+      "duration_s": 595,
+      "duration_text": "10 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 13508,
+      "distance_text": "13.5 km",
+      "duration_s": 784,
+      "duration_text": "13 mins"
+    }
+  }
+}

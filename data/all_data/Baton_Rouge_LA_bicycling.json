@@ -1,0 +1,126 @@
+{
+  "city": "Baton Rouge, LA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3653,
+      "distance_text": "3.7 km",
+      "duration_s": 840,
+      "duration_text": "14 mins"
+    },
+    "home|nature": {
+      "distance_m": 14851,
+      "distance_text": "14.9 km",
+      "duration_s": 2861,
+      "duration_text": "48 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 149197,
+      "distance_text": "149 km",
+      "duration_s": 28016,
+      "duration_text": "7 hours 47 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4662,
+      "distance_text": "4.7 km",
+      "duration_s": 992,
+      "duration_text": "17 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1009,
+      "distance_text": "1.0 km",
+      "duration_s": 180,
+      "duration_text": "3 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 18809,
+      "distance_text": "18.8 km",
+      "duration_s": 3609,
+      "duration_text": "1 hour 0 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 146617,
+      "distance_text": "147 km",
+      "duration_s": 27343,
+      "duration_text": "7 hours 36 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3001,
+      "distance_text": "3.0 km",
+      "duration_s": 630,
+      "duration_text": "11 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 5664,
+      "distance_text": "5.7 km",
+      "duration_s": 1191,
+      "duration_text": "20 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 11959,
+      "distance_text": "12.0 km",
+      "duration_s": 2263,
+      "duration_text": "38 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 149435,
+      "distance_text": "149 km",
+      "duration_s": 27993,
+      "duration_text": "7 hours 47 mins"
+    },
+    "hospital|home": {
+      "distance_m": 7717,
+      "distance_text": "7.7 km",
+      "duration_s": 1500,
+      "duration_text": "25 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 10808,
+      "distance_text": "10.8 km",
+      "duration_s": 2125,
+      "duration_text": "35 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 7315,
+      "distance_text": "7.3 km",
+      "duration_s": 1406,
+      "duration_text": "23 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 154578,
+      "distance_text": "155 km",
+      "duration_s": 28927,
+      "duration_text": "8 hours 2 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2862,
+      "distance_text": "2.9 km",
+      "duration_s": 526,
+      "duration_text": "9 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 5944,
+      "distance_text": "5.9 km",
+      "duration_s": 1322,
+      "duration_text": "22 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 13948,
+      "distance_text": "13.9 km",
+      "duration_s": 2636,
+      "duration_text": "44 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 151708,
+      "distance_text": "152 km",
+      "duration_s": 28421,
+      "duration_text": "7 hours 54 mins"
+    }
+  }
+}

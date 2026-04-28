@@ -1,0 +1,126 @@
+{
+  "city": "Keene, NH",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 353,
+      "distance_text": "0.4 km",
+      "duration_s": 128,
+      "duration_text": "2 mins"
+    },
+    "home|nature": {
+      "distance_m": 27687,
+      "distance_text": "27.7 km",
+      "duration_s": 9178,
+      "duration_text": "2 hours 33 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 84158,
+      "distance_text": "84.2 km",
+      "duration_s": 18284,
+      "duration_text": "5 hours 5 mins"
+    },
+    "local icon|home": {
+      "distance_m": 242,
+      "distance_text": "0.2 km",
+      "duration_s": 77,
+      "duration_text": "1 min"
+    },
+    "local icon|downtown": {
+      "distance_m": 194,
+      "distance_text": "0.2 km",
+      "duration_s": 67,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 27355,
+      "distance_text": "27.4 km",
+      "duration_s": 9152,
+      "duration_text": "2 hours 33 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 84207,
+      "distance_text": "84.2 km",
+      "duration_s": 18325,
+      "duration_text": "5 hours 5 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1392,
+      "distance_text": "1.4 km",
+      "duration_s": 316,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1548,
+      "distance_text": "1.5 km",
+      "duration_s": 354,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 29233,
+      "distance_text": "29.2 km",
+      "duration_s": 9504,
+      "duration_text": "2 hours 38 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 85358,
+      "distance_text": "85.4 km",
+      "duration_s": 18575,
+      "duration_text": "5 hours 10 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3881,
+      "distance_text": "3.9 km",
+      "duration_s": 697,
+      "duration_text": "12 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4172,
+      "distance_text": "4.2 km",
+      "duration_s": 749,
+      "duration_text": "12 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 21984,
+      "distance_text": "22.0 km",
+      "duration_s": 8262,
+      "duration_text": "2 hours 18 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 82765,
+      "distance_text": "82.8 km",
+      "duration_s": 17483,
+      "duration_text": "4 hours 51 mins"
+    },
+    "stadium|home": {
+      "distance_m": 813,
+      "distance_text": "0.8 km",
+      "duration_s": 181,
+      "duration_text": "3 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1063,
+      "distance_text": "1.1 km",
+      "duration_s": 222,
+      "duration_text": "4 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 28224,
+      "distance_text": "28.2 km",
+      "duration_s": 9306,
+      "duration_text": "2 hours 35 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 84753,
+      "distance_text": "84.8 km",
+      "duration_s": 18421,
+      "duration_text": "5 hours 7 mins"
+    }
+  }
+}

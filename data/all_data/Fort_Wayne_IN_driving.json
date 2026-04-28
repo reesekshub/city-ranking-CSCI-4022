@@ -1,0 +1,126 @@
+{
+  "city": "Fort Wayne, IN",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1623,
+      "distance_text": "1.6 km",
+      "duration_s": 241,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 13128,
+      "distance_text": "13.1 km",
+      "duration_s": 964,
+      "duration_text": "16 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 126276,
+      "distance_text": "126 km",
+      "duration_s": 5122,
+      "duration_text": "1 hour 25 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1483,
+      "distance_text": "1.5 km",
+      "duration_s": 240,
+      "duration_text": "4 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 177,
+      "distance_text": "0.2 km",
+      "duration_s": 35,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 13802,
+      "distance_text": "13.8 km",
+      "duration_s": 963,
+      "duration_text": "16 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 126950,
+      "distance_text": "127 km",
+      "duration_s": 5121,
+      "duration_text": "1 hour 25 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1637,
+      "distance_text": "1.6 km",
+      "duration_s": 201,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2796,
+      "distance_text": "2.8 km",
+      "duration_s": 373,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 14398,
+      "distance_text": "14.4 km",
+      "duration_s": 1020,
+      "duration_text": "17 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 129958,
+      "distance_text": "130 km",
+      "duration_s": 5119,
+      "duration_text": "1 hour 25 mins"
+    },
+    "hospital|home": {
+      "distance_m": 8731,
+      "distance_text": "8.7 km",
+      "duration_s": 819,
+      "duration_text": "14 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 8053,
+      "distance_text": "8.1 km",
+      "duration_s": 712,
+      "duration_text": "12 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 24960,
+      "distance_text": "25.0 km",
+      "duration_s": 1174,
+      "duration_text": "20 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 133305,
+      "distance_text": "133 km",
+      "duration_s": 5146,
+      "duration_text": "1 hour 26 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4574,
+      "distance_text": "4.6 km",
+      "duration_s": 549,
+      "duration_text": "9 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3896,
+      "distance_text": "3.9 km",
+      "duration_s": 442,
+      "duration_text": "7 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 17573,
+      "distance_text": "17.6 km",
+      "duration_s": 1355,
+      "duration_text": "23 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 133718,
+      "distance_text": "134 km",
+      "duration_s": 5356,
+      "duration_text": "1 hour 29 mins"
+    }
+  }
+}

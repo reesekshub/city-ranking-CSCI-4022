@@ -1,0 +1,126 @@
+{
+  "city": "Charleston, WV",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 6270,
+      "distance_text": "6.3 km",
+      "duration_s": 1127,
+      "duration_text": "19 mins"
+    },
+    "home|nature": {
+      "distance_m": 13256,
+      "distance_text": "13.3 km",
+      "duration_s": 3341,
+      "duration_text": "56 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 91288,
+      "distance_text": "91.3 km",
+      "duration_s": 18659,
+      "duration_text": "5 hours 11 mins"
+    },
+    "local icon|home": {
+      "distance_m": 6782,
+      "distance_text": "6.8 km",
+      "duration_s": 1406,
+      "duration_text": "23 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2651,
+      "distance_text": "2.7 km",
+      "duration_s": 560,
+      "duration_text": "9 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 15476,
+      "distance_text": "15.5 km",
+      "duration_s": 3917,
+      "duration_text": "1 hour 5 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 91844,
+      "distance_text": "91.8 km",
+      "duration_s": 18309,
+      "duration_text": "5 hours 5 mins"
+    },
+    "grocery|home": {
+      "distance_m": 7319,
+      "distance_text": "7.3 km",
+      "duration_s": 2138,
+      "duration_text": "36 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 8621,
+      "distance_text": "8.6 km",
+      "duration_s": 2216,
+      "duration_text": "37 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 8472,
+      "distance_text": "8.5 km",
+      "duration_s": 2047,
+      "duration_text": "34 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 88861,
+      "distance_text": "88.9 km",
+      "duration_s": 17786,
+      "duration_text": "4 hours 56 mins"
+    },
+    "hospital|home": {
+      "distance_m": 6334,
+      "distance_text": "6.3 km",
+      "duration_s": 1433,
+      "duration_text": "24 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1335,
+      "distance_text": "1.3 km",
+      "duration_s": 267,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 15597,
+      "distance_text": "15.6 km",
+      "duration_s": 4069,
+      "duration_text": "1 hour 8 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 90528,
+      "distance_text": "90.5 km",
+      "duration_s": 18016,
+      "duration_text": "5 hours 0 mins"
+    },
+    "stadium|home": {
+      "distance_m": 6300,
+      "distance_text": "6.3 km",
+      "duration_s": 1395,
+      "duration_text": "23 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1565,
+      "distance_text": "1.6 km",
+      "duration_s": 354,
+      "duration_text": "6 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 15587,
+      "distance_text": "15.6 km",
+      "duration_s": 4032,
+      "duration_text": "1 hour 7 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 90891,
+      "distance_text": "90.9 km",
+      "duration_s": 18110,
+      "duration_text": "5 hours 2 mins"
+    }
+  }
+}

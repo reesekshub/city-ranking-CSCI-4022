@@ -1,0 +1,126 @@
+{
+  "city": "Bangor, ME",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 562,
+      "distance_text": "0.6 km",
+      "duration_s": 227,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 7873,
+      "distance_text": "7.9 km",
+      "duration_s": 1584,
+      "duration_text": "26 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 229810,
+      "distance_text": "230 km",
+      "duration_s": 45437,
+      "duration_text": "12 hours 37 mins"
+    },
+    "local icon|home": {
+      "distance_m": 905,
+      "distance_text": "0.9 km",
+      "duration_s": 314,
+      "duration_text": "5 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 392,
+      "distance_text": "0.4 km",
+      "duration_s": 222,
+      "duration_text": "4 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 9095,
+      "distance_text": "9.1 km",
+      "duration_s": 1910,
+      "duration_text": "32 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 229461,
+      "distance_text": "229 km",
+      "duration_s": 45234,
+      "duration_text": "12 hours 34 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3704,
+      "distance_text": "3.7 km",
+      "duration_s": 732,
+      "duration_text": "12 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3802,
+      "distance_text": "3.8 km",
+      "duration_s": 915,
+      "duration_text": "15 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5290,
+      "distance_text": "5.3 km",
+      "duration_s": 996,
+      "duration_text": "17 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 234296,
+      "distance_text": "234 km",
+      "duration_s": 46213,
+      "duration_text": "12 hours 50 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1375,
+      "distance_text": "1.4 km",
+      "duration_s": 316,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1473,
+      "distance_text": "1.5 km",
+      "duration_s": 499,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 6701,
+      "distance_text": "6.7 km",
+      "duration_s": 1291,
+      "duration_text": "22 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 231037,
+      "distance_text": "231 km",
+      "duration_s": 45708,
+      "duration_text": "12 hours 42 mins"
+    },
+    "stadium|home": {
+      "distance_m": 503,
+      "distance_text": "0.5 km",
+      "duration_s": 146,
+      "duration_text": "2 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 421,
+      "distance_text": "0.4 km",
+      "duration_s": 192,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 7370,
+      "distance_text": "7.4 km",
+      "duration_s": 1519,
+      "duration_text": "25 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 230133,
+      "distance_text": "230 km",
+      "duration_s": 45554,
+      "duration_text": "12 hours 39 mins"
+    }
+  }
+}

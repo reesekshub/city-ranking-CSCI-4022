@@ -1,0 +1,126 @@
+{
+  "city": "Boulder, CO",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3360,
+      "distance_text": "3.4 km",
+      "duration_s": 440,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 6332,
+      "distance_text": "6.3 km",
+      "duration_s": 771,
+      "duration_text": "13 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 22693,
+      "distance_text": "22.7 km",
+      "duration_s": 1547,
+      "duration_text": "26 mins"
+    },
+    "local icon|home": {
+      "distance_m": 6326,
+      "distance_text": "6.3 km",
+      "duration_s": 698,
+      "duration_text": "12 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 3176,
+      "distance_text": "3.2 km",
+      "duration_s": 462,
+      "duration_text": "8 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 393,
+      "distance_text": "0.4 km",
+      "duration_s": 91,
+      "duration_text": "2 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 28858,
+      "distance_text": "28.9 km",
+      "duration_s": 2027,
+      "duration_text": "34 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1712,
+      "distance_text": "1.7 km",
+      "duration_s": 275,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3371,
+      "distance_text": "3.4 km",
+      "duration_s": 457,
+      "duration_text": "8 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6411,
+      "distance_text": "6.4 km",
+      "duration_s": 796,
+      "duration_text": "13 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 21254,
+      "distance_text": "21.3 km",
+      "duration_s": 1417,
+      "duration_text": "24 mins"
+    },
+    "hospital|home": {
+      "distance_m": 6685,
+      "distance_text": "6.7 km",
+      "duration_s": 805,
+      "duration_text": "13 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 5904,
+      "distance_text": "5.9 km",
+      "duration_s": 790,
+      "duration_text": "13 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 7432,
+      "distance_text": "7.4 km",
+      "duration_s": 855,
+      "duration_text": "14 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 24674,
+      "distance_text": "24.7 km",
+      "duration_s": 1640,
+      "duration_text": "27 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4536,
+      "distance_text": "4.5 km",
+      "duration_s": 652,
+      "duration_text": "11 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3010,
+      "distance_text": "3.0 km",
+      "duration_s": 499,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 4084,
+      "distance_text": "4.1 km",
+      "duration_s": 579,
+      "duration_text": "10 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 25276,
+      "distance_text": "25.3 km",
+      "duration_s": 1802,
+      "duration_text": "30 mins"
+    }
+  }
+}

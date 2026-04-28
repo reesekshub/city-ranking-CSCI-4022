@@ -1,0 +1,126 @@
+{
+  "city": "Bellingham, WA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 4321,
+      "distance_text": "4.3 km",
+      "duration_s": 464,
+      "duration_text": "8 mins"
+    },
+    "home|nature": {
+      "distance_m": 11175,
+      "distance_text": "11.2 km",
+      "duration_s": 890,
+      "duration_text": "15 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 95673,
+      "distance_text": "95.7 km",
+      "duration_s": 3611,
+      "duration_text": "1 hour 0 mins"
+    },
+    "local icon|home": {
+      "distance_m": 69,
+      "distance_text": "69 m",
+      "duration_s": 20,
+      "duration_text": "1 min"
+    },
+    "local icon|downtown": {
+      "distance_m": 4328,
+      "distance_text": "4.3 km",
+      "duration_s": 464,
+      "duration_text": "8 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 11181,
+      "distance_text": "11.2 km",
+      "duration_s": 890,
+      "duration_text": "15 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 95679,
+      "distance_text": "95.7 km",
+      "duration_s": 3611,
+      "duration_text": "1 hour 0 mins"
+    },
+    "grocery|home": {
+      "distance_m": 5001,
+      "distance_text": "5.0 km",
+      "duration_s": 563,
+      "duration_text": "9 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1405,
+      "distance_text": "1.4 km",
+      "duration_s": 235,
+      "duration_text": "4 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5060,
+      "distance_text": "5.1 km",
+      "duration_s": 598,
+      "duration_text": "10 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 98925,
+      "distance_text": "98.9 km",
+      "duration_s": 3657,
+      "duration_text": "1 hour 1 min"
+    },
+    "hospital|home": {
+      "distance_m": 7466,
+      "distance_text": "7.5 km",
+      "duration_s": 594,
+      "duration_text": "10 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2468,
+      "distance_text": "2.5 km",
+      "duration_s": 325,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3878,
+      "distance_text": "3.9 km",
+      "duration_s": 427,
+      "duration_text": "7 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 97891,
+      "distance_text": "97.9 km",
+      "duration_s": 3634,
+      "duration_text": "1 hour 1 min"
+    },
+    "stadium|home": {
+      "distance_m": 5334,
+      "distance_text": "5.3 km",
+      "duration_s": 611,
+      "duration_text": "10 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1524,
+      "distance_text": "1.5 km",
+      "duration_s": 275,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 4495,
+      "distance_text": "4.5 km",
+      "duration_s": 572,
+      "duration_text": "10 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 98622,
+      "distance_text": "98.6 km",
+      "duration_s": 3651,
+      "duration_text": "1 hour 1 min"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "city": "Bend, OR",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 373,
+      "distance_text": "0.4 km",
+      "duration_s": 103,
+      "duration_text": "2 mins"
+    },
+    "home|nature": {
+      "distance_m": 41818,
+      "distance_text": "41.8 km",
+      "duration_s": 2079,
+      "duration_text": "35 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 27809,
+      "distance_text": "27.8 km",
+      "duration_s": 1416,
+      "duration_text": "24 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4857,
+      "distance_text": "4.9 km",
+      "duration_s": 566,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 4358,
+      "distance_text": "4.4 km",
+      "duration_s": 541,
+      "duration_text": "9 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 42187,
+      "distance_text": "42.2 km",
+      "duration_s": 2154,
+      "duration_text": "36 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 28178,
+      "distance_text": "28.2 km",
+      "duration_s": 1492,
+      "duration_text": "25 mins"
+    },
+    "grocery|home": {
+      "distance_m": 655,
+      "distance_text": "0.7 km",
+      "duration_s": 146,
+      "duration_text": "2 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 619,
+      "distance_text": "0.6 km",
+      "duration_s": 164,
+      "duration_text": "3 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 41599,
+      "distance_text": "41.6 km",
+      "duration_s": 1965,
+      "duration_text": "33 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 27590,
+      "distance_text": "27.6 km",
+      "duration_s": 1303,
+      "duration_text": "22 mins"
+    },
+    "hospital|home": {
+      "distance_m": 5481,
+      "distance_text": "5.5 km",
+      "duration_s": 602,
+      "duration_text": "10 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4982,
+      "distance_text": "5.0 km",
+      "duration_s": 577,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 40065,
+      "distance_text": "40.1 km",
+      "duration_s": 2104,
+      "duration_text": "35 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 26056,
+      "distance_text": "26.1 km",
+      "duration_s": 1442,
+      "duration_text": "24 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1764,
+      "distance_text": "1.8 km",
+      "duration_s": 239,
+      "duration_text": "4 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1868,
+      "distance_text": "1.9 km",
+      "duration_s": 280,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 42352,
+      "distance_text": "42.4 km",
+      "duration_s": 1938,
+      "duration_text": "32 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 28343,
+      "distance_text": "28.3 km",
+      "duration_s": 1276,
+      "duration_text": "21 mins"
+    }
+  }
+}

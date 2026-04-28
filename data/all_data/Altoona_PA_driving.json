@@ -1,0 +1,126 @@
+{
+  "city": "Altoona, PA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 10694,
+      "distance_text": "10.7 km",
+      "duration_s": 798,
+      "duration_text": "13 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 70500,
+      "distance_text": "70.5 km",
+      "duration_s": 2957,
+      "duration_text": "49 mins"
+    },
+    "local icon|home": {
+      "distance_m": 11474,
+      "distance_text": "11.5 km",
+      "duration_s": 953,
+      "duration_text": "16 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 11474,
+      "distance_text": "11.5 km",
+      "duration_s": 953,
+      "duration_text": "16 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nearby city": {
+      "distance_m": 79417,
+      "distance_text": "79.4 km",
+      "duration_s": 3448,
+      "duration_text": "57 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2644,
+      "distance_text": "2.6 km",
+      "duration_s": 358,
+      "duration_text": "6 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2644,
+      "distance_text": "2.6 km",
+      "duration_s": 358,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 9197,
+      "distance_text": "9.2 km",
+      "duration_s": 714,
+      "duration_text": "12 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 69867,
+      "distance_text": "69.9 km",
+      "duration_s": 2963,
+      "duration_text": "49 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2330,
+      "distance_text": "2.3 km",
+      "duration_s": 307,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2330,
+      "distance_text": "2.3 km",
+      "duration_s": 307,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 8992,
+      "distance_text": "9.0 km",
+      "duration_s": 675,
+      "duration_text": "11 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 69552,
+      "distance_text": "69.6 km",
+      "duration_s": 2912,
+      "duration_text": "49 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1512,
+      "distance_text": "1.5 km",
+      "duration_s": 295,
+      "duration_text": "5 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1512,
+      "distance_text": "1.5 km",
+      "duration_s": 295,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 11001,
+      "distance_text": "11.0 km",
+      "duration_s": 986,
+      "duration_text": "16 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 66924,
+      "distance_text": "66.9 km",
+      "duration_s": 3119,
+      "duration_text": "52 mins"
+    }
+  }
+}

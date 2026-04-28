@@ -1,0 +1,126 @@
+{
+  "city": "Reno, NV",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2547,
+      "distance_text": "2.5 km",
+      "duration_s": 561,
+      "duration_text": "9 mins"
+    },
+    "home|nature": {
+      "distance_m": 6208,
+      "distance_text": "6.2 km",
+      "duration_s": 1624,
+      "duration_text": "27 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 8102,
+      "distance_text": "8.1 km",
+      "duration_s": 1669,
+      "duration_text": "28 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2314,
+      "distance_text": "2.3 km",
+      "duration_s": 515,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 154,
+      "distance_text": "0.2 km",
+      "duration_s": 27,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 4531,
+      "distance_text": "4.5 km",
+      "duration_s": 1102,
+      "duration_text": "18 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 5888,
+      "distance_text": "5.9 km",
+      "duration_s": 1156,
+      "duration_text": "19 mins"
+    },
+    "grocery|home": {
+      "distance_m": 325,
+      "distance_text": "0.3 km",
+      "duration_s": 55,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 2653,
+      "distance_text": "2.7 km",
+      "duration_s": 571,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6314,
+      "distance_text": "6.3 km",
+      "duration_s": 1634,
+      "duration_text": "27 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 8208,
+      "distance_text": "8.2 km",
+      "duration_s": 1679,
+      "duration_text": "28 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2394,
+      "distance_text": "2.4 km",
+      "duration_s": 630,
+      "duration_text": "11 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2361,
+      "distance_text": "2.4 km",
+      "duration_s": 505,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 6365,
+      "distance_text": "6.4 km",
+      "duration_s": 1495,
+      "duration_text": "25 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 6976,
+      "distance_text": "7.0 km",
+      "duration_s": 1389,
+      "duration_text": "23 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2726,
+      "distance_text": "2.7 km",
+      "duration_s": 640,
+      "duration_text": "11 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1409,
+      "distance_text": "1.4 km",
+      "duration_s": 278,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5062,
+      "distance_text": "5.1 km",
+      "duration_s": 1230,
+      "duration_text": "21 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 5548,
+      "distance_text": "5.5 km",
+      "duration_s": 1088,
+      "duration_text": "18 mins"
+    }
+  }
+}

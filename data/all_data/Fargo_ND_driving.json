@@ -1,0 +1,126 @@
+{
+  "city": "Fargo, ND",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1702,
+      "distance_text": "1.7 km",
+      "duration_s": 291,
+      "duration_text": "5 mins"
+    },
+    "home|nature": {
+      "distance_m": 3830,
+      "distance_text": "3.8 km",
+      "duration_s": 535,
+      "duration_text": "9 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 3548,
+      "distance_text": "3.5 km",
+      "duration_s": 435,
+      "duration_text": "7 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2132,
+      "distance_text": "2.1 km",
+      "duration_s": 268,
+      "duration_text": "4 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 791,
+      "distance_text": "0.8 km",
+      "duration_s": 117,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 1983,
+      "distance_text": "2.0 km",
+      "duration_s": 272,
+      "duration_text": "5 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 2241,
+      "distance_text": "2.2 km",
+      "duration_s": 239,
+      "duration_text": "4 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2416,
+      "distance_text": "2.4 km",
+      "duration_s": 338,
+      "duration_text": "6 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 776,
+      "distance_text": "0.8 km",
+      "duration_s": 177,
+      "duration_text": "3 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 1502,
+      "distance_text": "1.5 km",
+      "duration_s": 236,
+      "duration_text": "4 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 2001,
+      "distance_text": "2.0 km",
+      "duration_s": 267,
+      "duration_text": "4 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4895,
+      "distance_text": "4.9 km",
+      "duration_s": 557,
+      "duration_text": "9 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3831,
+      "distance_text": "3.8 km",
+      "duration_s": 434,
+      "duration_text": "7 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3542,
+      "distance_text": "3.5 km",
+      "duration_s": 442,
+      "duration_text": "7 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 5281,
+      "distance_text": "5.3 km",
+      "duration_s": 556,
+      "duration_text": "9 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3434,
+      "distance_text": "3.4 km",
+      "duration_s": 351,
+      "duration_text": "6 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3957,
+      "distance_text": "4.0 km",
+      "duration_s": 422,
+      "duration_text": "7 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5843,
+      "distance_text": "5.8 km",
+      "duration_s": 586,
+      "duration_text": "10 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 5887,
+      "distance_text": "5.9 km",
+      "duration_s": 588,
+      "duration_text": "10 mins"
+    }
+  }
+}

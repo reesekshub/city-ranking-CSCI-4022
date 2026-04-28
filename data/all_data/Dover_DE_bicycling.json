@@ -1,0 +1,126 @@
+{
+  "city": "Dover, DE",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 214,
+      "distance_text": "0.2 km",
+      "duration_s": 61,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 21606,
+      "distance_text": "21.6 km",
+      "duration_s": 4026,
+      "duration_text": "1 hour 7 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 86084,
+      "distance_text": "86.1 km",
+      "duration_s": 15824,
+      "duration_text": "4 hours 24 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1009,
+      "distance_text": "1.0 km",
+      "duration_s": 206,
+      "duration_text": "3 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 834,
+      "distance_text": "0.8 km",
+      "duration_s": 172,
+      "duration_text": "3 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 23400,
+      "distance_text": "23.4 km",
+      "duration_s": 4280,
+      "duration_text": "1 hour 11 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 86535,
+      "distance_text": "86.5 km",
+      "duration_s": 15897,
+      "duration_text": "4 hours 25 mins"
+    },
+    "grocery|home": {
+      "distance_m": 999,
+      "distance_text": "1.0 km",
+      "duration_s": 172,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1319,
+      "distance_text": "1.3 km",
+      "duration_s": 248,
+      "duration_text": "4 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 22753,
+      "distance_text": "22.8 km",
+      "duration_s": 4235,
+      "duration_text": "1 hour 11 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 85748,
+      "distance_text": "85.7 km",
+      "duration_s": 15750,
+      "duration_text": "4 hours 23 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4089,
+      "distance_text": "4.1 km",
+      "duration_s": 688,
+      "duration_text": "11 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4409,
+      "distance_text": "4.4 km",
+      "duration_s": 764,
+      "duration_text": "13 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 23200,
+      "distance_text": "23.2 km",
+      "duration_s": 4385,
+      "duration_text": "1 hour 13 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 87573,
+      "distance_text": "87.6 km",
+      "duration_s": 16057,
+      "duration_text": "4 hours 28 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4090,
+      "distance_text": "4.1 km",
+      "duration_s": 828,
+      "duration_text": "14 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 4205,
+      "distance_text": "4.2 km",
+      "duration_s": 868,
+      "duration_text": "14 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 26480,
+      "distance_text": "26.5 km",
+      "duration_s": 4902,
+      "duration_text": "1 hour 22 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 84455,
+      "distance_text": "84.5 km",
+      "duration_s": 15513,
+      "duration_text": "4 hours 19 mins"
+    }
+  }
+}

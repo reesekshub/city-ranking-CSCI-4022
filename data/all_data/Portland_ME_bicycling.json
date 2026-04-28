@@ -1,0 +1,126 @@
+{
+  "city": "Portland, ME",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1450,
+      "distance_text": "1.4 km",
+      "duration_s": 352,
+      "duration_text": "6 mins"
+    },
+    "home|nature": {
+      "distance_m": 1404,
+      "distance_text": "1.4 km",
+      "duration_s": 235,
+      "duration_text": "4 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 5639,
+      "distance_text": "5.6 km",
+      "duration_s": 1217,
+      "duration_text": "20 mins"
+    },
+    "local icon|home": {
+      "distance_m": 8851,
+      "distance_text": "8.9 km",
+      "duration_s": 1855,
+      "duration_text": "31 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 7943,
+      "distance_text": "7.9 km",
+      "duration_s": 1662,
+      "duration_text": "28 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 9808,
+      "distance_text": "9.8 km",
+      "duration_s": 1976,
+      "duration_text": "33 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 4068,
+      "distance_text": "4.1 km",
+      "duration_s": 802,
+      "duration_text": "13 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3746,
+      "distance_text": "3.7 km",
+      "duration_s": 782,
+      "duration_text": "13 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 4196,
+      "distance_text": "4.2 km",
+      "duration_s": 872,
+      "duration_text": "15 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 3482,
+      "distance_text": "3.5 km",
+      "duration_s": 663,
+      "duration_text": "11 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 8481,
+      "distance_text": "8.5 km",
+      "duration_s": 1849,
+      "duration_text": "31 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2859,
+      "distance_text": "2.9 km",
+      "duration_s": 791,
+      "duration_text": "13 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1421,
+      "distance_text": "1.4 km",
+      "duration_s": 450,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3590,
+      "distance_text": "3.6 km",
+      "duration_s": 849,
+      "duration_text": "14 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 4874,
+      "distance_text": "4.9 km",
+      "duration_s": 1175,
+      "duration_text": "20 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2243,
+      "distance_text": "2.2 km",
+      "duration_s": 541,
+      "duration_text": "9 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 805,
+      "distance_text": "0.8 km",
+      "duration_s": 201,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2974,
+      "distance_text": "3.0 km",
+      "duration_s": 600,
+      "duration_text": "10 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 4825,
+      "distance_text": "4.8 km",
+      "duration_s": 1155,
+      "duration_text": "19 mins"
+    }
+  }
+}

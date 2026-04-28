@@ -1,0 +1,126 @@
+{
+  "city": "Branson, MO",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 14080,
+      "distance_text": "14.1 km",
+      "duration_s": 1113,
+      "duration_text": "19 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 70458,
+      "distance_text": "70.5 km",
+      "duration_s": 2889,
+      "duration_text": "48 mins"
+    },
+    "local icon|home": {
+      "distance_m": 14045,
+      "distance_text": "14.0 km",
+      "duration_s": 1109,
+      "duration_text": "18 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 14045,
+      "distance_text": "14.0 km",
+      "duration_s": 1109,
+      "duration_text": "18 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nearby city": {
+      "distance_m": 85920,
+      "distance_text": "85.9 km",
+      "duration_s": 3707,
+      "duration_text": "1 hour 2 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1604,
+      "distance_text": "1.6 km",
+      "duration_s": 186,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1604,
+      "distance_text": "1.6 km",
+      "duration_s": 186,
+      "duration_text": "3 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 13475,
+      "distance_text": "13.5 km",
+      "duration_s": 961,
+      "duration_text": "16 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 71677,
+      "distance_text": "71.7 km",
+      "duration_s": 2883,
+      "duration_text": "48 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1753,
+      "distance_text": "1.8 km",
+      "duration_s": 221,
+      "duration_text": "4 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1753,
+      "distance_text": "1.8 km",
+      "duration_s": 221,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 15691,
+      "distance_text": "15.7 km",
+      "duration_s": 1275,
+      "duration_text": "21 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 70853,
+      "distance_text": "70.9 km",
+      "duration_s": 2920,
+      "duration_text": "49 mins"
+    },
+    "stadium|home": {
+      "distance_m": 326,
+      "distance_text": "0.3 km",
+      "duration_s": 153,
+      "duration_text": "3 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 326,
+      "distance_text": "0.3 km",
+      "duration_s": 153,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 14368,
+      "distance_text": "14.4 km",
+      "duration_s": 1216,
+      "duration_text": "20 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 70680,
+      "distance_text": "70.7 km",
+      "duration_s": 2948,
+      "duration_text": "49 mins"
+    }
+  }
+}

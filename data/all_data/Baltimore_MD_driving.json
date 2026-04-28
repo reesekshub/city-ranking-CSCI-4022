@@ -1,0 +1,126 @@
+{
+  "city": "Baltimore, MD",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2041,
+      "distance_text": "2.0 km",
+      "duration_s": 472,
+      "duration_text": "8 mins"
+    },
+    "home|nature": {
+      "distance_m": 4263,
+      "distance_text": "4.3 km",
+      "duration_s": 861,
+      "duration_text": "14 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 19527,
+      "distance_text": "19.5 km",
+      "duration_s": 1877,
+      "duration_text": "31 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4100,
+      "distance_text": "4.1 km",
+      "duration_s": 676,
+      "duration_text": "11 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 6935,
+      "distance_text": "6.9 km",
+      "duration_s": 719,
+      "duration_text": "12 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 11146,
+      "distance_text": "11.1 km",
+      "duration_s": 1105,
+      "duration_text": "18 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 31596,
+      "distance_text": "31.6 km",
+      "duration_s": 1756,
+      "duration_text": "29 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2137,
+      "distance_text": "2.1 km",
+      "duration_s": 373,
+      "duration_text": "6 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2882,
+      "distance_text": "2.9 km",
+      "duration_s": 553,
+      "duration_text": "9 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5104,
+      "distance_text": "5.1 km",
+      "duration_s": 942,
+      "duration_text": "16 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 29984,
+      "distance_text": "30.0 km",
+      "duration_s": 1575,
+      "duration_text": "26 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4430,
+      "distance_text": "4.4 km",
+      "duration_s": 830,
+      "duration_text": "14 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2459,
+      "distance_text": "2.5 km",
+      "duration_s": 612,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 1716,
+      "distance_text": "1.7 km",
+      "duration_s": 386,
+      "duration_text": "6 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 18542,
+      "distance_text": "18.5 km",
+      "duration_s": 1612,
+      "duration_text": "27 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2341,
+      "distance_text": "2.3 km",
+      "duration_s": 456,
+      "duration_text": "8 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1390,
+      "distance_text": "1.4 km",
+      "duration_s": 317,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 3612,
+      "distance_text": "3.6 km",
+      "duration_s": 706,
+      "duration_text": "12 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 18877,
+      "distance_text": "18.9 km",
+      "duration_s": 1723,
+      "duration_text": "29 mins"
+    }
+  }
+}

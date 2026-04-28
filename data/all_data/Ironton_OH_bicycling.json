@@ -1,0 +1,126 @@
+{
+  "city": "Ironton, OH",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 196,
+      "distance_text": "0.2 km",
+      "duration_s": 39,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 4765,
+      "distance_text": "4.8 km",
+      "duration_s": 1277,
+      "duration_text": "21 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 31761,
+      "distance_text": "31.8 km",
+      "duration_s": 6736,
+      "duration_text": "1 hour 52 mins"
+    },
+    "local icon|home": {
+      "distance_m": 91,
+      "distance_text": "91 m",
+      "duration_s": 12,
+      "duration_text": "1 min"
+    },
+    "local icon|downtown": {
+      "distance_m": 171,
+      "distance_text": "0.2 km",
+      "duration_s": 29,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 4739,
+      "distance_text": "4.7 km",
+      "duration_s": 1265,
+      "duration_text": "21 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 31736,
+      "distance_text": "31.7 km",
+      "duration_s": 6727,
+      "duration_text": "1 hour 52 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2345,
+      "distance_text": "2.3 km",
+      "duration_s": 533,
+      "duration_text": "9 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2289,
+      "distance_text": "2.3 km",
+      "duration_s": 530,
+      "duration_text": "9 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6382,
+      "distance_text": "6.4 km",
+      "duration_s": 1685,
+      "duration_text": "28 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 33571,
+      "distance_text": "33.6 km",
+      "duration_s": 7178,
+      "duration_text": "2 hours 0 mins"
+    },
+    "hospital|home": {
+      "distance_m": 5933,
+      "distance_text": "5.9 km",
+      "duration_s": 1367,
+      "duration_text": "23 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 6129,
+      "distance_text": "6.1 km",
+      "duration_s": 1406,
+      "duration_text": "23 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 10106,
+      "distance_text": "10.1 km",
+      "duration_s": 2516,
+      "duration_text": "42 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 39344,
+      "distance_text": "39.3 km",
+      "duration_s": 8172,
+      "duration_text": "2 hours 16 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1555,
+      "distance_text": "1.6 km",
+      "duration_s": 316,
+      "duration_text": "5 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1499,
+      "distance_text": "1.5 km",
+      "duration_s": 313,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5592,
+      "distance_text": "5.6 km",
+      "duration_s": 1468,
+      "duration_text": "24 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 32781,
+      "distance_text": "32.8 km",
+      "duration_s": 6961,
+      "duration_text": "1 hour 56 mins"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "city": "Midland, TX",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2016,
+      "distance_text": "2.0 km",
+      "duration_s": 225,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 4533,
+      "distance_text": "4.5 km",
+      "duration_s": 461,
+      "duration_text": "8 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 31837,
+      "distance_text": "31.8 km",
+      "duration_s": 1722,
+      "duration_text": "29 mins"
+    },
+    "local icon|home": {
+      "distance_m": 3569,
+      "distance_text": "3.6 km",
+      "duration_s": 360,
+      "duration_text": "6 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 4799,
+      "distance_text": "4.8 km",
+      "duration_s": 430,
+      "duration_text": "7 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 2604,
+      "distance_text": "2.6 km",
+      "duration_s": 284,
+      "duration_text": "5 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 31328,
+      "distance_text": "31.3 km",
+      "duration_s": 1416,
+      "duration_text": "24 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2651,
+      "distance_text": "2.7 km",
+      "duration_s": 296,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 4735,
+      "distance_text": "4.7 km",
+      "duration_s": 440,
+      "duration_text": "7 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5160,
+      "distance_text": "5.2 km",
+      "duration_s": 550,
+      "duration_text": "9 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 34364,
+      "distance_text": "34.4 km",
+      "duration_s": 1783,
+      "duration_text": "30 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1389,
+      "distance_text": "1.4 km",
+      "duration_s": 187,
+      "duration_text": "3 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3072,
+      "distance_text": "3.1 km",
+      "duration_s": 349,
+      "duration_text": "6 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3533,
+      "distance_text": "3.5 km",
+      "duration_s": 378,
+      "duration_text": "6 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 30836,
+      "distance_text": "30.8 km",
+      "duration_s": 1638,
+      "duration_text": "27 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3296,
+      "distance_text": "3.3 km",
+      "duration_s": 319,
+      "duration_text": "5 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 5036,
+      "distance_text": "5.0 km",
+      "duration_s": 465,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2790,
+      "distance_text": "2.8 km",
+      "duration_s": 322,
+      "duration_text": "5 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 31643,
+      "distance_text": "31.6 km",
+      "duration_s": 1663,
+      "duration_text": "28 mins"
+    }
+  }
+}

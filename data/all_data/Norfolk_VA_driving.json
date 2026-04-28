@@ -1,0 +1,126 @@
+{
+  "city": "Norfolk, VA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1393,
+      "distance_text": "1.4 km",
+      "duration_s": 364,
+      "duration_text": "6 mins"
+    },
+    "home|nature": {
+      "distance_m": 19344,
+      "distance_text": "19.3 km",
+      "duration_s": 1188,
+      "duration_text": "20 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 31094,
+      "distance_text": "31.1 km",
+      "duration_s": 1546,
+      "duration_text": "26 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1431,
+      "distance_text": "1.4 km",
+      "duration_s": 313,
+      "duration_text": "5 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1018,
+      "distance_text": "1.0 km",
+      "duration_s": 245,
+      "duration_text": "4 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 17637,
+      "distance_text": "17.6 km",
+      "duration_s": 939,
+      "duration_text": "16 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 29387,
+      "distance_text": "29.4 km",
+      "duration_s": 1297,
+      "duration_text": "22 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1080,
+      "distance_text": "1.1 km",
+      "duration_s": 179,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1921,
+      "distance_text": "1.9 km",
+      "duration_s": 367,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 19924,
+      "distance_text": "19.9 km",
+      "duration_s": 1254,
+      "duration_text": "21 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 31674,
+      "distance_text": "31.7 km",
+      "duration_s": 1612,
+      "duration_text": "27 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1719,
+      "distance_text": "1.7 km",
+      "duration_s": 324,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2961,
+      "distance_text": "3.0 km",
+      "duration_s": 499,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 21010,
+      "distance_text": "21.0 km",
+      "duration_s": 1373,
+      "duration_text": "23 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 32760,
+      "distance_text": "32.8 km",
+      "duration_s": 1730,
+      "duration_text": "29 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2476,
+      "distance_text": "2.5 km",
+      "duration_s": 343,
+      "duration_text": "6 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1479,
+      "distance_text": "1.5 km",
+      "duration_s": 239,
+      "duration_text": "4 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 18591,
+      "distance_text": "18.6 km",
+      "duration_s": 983,
+      "duration_text": "16 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 30341,
+      "distance_text": "30.3 km",
+      "duration_s": 1341,
+      "duration_text": "22 mins"
+    }
+  }
+}

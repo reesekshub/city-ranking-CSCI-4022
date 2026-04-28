@@ -1,0 +1,126 @@
+{
+  "city": "Pocatello, ID",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1557,
+      "distance_text": "1.6 km",
+      "duration_s": 448,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 2702,
+      "distance_text": "2.7 km",
+      "duration_s": 649,
+      "duration_text": "11 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 97292,
+      "distance_text": "97.3 km",
+      "duration_s": 17607,
+      "duration_text": "4 hours 53 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2564,
+      "distance_text": "2.6 km",
+      "duration_s": 406,
+      "duration_text": "7 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 3678,
+      "distance_text": "3.7 km",
+      "duration_s": 704,
+      "duration_text": "12 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 4062,
+      "distance_text": "4.1 km",
+      "duration_s": 823,
+      "duration_text": "14 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 99277,
+      "distance_text": "99.3 km",
+      "duration_s": 17880,
+      "duration_text": "4 hours 58 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1168,
+      "distance_text": "1.2 km",
+      "duration_s": 259,
+      "duration_text": "4 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2303,
+      "distance_text": "2.3 km",
+      "duration_s": 547,
+      "duration_text": "9 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 3757,
+      "distance_text": "3.8 km",
+      "duration_s": 879,
+      "duration_text": "15 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 96900,
+      "distance_text": "96.9 km",
+      "duration_s": 17434,
+      "duration_text": "4 hours 51 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1564,
+      "distance_text": "1.6 km",
+      "duration_s": 292,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2491,
+      "distance_text": "2.5 km",
+      "duration_s": 582,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3274,
+      "distance_text": "3.3 km",
+      "duration_s": 748,
+      "duration_text": "12 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 97840,
+      "distance_text": "97.8 km",
+      "duration_s": 17627,
+      "duration_text": "4 hours 54 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2694,
+      "distance_text": "2.7 km",
+      "duration_s": 422,
+      "duration_text": "7 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3808,
+      "distance_text": "3.8 km",
+      "duration_s": 721,
+      "duration_text": "12 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 4192,
+      "distance_text": "4.2 km",
+      "duration_s": 839,
+      "duration_text": "14 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 99407,
+      "distance_text": "99.4 km",
+      "duration_s": 17897,
+      "duration_text": "4 hours 58 mins"
+    }
+  }
+}

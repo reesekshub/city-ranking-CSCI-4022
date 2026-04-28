@@ -1,0 +1,126 @@
+{
+  "city": "Allentown, PA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 4847,
+      "distance_text": "4.8 km",
+      "duration_s": 1015,
+      "duration_text": "17 mins"
+    },
+    "home|nature": {
+      "distance_m": 5256,
+      "distance_text": "5.3 km",
+      "duration_s": 1157,
+      "duration_text": "19 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 16538,
+      "distance_text": "16.5 km",
+      "duration_s": 3376,
+      "duration_text": "56 mins"
+    },
+    "local icon|home": {
+      "distance_m": 7287,
+      "distance_text": "7.3 km",
+      "duration_s": 1598,
+      "duration_text": "27 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2549,
+      "distance_text": "2.5 km",
+      "duration_s": 666,
+      "duration_text": "11 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 4674,
+      "distance_text": "4.7 km",
+      "duration_s": 1076,
+      "duration_text": "18 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 11988,
+      "distance_text": "12.0 km",
+      "duration_s": 2531,
+      "duration_text": "42 mins"
+    },
+    "grocery|home": {
+      "distance_m": 5242,
+      "distance_text": "5.2 km",
+      "duration_s": 1154,
+      "duration_text": "19 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 8295,
+      "distance_text": "8.3 km",
+      "duration_s": 1792,
+      "duration_text": "30 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6610,
+      "distance_text": "6.6 km",
+      "duration_s": 1400,
+      "duration_text": "23 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 22243,
+      "distance_text": "22.2 km",
+      "duration_s": 4618,
+      "duration_text": "1 hour 17 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2040,
+      "distance_text": "2.0 km",
+      "duration_s": 484,
+      "duration_text": "8 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2942,
+      "distance_text": "2.9 km",
+      "duration_s": 614,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2991,
+      "distance_text": "3.0 km",
+      "duration_s": 710,
+      "duration_text": "12 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 17126,
+      "distance_text": "17.1 km",
+      "duration_s": 3489,
+      "duration_text": "58 mins"
+    },
+    "stadium|home": {
+      "distance_m": 10511,
+      "distance_text": "10.5 km",
+      "duration_s": 2442,
+      "duration_text": "41 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 5908,
+      "distance_text": "5.9 km",
+      "duration_s": 1388,
+      "duration_text": "23 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 7241,
+      "distance_text": "7.2 km",
+      "duration_s": 1668,
+      "duration_text": "28 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 8716,
+      "distance_text": "8.7 km",
+      "duration_s": 1834,
+      "duration_text": "31 mins"
+    }
+  }
+}

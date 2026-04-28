@@ -1,0 +1,126 @@
+{
+  "city": "Hot Springs, AR",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 752,
+      "distance_text": "0.8 km",
+      "duration_s": 175,
+      "duration_text": "3 mins"
+    },
+    "home|nature": {
+      "distance_m": 2471,
+      "distance_text": "2.5 km",
+      "duration_s": 1154,
+      "duration_text": "19 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 53251,
+      "distance_text": "53.3 km",
+      "duration_s": 10553,
+      "duration_text": "2 hours 56 mins"
+    },
+    "local icon|home": {
+      "distance_m": 530,
+      "distance_text": "0.5 km",
+      "duration_s": 127,
+      "duration_text": "2 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 1755,
+      "distance_text": "1.8 km",
+      "duration_s": 985,
+      "duration_text": "16 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 52926,
+      "distance_text": "52.9 km",
+      "duration_s": 10574,
+      "duration_text": "2 hours 56 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1905,
+      "distance_text": "1.9 km",
+      "duration_s": 484,
+      "duration_text": "8 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2303,
+      "distance_text": "2.3 km",
+      "duration_s": 561,
+      "duration_text": "9 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 4022,
+      "distance_text": "4.0 km",
+      "duration_s": 1540,
+      "duration_text": "26 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 55115,
+      "distance_text": "55.1 km",
+      "duration_s": 10990,
+      "duration_text": "3 hours 3 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2135,
+      "distance_text": "2.1 km",
+      "duration_s": 514,
+      "duration_text": "9 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2951,
+      "distance_text": "3.0 km",
+      "duration_s": 643,
+      "duration_text": "11 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 4670,
+      "distance_text": "4.7 km",
+      "duration_s": 1622,
+      "duration_text": "27 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 55012,
+      "distance_text": "55.0 km",
+      "duration_s": 10955,
+      "duration_text": "3 hours 3 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2994,
+      "distance_text": "3.0 km",
+      "duration_s": 745,
+      "duration_text": "12 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 4207,
+      "distance_text": "4.2 km",
+      "duration_s": 928,
+      "duration_text": "15 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5925,
+      "distance_text": "5.9 km",
+      "duration_s": 1907,
+      "duration_text": "32 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 56268,
+      "distance_text": "56.3 km",
+      "duration_s": 11239,
+      "duration_text": "3 hours 7 mins"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "city": "Savannah, GA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2120,
+      "distance_text": "2.1 km",
+      "duration_s": 401,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 929,
+      "distance_text": "0.9 km",
+      "duration_s": 165,
+      "duration_text": "3 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 65864,
+      "distance_text": "65.9 km",
+      "duration_s": 2846,
+      "duration_text": "47 mins"
+    },
+    "local icon|home": {
+      "distance_m": 844,
+      "distance_text": "0.8 km",
+      "duration_s": 137,
+      "duration_text": "2 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1520,
+      "distance_text": "1.5 km",
+      "duration_s": 315,
+      "duration_text": "5 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nearby city": {
+      "distance_m": 65852,
+      "distance_text": "65.9 km",
+      "duration_s": 2769,
+      "duration_text": "46 mins"
+    },
+    "grocery|home": {
+      "distance_m": 5765,
+      "distance_text": "5.8 km",
+      "duration_s": 700,
+      "duration_text": "12 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 14237,
+      "distance_text": "14.2 km",
+      "duration_s": 946,
+      "duration_text": "16 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6423,
+      "distance_text": "6.4 km",
+      "duration_s": 763,
+      "duration_text": "13 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 70485,
+      "distance_text": "70.5 km",
+      "duration_s": 3016,
+      "duration_text": "50 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3594,
+      "distance_text": "3.6 km",
+      "duration_s": 464,
+      "duration_text": "8 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 5444,
+      "distance_text": "5.4 km",
+      "duration_s": 762,
+      "duration_text": "13 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 4252,
+      "distance_text": "4.3 km",
+      "duration_s": 526,
+      "duration_text": "9 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 68291,
+      "distance_text": "68.3 km",
+      "duration_s": 3088,
+      "duration_text": "51 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2614,
+      "distance_text": "2.6 km",
+      "duration_s": 357,
+      "duration_text": "6 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 4367,
+      "distance_text": "4.4 km",
+      "duration_s": 459,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2579,
+      "distance_text": "2.6 km",
+      "duration_s": 336,
+      "duration_text": "6 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 64010,
+      "distance_text": "64.0 km",
+      "duration_s": 2650,
+      "duration_text": "44 mins"
+    }
+  }
+}

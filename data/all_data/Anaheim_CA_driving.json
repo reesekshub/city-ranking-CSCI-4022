@@ -1,0 +1,126 @@
+{
+  "city": "Anaheim, CA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 19973,
+      "distance_text": "20.0 km",
+      "duration_s": 1275,
+      "duration_text": "21 mins"
+    },
+    "home|nature": {
+      "distance_m": 4913,
+      "distance_text": "4.9 km",
+      "duration_s": 497,
+      "duration_text": "8 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 23189,
+      "distance_text": "23.2 km",
+      "duration_s": 1476,
+      "duration_text": "25 mins"
+    },
+    "local icon|home": {
+      "distance_m": 26994,
+      "distance_text": "27.0 km",
+      "duration_s": 1439,
+      "duration_text": "24 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 4011,
+      "distance_text": "4.0 km",
+      "duration_s": 641,
+      "duration_text": "11 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 26281,
+      "distance_text": "26.3 km",
+      "duration_s": 1346,
+      "duration_text": "22 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 10491,
+      "distance_text": "10.5 km",
+      "duration_s": 811,
+      "duration_text": "14 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1351,
+      "distance_text": "1.4 km",
+      "duration_s": 200,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 19380,
+      "distance_text": "19.4 km",
+      "duration_s": 1224,
+      "duration_text": "20 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 4320,
+      "distance_text": "4.3 km",
+      "duration_s": 446,
+      "duration_text": "7 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 22596,
+      "distance_text": "22.6 km",
+      "duration_s": 1425,
+      "duration_text": "24 mins"
+    },
+    "hospital|home": {
+      "distance_m": 29689,
+      "distance_text": "29.7 km",
+      "duration_s": 1740,
+      "duration_text": "29 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 9225,
+      "distance_text": "9.2 km",
+      "duration_s": 984,
+      "duration_text": "16 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 28977,
+      "distance_text": "29.0 km",
+      "duration_s": 1647,
+      "duration_text": "27 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 20925,
+      "distance_text": "20.9 km",
+      "duration_s": 1433,
+      "duration_text": "24 mins"
+    },
+    "stadium|home": {
+      "distance_m": 18897,
+      "distance_text": "18.9 km",
+      "duration_s": 1205,
+      "duration_text": "20 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 6934,
+      "distance_text": "6.9 km",
+      "duration_s": 844,
+      "duration_text": "14 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 18185,
+      "distance_text": "18.2 km",
+      "duration_s": 1112,
+      "duration_text": "19 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 7251,
+      "distance_text": "7.3 km",
+      "duration_s": 702,
+      "duration_text": "12 mins"
+    }
+  }
+}

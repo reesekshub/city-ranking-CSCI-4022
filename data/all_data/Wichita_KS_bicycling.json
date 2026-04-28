@@ -1,0 +1,126 @@
+{
+  "city": "Wichita, KS",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 4013,
+      "distance_text": "4.0 km",
+      "duration_s": 895,
+      "duration_text": "15 mins"
+    },
+    "home|nature": {
+      "distance_m": 10401,
+      "distance_text": "10.4 km",
+      "duration_s": 2155,
+      "duration_text": "36 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 95734,
+      "distance_text": "95.7 km",
+      "duration_s": 17838,
+      "duration_text": "4 hours 57 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4116,
+      "distance_text": "4.1 km",
+      "duration_s": 944,
+      "duration_text": "16 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 508,
+      "distance_text": "0.5 km",
+      "duration_s": 142,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 7546,
+      "distance_text": "7.5 km",
+      "duration_s": 1436,
+      "duration_text": "24 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 92878,
+      "distance_text": "92.9 km",
+      "duration_s": 17118,
+      "duration_text": "4 hours 45 mins"
+    },
+    "grocery|home": {
+      "distance_m": 790,
+      "distance_text": "0.8 km",
+      "duration_s": 208,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3498,
+      "distance_text": "3.5 km",
+      "duration_s": 808,
+      "duration_text": "13 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 9886,
+      "distance_text": "9.9 km",
+      "duration_s": 2069,
+      "duration_text": "34 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 95218,
+      "distance_text": "95.2 km",
+      "duration_s": 17751,
+      "duration_text": "4 hours 56 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1293,
+      "distance_text": "1.3 km",
+      "duration_s": 269,
+      "duration_text": "4 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4659,
+      "distance_text": "4.7 km",
+      "duration_s": 1008,
+      "duration_text": "17 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 11047,
+      "distance_text": "11.0 km",
+      "duration_s": 2269,
+      "duration_text": "38 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 96379,
+      "distance_text": "96.4 km",
+      "duration_s": 17951,
+      "duration_text": "4 hours 59 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4065,
+      "distance_text": "4.1 km",
+      "duration_s": 915,
+      "duration_text": "15 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1134,
+      "distance_text": "1.1 km",
+      "duration_s": 281,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 7482,
+      "distance_text": "7.5 km",
+      "duration_s": 1454,
+      "duration_text": "24 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 92814,
+      "distance_text": "92.8 km",
+      "duration_s": 17136,
+      "duration_text": "4 hours 46 mins"
+    }
+  }
+}

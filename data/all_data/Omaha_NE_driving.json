@@ -1,0 +1,126 @@
+{
+  "city": "Omaha, NE",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 4726,
+      "distance_text": "4.7 km",
+      "duration_s": 579,
+      "duration_text": "10 mins"
+    },
+    "home|nature": {
+      "distance_m": 14366,
+      "distance_text": "14.4 km",
+      "duration_s": 902,
+      "duration_text": "15 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 12139,
+      "distance_text": "12.1 km",
+      "duration_s": 899,
+      "duration_text": "15 mins"
+    },
+    "local icon|home": {
+      "distance_m": 9968,
+      "distance_text": "10.0 km",
+      "duration_s": 637,
+      "duration_text": "11 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 3769,
+      "distance_text": "3.8 km",
+      "duration_s": 464,
+      "duration_text": "8 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 7564,
+      "distance_text": "7.6 km",
+      "duration_s": 612,
+      "duration_text": "10 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 11914,
+      "distance_text": "11.9 km",
+      "duration_s": 740,
+      "duration_text": "12 mins"
+    },
+    "grocery|home": {
+      "distance_m": 837,
+      "distance_text": "0.8 km",
+      "duration_s": 102,
+      "duration_text": "2 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 4291,
+      "distance_text": "4.3 km",
+      "duration_s": 479,
+      "duration_text": "8 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 13938,
+      "distance_text": "13.9 km",
+      "duration_s": 852,
+      "duration_text": "14 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 11538,
+      "distance_text": "11.5 km",
+      "duration_s": 865,
+      "duration_text": "14 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1398,
+      "distance_text": "1.4 km",
+      "duration_s": 171,
+      "duration_text": "3 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4571,
+      "distance_text": "4.6 km",
+      "duration_s": 577,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 13306,
+      "distance_text": "13.3 km",
+      "duration_s": 862,
+      "duration_text": "14 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 12298,
+      "distance_text": "12.3 km",
+      "duration_s": 979,
+      "duration_text": "16 mins"
+    },
+    "stadium|home": {
+      "distance_m": 5425,
+      "distance_text": "5.4 km",
+      "duration_s": 610,
+      "duration_text": "10 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2667,
+      "distance_text": "2.7 km",
+      "duration_s": 480,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 14787,
+      "distance_text": "14.8 km",
+      "duration_s": 911,
+      "duration_text": "15 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 7914,
+      "distance_text": "7.9 km",
+      "duration_s": 778,
+      "duration_text": "13 mins"
+    }
+  }
+}

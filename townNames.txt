@@ -1,0 +1,100 @@
+1.Boulder, CO
+2.Denver, CO
+3.Indianapolis
+4.Fayetteville, AK
+5.Jacksonville, FL
+6.Phoenix, AZ
+7.Tucson, AZ
+8.Davis, CA
+9.Anaheim, CA
+10.Tacoma, WA
+11.Portland, MA
+12.Ann Arbor, MI
+13.Jackson, MS
+14.Tulsa, OK
+15.Dallas, TX
+16.Austin, TX
+17.Johnson City, TN
+18.Huntsville, AL
+19.Fairbanks, AK
+20.Fort Collins, CO
+21.Salt Lake City, UT
+22.Albany, NY
+23.Baltimore, MD
+24.Westchester, CT
+25.Spokane, WA
+26.Raton, NM
+27.Albuquerque, NM
+28.Bozeman, MT
+29.Asheville, NC
+30.Savannah, GA
+31.Salina, KS
+32.Eugene, OR
+33.Lexington, KY
+34.Charleston, WV
+35.Duluth, MN
+36.Minneapolis, MN
+37.Casper, WY
+38.Grand Junction, CO
+39.Boise, ID
+40.Pocatello, ID
+41.Lubbock, TX
+42.Baton Rouge, LA
+43.Destin, FL
+44.Columbia, SC
+45.Columbia, MO
+46.Chattanooga, TN
+47.Charlottesville, VA
+48.Hot Springs, AK
+49.Akron, OH
+50.Fort Wayne, IN
+51.Dover, DE
+52.Norfolk, NJ
+53.Punxsutawney, PA
+54.Syracuse, NY
+55.Hartford, CT
+56.Worcester, MA
+57.Burlington, VT
+58.Bangor, ME
+59.Lansing, MI
+60.Kenosha, WI
+61.St. Louis, MO
+62.Madison, WI
+63.Omaha, NB
+64.Wichita, KS
+65.Rapid City, SD
+66.Fargo, ND
+67.Flagstaff, AZ
+68.Bakersfield, CA
+69.Santa Barbara, CA
+70.San Luis Obispo, CA
+71.Santa Cruz, CA
+72.Corvallis, OR
+73.Forks, WA
+74.Bellingham, WA
+75.Peoria, IL
+76.Traverse City, MI
+77.Atlantic City, NJ
+78.Allentown, PA
+79.Wilmington, DE
+80.Sarasota, FL
+81.Midland, TX
+82.St. George, UT
+83.Jackson, WY
+84.Bend, OR
+85.Reno, NV
+86.Hayward, CA
+87.Carlsbad, CA
+88.Mesquite, NV
+89.Alamosa, CO
+90.Cedar Rapids, IA
+91.Rolla, MO
+92.Branson, MO
+93.Carbondale, IL
+94.Ironton, OH
+95.Lansing, MI
+96.Greensboro, NC
+97.Altoona, PA
+98.Providence, RI
+99.Keene, NH
+100.Hattiesburg, MS

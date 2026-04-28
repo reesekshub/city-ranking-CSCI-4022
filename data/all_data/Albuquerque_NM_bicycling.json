@@ -1,0 +1,126 @@
+{
+  "city": "Albuquerque, NM",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 4553,
+      "distance_text": "4.6 km",
+      "duration_s": 915,
+      "duration_text": "15 mins"
+    },
+    "home|nature": {
+      "distance_m": 19963,
+      "distance_text": "20.0 km",
+      "duration_s": 4592,
+      "duration_text": "1 hour 17 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 24120,
+      "distance_text": "24.1 km",
+      "duration_s": 4829,
+      "duration_text": "1 hour 20 mins"
+    },
+    "local icon|home": {
+      "distance_m": 6983,
+      "distance_text": "7.0 km",
+      "duration_s": 1881,
+      "duration_text": "31 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2609,
+      "distance_text": "2.6 km",
+      "duration_s": 570,
+      "duration_text": "10 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 26760,
+      "distance_text": "26.8 km",
+      "duration_s": 5853,
+      "duration_text": "1 hour 38 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 20431,
+      "distance_text": "20.4 km",
+      "duration_s": 4084,
+      "duration_text": "1 hour 8 mins"
+    },
+    "grocery|home": {
+      "distance_m": 99,
+      "distance_text": "0.1 km",
+      "duration_s": 25,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 4653,
+      "distance_text": "4.7 km",
+      "duration_s": 940,
+      "duration_text": "16 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 19938,
+      "distance_text": "19.9 km",
+      "duration_s": 4563,
+      "duration_text": "1 hour 16 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 24016,
+      "distance_text": "24.0 km",
+      "duration_s": 4785,
+      "duration_text": "1 hour 20 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1617,
+      "distance_text": "1.6 km",
+      "duration_s": 334,
+      "duration_text": "6 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3221,
+      "distance_text": "3.2 km",
+      "duration_s": 688,
+      "duration_text": "11 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 20925,
+      "distance_text": "20.9 km",
+      "duration_s": 4817,
+      "duration_text": "1 hour 20 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 22774,
+      "distance_text": "22.8 km",
+      "duration_s": 4608,
+      "duration_text": "1 hour 17 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3503,
+      "distance_text": "3.5 km",
+      "duration_s": 815,
+      "duration_text": "14 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3719,
+      "distance_text": "3.7 km",
+      "duration_s": 754,
+      "duration_text": "13 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 23864,
+      "distance_text": "23.9 km",
+      "duration_s": 5478,
+      "duration_text": "1 hour 31 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 25652,
+      "distance_text": "25.7 km",
+      "duration_s": 5016,
+      "duration_text": "1 hour 24 mins"
+    }
+  }
+}

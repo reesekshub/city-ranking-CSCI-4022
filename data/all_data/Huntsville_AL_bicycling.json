@@ -1,0 +1,126 @@
+{
+  "city": "Huntsville, AL",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 969,
+      "distance_text": "1.0 km",
+      "duration_s": 219,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 8776,
+      "distance_text": "8.8 km",
+      "duration_s": 2926,
+      "duration_text": "49 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 49355,
+      "distance_text": "49.4 km",
+      "duration_s": 9413,
+      "duration_text": "2 hours 37 mins"
+    },
+    "local icon|home": {
+      "distance_m": 8720,
+      "distance_text": "8.7 km",
+      "duration_s": 1764,
+      "duration_text": "29 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 7997,
+      "distance_text": "8.0 km",
+      "duration_s": 1609,
+      "duration_text": "27 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 17496,
+      "distance_text": "17.5 km",
+      "duration_s": 4690,
+      "duration_text": "1 hour 18 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 45057,
+      "distance_text": "45.1 km",
+      "duration_s": 8422,
+      "duration_text": "2 hours 20 mins"
+    },
+    "grocery|home": {
+      "distance_m": 8494,
+      "distance_text": "8.5 km",
+      "duration_s": 1766,
+      "duration_text": "29 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 7826,
+      "distance_text": "7.8 km",
+      "duration_s": 1710,
+      "duration_text": "29 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 17270,
+      "distance_text": "17.3 km",
+      "duration_s": 4692,
+      "duration_text": "1 hour 18 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 50622,
+      "distance_text": "50.6 km",
+      "duration_s": 9338,
+      "duration_text": "2 hours 36 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2060,
+      "distance_text": "2.1 km",
+      "duration_s": 444,
+      "duration_text": "7 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1097,
+      "distance_text": "1.1 km",
+      "duration_s": 235,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 10836,
+      "distance_text": "10.8 km",
+      "duration_s": 3370,
+      "duration_text": "56 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 49056,
+      "distance_text": "49.1 km",
+      "duration_s": 9358,
+      "duration_text": "2 hours 36 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1691,
+      "distance_text": "1.7 km",
+      "duration_s": 437,
+      "duration_text": "7 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 730,
+      "distance_text": "0.7 km",
+      "duration_s": 210,
+      "duration_text": "4 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 10468,
+      "distance_text": "10.5 km",
+      "duration_s": 3363,
+      "duration_text": "56 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 48581,
+      "distance_text": "48.6 km",
+      "duration_s": 9284,
+      "duration_text": "2 hours 35 mins"
+    }
+  }
+}

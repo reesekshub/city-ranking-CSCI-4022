@@ -1,0 +1,126 @@
+{
+  "city": "Lansing, MI",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2113,
+      "distance_text": "2.1 km",
+      "duration_s": 327,
+      "duration_text": "5 mins"
+    },
+    "home|nature": {
+      "distance_m": 6615,
+      "distance_text": "6.6 km",
+      "duration_s": 591,
+      "duration_text": "10 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 6856,
+      "distance_text": "6.9 km",
+      "duration_s": 712,
+      "duration_text": "12 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2142,
+      "distance_text": "2.1 km",
+      "duration_s": 368,
+      "duration_text": "6 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 5279,
+      "distance_text": "5.3 km",
+      "duration_s": 526,
+      "duration_text": "9 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 7211,
+      "distance_text": "7.2 km",
+      "duration_s": 750,
+      "duration_text": "13 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1298,
+      "distance_text": "1.3 km",
+      "duration_s": 207,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1813,
+      "distance_text": "1.8 km",
+      "duration_s": 295,
+      "duration_text": "5 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5418,
+      "distance_text": "5.4 km",
+      "duration_s": 454,
+      "duration_text": "8 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 5660,
+      "distance_text": "5.7 km",
+      "duration_s": 574,
+      "duration_text": "10 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2515,
+      "distance_text": "2.5 km",
+      "duration_s": 297,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1989,
+      "distance_text": "2.0 km",
+      "duration_s": 307,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 5594,
+      "distance_text": "5.6 km",
+      "duration_s": 466,
+      "duration_text": "8 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 5221,
+      "distance_text": "5.2 km",
+      "duration_s": 512,
+      "duration_text": "9 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2588,
+      "distance_text": "2.6 km",
+      "duration_s": 343,
+      "duration_text": "6 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 952,
+      "distance_text": "1.0 km",
+      "duration_s": 170,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 4522,
+      "distance_text": "4.5 km",
+      "duration_s": 348,
+      "duration_text": "6 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 6380,
+      "distance_text": "6.4 km",
+      "duration_s": 640,
+      "duration_text": "11 mins"
+    }
+  }
+}

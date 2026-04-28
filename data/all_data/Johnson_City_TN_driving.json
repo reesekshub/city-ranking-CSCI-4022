@@ -1,0 +1,126 @@
+{
+  "city": "Johnson City, TN",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 741,
+      "distance_text": "0.7 km",
+      "duration_s": 161,
+      "duration_text": "3 mins"
+    },
+    "home|nature": {
+      "distance_m": 6568,
+      "distance_text": "6.6 km",
+      "duration_s": 633,
+      "duration_text": "11 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 36122,
+      "distance_text": "36.1 km",
+      "duration_s": 1597,
+      "duration_text": "27 mins"
+    },
+    "local icon|home": {
+      "distance_m": 3747,
+      "distance_text": "3.7 km",
+      "duration_s": 484,
+      "duration_text": "8 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 3272,
+      "distance_text": "3.3 km",
+      "duration_s": 483,
+      "duration_text": "8 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3901,
+      "distance_text": "3.9 km",
+      "duration_s": 438,
+      "duration_text": "7 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 41726,
+      "distance_text": "41.7 km",
+      "duration_s": 2046,
+      "duration_text": "34 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1379,
+      "distance_text": "1.4 km",
+      "duration_s": 195,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2122,
+      "distance_text": "2.1 km",
+      "duration_s": 357,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 8637,
+      "distance_text": "8.6 km",
+      "duration_s": 717,
+      "duration_text": "12 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 35978,
+      "distance_text": "36.0 km",
+      "duration_s": 1611,
+      "duration_text": "27 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3223,
+      "distance_text": "3.2 km",
+      "duration_s": 355,
+      "duration_text": "6 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4404,
+      "distance_text": "4.4 km",
+      "duration_s": 473,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 8633,
+      "distance_text": "8.6 km",
+      "duration_s": 855,
+      "duration_text": "14 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 34222,
+      "distance_text": "34.2 km",
+      "duration_s": 1687,
+      "duration_text": "28 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4125,
+      "distance_text": "4.1 km",
+      "duration_s": 458,
+      "duration_text": "8 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 5047,
+      "distance_text": "5.0 km",
+      "duration_s": 558,
+      "duration_text": "9 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 7789,
+      "distance_text": "7.8 km",
+      "duration_s": 773,
+      "duration_text": "13 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 34347,
+      "distance_text": "34.3 km",
+      "duration_s": 1661,
+      "duration_text": "28 mins"
+    }
+  }
+}

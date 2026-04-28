@@ -1,0 +1,126 @@
+{
+  "city": "Santa Barbara, CA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2727,
+      "distance_text": "2.7 km",
+      "duration_s": 398,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 11742,
+      "distance_text": "11.7 km",
+      "duration_s": 780,
+      "duration_text": "13 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 13515,
+      "distance_text": "13.5 km",
+      "duration_s": 847,
+      "duration_text": "14 mins"
+    },
+    "local icon|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|downtown": {
+      "distance_m": 2727,
+      "distance_text": "2.7 km",
+      "duration_s": 398,
+      "duration_text": "7 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 11742,
+      "distance_text": "11.7 km",
+      "duration_s": 780,
+      "duration_text": "13 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 13515,
+      "distance_text": "13.5 km",
+      "duration_s": 847,
+      "duration_text": "14 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1730,
+      "distance_text": "1.7 km",
+      "duration_s": 263,
+      "duration_text": "4 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1426,
+      "distance_text": "1.4 km",
+      "duration_s": 231,
+      "duration_text": "4 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 8543,
+      "distance_text": "8.5 km",
+      "duration_s": 693,
+      "duration_text": "12 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 13805,
+      "distance_text": "13.8 km",
+      "duration_s": 790,
+      "duration_text": "13 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1023,
+      "distance_text": "1.0 km",
+      "duration_s": 193,
+      "duration_text": "3 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1682,
+      "distance_text": "1.7 km",
+      "duration_s": 232,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 11080,
+      "distance_text": "11.1 km",
+      "duration_s": 662,
+      "duration_text": "11 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 12853,
+      "distance_text": "12.9 km",
+      "duration_s": 729,
+      "duration_text": "12 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2334,
+      "distance_text": "2.3 km",
+      "duration_s": 439,
+      "duration_text": "7 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1561,
+      "distance_text": "1.6 km",
+      "duration_s": 289,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 8050,
+      "distance_text": "8.0 km",
+      "duration_s": 644,
+      "duration_text": "11 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 17058,
+      "distance_text": "17.1 km",
+      "duration_s": 967,
+      "duration_text": "16 mins"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+﻿DCSCI 4022 Final Project Proposal
+Reese Kilbarger-Stumpff
+4-14-2026
+
+
+My goal for this project is to evaluate cities that I might like to move to, and compare them to cities I’ve already been to, with a set of pretty specific criteria. I’ll mostly limit this analysis to transportation times, comparing modalities such as driving, biking, and public transit, although I may sneak in some other data about the cities as needed. 
+
+
+My data source will primarily be Google Maps, using their Distance Matrix API. This allows me to come up with a short list (10 or so) places I would like to navigate between per city, and it will tell me travel times between the places. I am somewhat limited by the free usage of the API, which may limit me to a dozen or so cities, but I think I can get it to several dozen. This will give me on the order of 20 data points per city, which I can supplement (if needed) with additional data about the cities. I guess this is observational data, provided by Google Maps, and then other data about the cities (cost of living maybe? renter protections? population density? sunny days/year?) from other sources as needed.
+
+
+My plan for generating cities and data is as follows: 
+* Create a list of 100 or so cities I may like to move to, limited to US (I won’t use them all)
+* For each city, create a list of 8-10 places I would go
+   * home (approximated by a neighborhood near town)
+   * downtown
+   * nature/park/trails
+   * some sort of local iconic spot
+   * grocery store near ‘home’
+   * hospital
+   * nearby city
+   * etc
+* Use Google Maps to get travel times between these locations
+   * not ‘every dest to every other dest’. Only on predefined paths (“home to downtown”, ‘nature to grocery store’) to be realistic and save on free api calls
+* profit
+
+
+The way I am using this Google Maps data is quite limited; it doesn’t take into consideration myriad other factors surrounding transportation such as weather, safety, reliability, and others. For example, it is often faster for me to get to a given building on campus from my house on my bike than driving, when including time for parking and walking in the constrained campus environment. However, this is not reflected in the Maps times, so there is a pretty large level of hand-waving to sell this as representative of commuting around a city (also, it appears to route my bike ride through the visual arts building somehow, ignoring the faster path around it). However, it seems like a decent approximation for commuting using my 3 most frequent modes.
+
+
+I plan to use a few class tools to make this data set useful. I will try a few different clustering algorithms, and I expect k-means to be most useful here, to find cities which are similar to one another. It may be helpful to use PCA to reduce the dimensions before clustering, because 20-odd dimensional clustering may not be performant. Also, I would like to apply frequent itemsets, because I will include some cities which I have visited and enjoyed, and it would be interesting to treat those as a ‘transaction’ and get other cities recommended to me. This may give essentially the same results as the clustering, but I would like to find out.
+
+
+
+
+
+
+
+
+1. Boulder
+2. Denver
+3. Indianapolis
+4. Fayetteville
+5. Jacksonville
+6. Phoenix
+7. Tucson
+8. Davis
+9. Anaheim
+10. Tacoma
+11. Portland (Maine)
+12. Ann Arbor
+13. Jackson
+14. Tulsa
+15. Dallas
+16. Austin
+17. Johnson City
+18. Huntsville
+19. Fairbanks
+20. Fort Collins
+21. Salt Lake City
+22. Albany
+23. Baltimore
+24. Westchester
+25. Spokane
+26. Raton, NM
+27. Albuquerque
+28. Bozeman
+29. Asheville
+30. Savannah
+31. Salina, Kansas
+32. Eugene
+33. Lexington, KY
+34. Charleston, WV
+35. Duluth
+36. Minneapolis
+37. Casper
+38. Grand Junction
+39. Boise
+40. Pocatello
+41. Lubbock
+42. Baton Rouge
+43. Destin
+44. Columbia, SC
+45. Columbia, MO
+46. Chattanooga
+47. Charlottesville, VA
+48. Hot Springs AK
+49. Akron
+50. Fort Wayne
+51. Dover
+52. Norfolk
+53. Punxsutawney
+54. Syracuse
+55. Hartford
+56. Worcester
+57. Burlington
+58. Bangor
+59. Lansing
+60. Kenosha
+61. St. Louis
+62. Madison
+63. Omaha
+64. Wichita
+65. Rapid City
+66. Fargo
+67.

@@ -1,0 +1,126 @@
+{
+  "city": "Ann Arbor, MI",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 983,
+      "distance_text": "1.0 km",
+      "duration_s": 216,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 2525,
+      "distance_text": "2.5 km",
+      "duration_s": 356,
+      "duration_text": "6 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 24781,
+      "distance_text": "24.8 km",
+      "duration_s": 1258,
+      "duration_text": "21 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2252,
+      "distance_text": "2.3 km",
+      "duration_s": 379,
+      "duration_text": "6 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2243,
+      "distance_text": "2.2 km",
+      "duration_s": 347,
+      "duration_text": "6 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3916,
+      "distance_text": "3.9 km",
+      "duration_s": 634,
+      "duration_text": "11 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 18224,
+      "distance_text": "18.2 km",
+      "duration_s": 997,
+      "duration_text": "17 mins"
+    },
+    "grocery|home": {
+      "distance_m": 4879,
+      "distance_text": "4.9 km",
+      "duration_s": 483,
+      "duration_text": "8 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 4844,
+      "distance_text": "4.8 km",
+      "duration_s": 494,
+      "duration_text": "8 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 6518,
+      "distance_text": "6.5 km",
+      "duration_s": 780,
+      "duration_text": "13 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 22116,
+      "distance_text": "22.1 km",
+      "duration_s": 980,
+      "duration_text": "16 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2104,
+      "distance_text": "2.1 km",
+      "duration_s": 298,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1736,
+      "distance_text": "1.7 km",
+      "duration_s": 363,
+      "duration_text": "6 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 650,
+      "distance_text": "0.6 km",
+      "duration_s": 119,
+      "duration_text": "2 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 13836,
+      "distance_text": "13.8 km",
+      "duration_s": 1280,
+      "duration_text": "21 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2252,
+      "distance_text": "2.3 km",
+      "duration_s": 379,
+      "duration_text": "6 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2243,
+      "distance_text": "2.2 km",
+      "duration_s": 347,
+      "duration_text": "6 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 3916,
+      "distance_text": "3.9 km",
+      "duration_s": 634,
+      "duration_text": "11 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 18224,
+      "distance_text": "18.2 km",
+      "duration_s": 997,
+      "duration_text": "17 mins"
+    }
+  }
+}

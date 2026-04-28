@@ -1,0 +1,126 @@
+{
+  "city": "Jackson, MS",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 5009,
+      "distance_text": "5.0 km",
+      "duration_s": 553,
+      "duration_text": "9 mins"
+    },
+    "home|nature": {
+      "distance_m": 3882,
+      "distance_text": "3.9 km",
+      "duration_s": 420,
+      "duration_text": "7 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 16591,
+      "distance_text": "16.6 km",
+      "duration_s": 895,
+      "duration_text": "15 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4083,
+      "distance_text": "4.1 km",
+      "duration_s": 407,
+      "duration_text": "7 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1669,
+      "distance_text": "1.7 km",
+      "duration_s": 232,
+      "duration_text": "4 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3442,
+      "distance_text": "3.4 km",
+      "duration_s": 445,
+      "duration_text": "7 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 17925,
+      "distance_text": "17.9 km",
+      "duration_s": 898,
+      "duration_text": "15 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1163,
+      "distance_text": "1.2 km",
+      "duration_s": 147,
+      "duration_text": "2 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 5117,
+      "distance_text": "5.1 km",
+      "duration_s": 594,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 4028,
+      "distance_text": "4.0 km",
+      "duration_s": 444,
+      "duration_text": "7 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 13204,
+      "distance_text": "13.2 km",
+      "duration_s": 869,
+      "duration_text": "14 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2593,
+      "distance_text": "2.6 km",
+      "duration_s": 521,
+      "duration_text": "9 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4918,
+      "distance_text": "4.9 km",
+      "duration_s": 815,
+      "duration_text": "14 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3147,
+      "distance_text": "3.1 km",
+      "duration_s": 588,
+      "duration_text": "10 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 15809,
+      "distance_text": "15.8 km",
+      "duration_s": 1035,
+      "duration_text": "17 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3980,
+      "distance_text": "4.0 km",
+      "duration_s": 422,
+      "duration_text": "7 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1634,
+      "distance_text": "1.6 km",
+      "duration_s": 312,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 3137,
+      "distance_text": "3.1 km",
+      "duration_s": 472,
+      "duration_text": "8 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 17753,
+      "distance_text": "17.8 km",
+      "duration_s": 992,
+      "duration_text": "17 mins"
+    }
+  }
+}

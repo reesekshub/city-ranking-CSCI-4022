@@ -1,0 +1,126 @@
+{
+  "city": "Traverse City, MI",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1365,
+      "distance_text": "1.4 km",
+      "duration_s": 320,
+      "duration_text": "5 mins"
+    },
+    "home|nature": {
+      "distance_m": 45933,
+      "distance_text": "45.9 km",
+      "duration_s": 9560,
+      "duration_text": "2 hours 39 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 16490,
+      "distance_text": "16.5 km",
+      "duration_s": 3434,
+      "duration_text": "57 mins"
+    },
+    "local icon|home": {
+      "distance_m": 45557,
+      "distance_text": "45.6 km",
+      "duration_s": 9565,
+      "duration_text": "2 hours 39 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 46923,
+      "distance_text": "46.9 km",
+      "duration_s": 9885,
+      "duration_text": "2 hours 45 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nearby city": {
+      "distance_m": 54047,
+      "distance_text": "54.0 km",
+      "duration_s": 11120,
+      "duration_text": "3 hours 5 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2756,
+      "distance_text": "2.8 km",
+      "duration_s": 598,
+      "duration_text": "10 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1880,
+      "distance_text": "1.9 km",
+      "duration_s": 459,
+      "duration_text": "8 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 48689,
+      "distance_text": "48.7 km",
+      "duration_s": 10159,
+      "duration_text": "2 hours 49 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 14855,
+      "distance_text": "14.9 km",
+      "duration_s": 3150,
+      "duration_text": "53 mins"
+    },
+    "hospital|home": {
+      "distance_m": 106,
+      "distance_text": "0.1 km",
+      "duration_s": 19,
+      "duration_text": "1 min"
+    },
+    "hospital|downtown": {
+      "distance_m": 1472,
+      "distance_text": "1.5 km",
+      "duration_s": 339,
+      "duration_text": "6 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 45827,
+      "distance_text": "45.8 km",
+      "duration_s": 9542,
+      "duration_text": "2 hours 39 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 16596,
+      "distance_text": "16.6 km",
+      "duration_s": 3453,
+      "duration_text": "58 mins"
+    },
+    "stadium|home": {
+      "distance_m": 9147,
+      "distance_text": "9.1 km",
+      "duration_s": 1763,
+      "duration_text": "29 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 8045,
+      "distance_text": "8.0 km",
+      "duration_s": 1587,
+      "duration_text": "26 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 55080,
+      "distance_text": "55.1 km",
+      "duration_s": 11324,
+      "duration_text": "3 hours 9 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 20101,
+      "distance_text": "20.1 km",
+      "duration_s": 4066,
+      "duration_text": "1 hour 8 mins"
+    }
+  }
+}

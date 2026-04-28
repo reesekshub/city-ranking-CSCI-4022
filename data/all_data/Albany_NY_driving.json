@@ -1,0 +1,126 @@
+{
+  "city": "Albany, NY",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2333,
+      "distance_text": "2.3 km",
+      "duration_s": 468,
+      "duration_text": "8 mins"
+    },
+    "home|nature": {
+      "distance_m": 262,
+      "distance_text": "0.3 km",
+      "duration_s": 81,
+      "duration_text": "1 min"
+    },
+    "home|nearby city": {
+      "distance_m": 28714,
+      "distance_text": "28.7 km",
+      "duration_s": 1730,
+      "duration_text": "29 mins"
+    },
+    "local icon|home": {
+      "distance_m": 3102,
+      "distance_text": "3.1 km",
+      "duration_s": 486,
+      "duration_text": "8 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 441,
+      "distance_text": "0.4 km",
+      "duration_s": 92,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 2784,
+      "distance_text": "2.8 km",
+      "duration_s": 406,
+      "duration_text": "7 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 31906,
+      "distance_text": "31.9 km",
+      "duration_s": 1636,
+      "duration_text": "27 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1903,
+      "distance_text": "1.9 km",
+      "duration_s": 314,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2995,
+      "distance_text": "3.0 km",
+      "duration_s": 490,
+      "duration_text": "8 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 1586,
+      "distance_text": "1.6 km",
+      "duration_s": 234,
+      "duration_text": "4 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 29242,
+      "distance_text": "29.2 km",
+      "duration_s": 1549,
+      "duration_text": "26 mins"
+    },
+    "hospital|home": {
+      "distance_m": 274,
+      "distance_text": "0.3 km",
+      "duration_s": 104,
+      "duration_text": "2 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2468,
+      "distance_text": "2.5 km",
+      "duration_s": 503,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 364,
+      "distance_text": "0.4 km",
+      "duration_s": 111,
+      "duration_text": "2 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 28682,
+      "distance_text": "28.7 km",
+      "duration_s": 1737,
+      "duration_text": "29 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2774,
+      "distance_text": "2.8 km",
+      "duration_s": 431,
+      "duration_text": "7 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 355,
+      "distance_text": "0.4 km",
+      "duration_s": 90,
+      "duration_text": "2 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2457,
+      "distance_text": "2.5 km",
+      "duration_s": 350,
+      "duration_text": "6 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 31579,
+      "distance_text": "31.6 km",
+      "duration_s": 1580,
+      "duration_text": "26 mins"
+    }
+  }
+}

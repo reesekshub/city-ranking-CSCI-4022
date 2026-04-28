@@ -1,0 +1,126 @@
+{
+  "city": "Jackson, WY",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 69885,
+      "distance_text": "69.9 km",
+      "duration_s": 5163,
+      "duration_text": "1 hour 26 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 142270,
+      "distance_text": "142 km",
+      "duration_s": 6347,
+      "duration_text": "1 hour 46 mins"
+    },
+    "local icon|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nature": {
+      "distance_m": 69885,
+      "distance_text": "69.9 km",
+      "duration_s": 5163,
+      "duration_text": "1 hour 26 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 142270,
+      "distance_text": "142 km",
+      "duration_s": 6347,
+      "duration_text": "1 hour 46 mins"
+    },
+    "grocery|home": {
+      "distance_m": 679,
+      "distance_text": "0.7 km",
+      "duration_s": 146,
+      "duration_text": "2 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 679,
+      "distance_text": "0.7 km",
+      "duration_s": 146,
+      "duration_text": "2 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 70564,
+      "distance_text": "70.6 km",
+      "duration_s": 5309,
+      "duration_text": "1 hour 28 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 142491,
+      "distance_text": "142 km",
+      "duration_s": 6395,
+      "duration_text": "1 hour 47 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1069,
+      "distance_text": "1.1 km",
+      "duration_s": 184,
+      "duration_text": "3 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1069,
+      "distance_text": "1.1 km",
+      "duration_s": 184,
+      "duration_text": "3 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 69218,
+      "distance_text": "69.2 km",
+      "duration_s": 5187,
+      "duration_text": "1 hour 26 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 143339,
+      "distance_text": "143 km",
+      "duration_s": 6530,
+      "duration_text": "1 hour 49 mins"
+    },
+    "stadium|home": {
+      "distance_m": 960,
+      "distance_text": "1.0 km",
+      "duration_s": 209,
+      "duration_text": "3 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 960,
+      "distance_text": "1.0 km",
+      "duration_s": 209,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 70845,
+      "distance_text": "70.8 km",
+      "duration_s": 5372,
+      "duration_text": "1 hour 30 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 143123,
+      "distance_text": "143 km",
+      "duration_s": 6499,
+      "duration_text": "1 hour 48 mins"
+    }
+  }
+}

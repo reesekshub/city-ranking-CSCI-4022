@@ -1,0 +1,126 @@
+{
+  "city": "Charlottesville, VA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2385,
+      "distance_text": "2.4 km",
+      "duration_s": 622,
+      "duration_text": "10 mins"
+    },
+    "home|nature": {
+      "distance_m": 50264,
+      "distance_text": "50.3 km",
+      "duration_s": 14612,
+      "duration_text": "4 hours 4 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 79297,
+      "distance_text": "79.3 km",
+      "duration_s": 19771,
+      "duration_text": "5 hours 30 mins"
+    },
+    "local icon|home": {
+      "distance_m": 9433,
+      "distance_text": "9.4 km",
+      "duration_s": 2330,
+      "duration_text": "39 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 7315,
+      "distance_text": "7.3 km",
+      "duration_s": 1760,
+      "duration_text": "29 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 58777,
+      "distance_text": "58.8 km",
+      "duration_s": 16759,
+      "duration_text": "4 hours 39 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 87810,
+      "distance_text": "87.8 km",
+      "duration_s": 21918,
+      "duration_text": "6 hours 5 mins"
+    },
+    "grocery|home": {
+      "distance_m": 4148,
+      "distance_text": "4.1 km",
+      "duration_s": 1011,
+      "duration_text": "17 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 5603,
+      "distance_text": "5.6 km",
+      "duration_s": 1383,
+      "duration_text": "23 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 47247,
+      "distance_text": "47.2 km",
+      "duration_s": 13867,
+      "duration_text": "3 hours 51 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 76280,
+      "distance_text": "76.3 km",
+      "duration_s": 19026,
+      "duration_text": "5 hours 17 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2816,
+      "distance_text": "2.8 km",
+      "duration_s": 677,
+      "duration_text": "11 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2321,
+      "distance_text": "2.3 km",
+      "duration_s": 499,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 51508,
+      "distance_text": "51.5 km",
+      "duration_s": 14943,
+      "duration_text": "4 hours 9 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 77000,
+      "distance_text": "77.0 km",
+      "duration_s": 17414,
+      "duration_text": "4 hours 50 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3826,
+      "distance_text": "3.8 km",
+      "duration_s": 825,
+      "duration_text": "14 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 4073,
+      "distance_text": "4.1 km",
+      "duration_s": 815,
+      "duration_text": "14 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 48465,
+      "distance_text": "48.5 km",
+      "duration_s": 13700,
+      "duration_text": "3 hours 48 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 76829,
+      "distance_text": "76.8 km",
+      "duration_s": 17290,
+      "duration_text": "4 hours 48 mins"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "city": "St. George, UT",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 8866,
+      "distance_text": "8.9 km",
+      "duration_s": 702,
+      "duration_text": "12 mins"
+    },
+    "home|nature": {
+      "distance_m": 20606,
+      "distance_text": "20.6 km",
+      "duration_s": 1360,
+      "duration_text": "23 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 16095,
+      "distance_text": "16.1 km",
+      "duration_s": 796,
+      "duration_text": "13 mins"
+    },
+    "local icon|home": {
+      "distance_m": 7687,
+      "distance_text": "7.7 km",
+      "duration_s": 574,
+      "duration_text": "10 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 723,
+      "distance_text": "0.7 km",
+      "duration_s": 96,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 13593,
+      "distance_text": "13.6 km",
+      "duration_s": 832,
+      "duration_text": "14 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 9762,
+      "distance_text": "9.8 km",
+      "duration_s": 648,
+      "duration_text": "11 mins"
+    },
+    "grocery|home": {
+      "distance_m": 11536,
+      "distance_text": "11.5 km",
+      "duration_s": 714,
+      "duration_text": "12 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1125,
+      "distance_text": "1.1 km",
+      "duration_s": 210,
+      "duration_text": "4 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 13008,
+      "distance_text": "13.0 km",
+      "duration_s": 825,
+      "duration_text": "14 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 8592,
+      "distance_text": "8.6 km",
+      "duration_s": 533,
+      "duration_text": "9 mins"
+    },
+    "hospital|home": {
+      "distance_m": 8330,
+      "distance_text": "8.3 km",
+      "duration_s": 662,
+      "duration_text": "11 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1677,
+      "distance_text": "1.7 km",
+      "duration_s": 237,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 14436,
+      "distance_text": "14.4 km",
+      "duration_s": 967,
+      "duration_text": "16 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 9219,
+      "distance_text": "9.2 km",
+      "duration_s": 620,
+      "duration_text": "10 mins"
+    },
+    "stadium|home": {
+      "distance_m": 10957,
+      "distance_text": "11.0 km",
+      "duration_s": 701,
+      "duration_text": "12 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1987,
+      "distance_text": "2.0 km",
+      "duration_s": 267,
+      "duration_text": "4 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 14684,
+      "distance_text": "14.7 km",
+      "duration_s": 991,
+      "duration_text": "17 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 8013,
+      "distance_text": "8.0 km",
+      "duration_s": 520,
+      "duration_text": "9 mins"
+    }
+  }
+}

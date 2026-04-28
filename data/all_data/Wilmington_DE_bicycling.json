@@ -1,0 +1,126 @@
+{
+  "city": "Wilmington, DE",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3221,
+      "distance_text": "3.2 km",
+      "duration_s": 758,
+      "duration_text": "13 mins"
+    },
+    "home|nature": {
+      "distance_m": 1845,
+      "distance_text": "1.8 km",
+      "duration_s": 387,
+      "duration_text": "6 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 21099,
+      "distance_text": "21.1 km",
+      "duration_s": 4315,
+      "duration_text": "1 hour 12 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2747,
+      "distance_text": "2.7 km",
+      "duration_s": 536,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 5643,
+      "distance_text": "5.6 km",
+      "duration_s": 1207,
+      "duration_text": "20 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3563,
+      "distance_text": "3.6 km",
+      "duration_s": 673,
+      "duration_text": "11 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 22037,
+      "distance_text": "22.0 km",
+      "duration_s": 4583,
+      "duration_text": "1 hour 16 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3803,
+      "distance_text": "3.8 km",
+      "duration_s": 817,
+      "duration_text": "14 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 6088,
+      "distance_text": "6.1 km",
+      "duration_s": 1361,
+      "duration_text": "23 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 3139,
+      "distance_text": "3.1 km",
+      "duration_s": 677,
+      "duration_text": "11 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 25011,
+      "distance_text": "25.0 km",
+      "duration_s": 5101,
+      "duration_text": "1 hour 25 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1940,
+      "distance_text": "1.9 km",
+      "duration_s": 624,
+      "duration_text": "10 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1708,
+      "distance_text": "1.7 km",
+      "duration_s": 472,
+      "duration_text": "8 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2300,
+      "distance_text": "2.3 km",
+      "duration_s": 530,
+      "duration_text": "9 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 26883,
+      "distance_text": "26.9 km",
+      "duration_s": 5680,
+      "duration_text": "1 hour 35 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3851,
+      "distance_text": "3.9 km",
+      "duration_s": 1172,
+      "duration_text": "20 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2153,
+      "distance_text": "2.2 km",
+      "duration_s": 490,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 4575,
+      "distance_text": "4.6 km",
+      "duration_s": 1157,
+      "duration_text": "19 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 25364,
+      "distance_text": "25.4 km",
+      "duration_s": 5192,
+      "duration_text": "1 hour 27 mins"
+    }
+  }
+}

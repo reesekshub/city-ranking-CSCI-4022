@@ -1,0 +1,126 @@
+{
+  "city": "Burlington, VT",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1086,
+      "distance_text": "1.1 km",
+      "duration_s": 241,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 3111,
+      "distance_text": "3.1 km",
+      "duration_s": 386,
+      "duration_text": "6 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 5839,
+      "distance_text": "5.8 km",
+      "duration_s": 639,
+      "duration_text": "11 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1962,
+      "distance_text": "2.0 km",
+      "duration_s": 304,
+      "duration_text": "5 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 360,
+      "distance_text": "0.4 km",
+      "duration_s": 110,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3614,
+      "distance_text": "3.6 km",
+      "duration_s": 412,
+      "duration_text": "7 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 4431,
+      "distance_text": "4.4 km",
+      "duration_s": 690,
+      "duration_text": "12 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1353,
+      "distance_text": "1.4 km",
+      "duration_s": 312,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 148,
+      "distance_text": "0.1 km",
+      "duration_s": 72,
+      "duration_text": "1 min"
+    },
+    "grocery|nature": {
+      "distance_m": 3869,
+      "distance_text": "3.9 km",
+      "duration_s": 548,
+      "duration_text": "9 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 4463,
+      "distance_text": "4.5 km",
+      "duration_s": 732,
+      "duration_text": "12 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2339,
+      "distance_text": "2.3 km",
+      "duration_s": 353,
+      "duration_text": "6 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1437,
+      "distance_text": "1.4 km",
+      "duration_s": 314,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 5066,
+      "distance_text": "5.1 km",
+      "duration_s": 683,
+      "duration_text": "11 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 3114,
+      "distance_text": "3.1 km",
+      "duration_s": 496,
+      "duration_text": "8 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2378,
+      "distance_text": "2.4 km",
+      "duration_s": 396,
+      "duration_text": "7 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1835,
+      "distance_text": "1.8 km",
+      "duration_s": 381,
+      "duration_text": "6 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5042,
+      "distance_text": "5.0 km",
+      "duration_s": 707,
+      "duration_text": "12 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 4965,
+      "distance_text": "5.0 km",
+      "duration_s": 600,
+      "duration_text": "10 mins"
+    }
+  }
+}

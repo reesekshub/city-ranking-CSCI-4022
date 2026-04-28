@@ -1,0 +1,126 @@
+{
+  "city": "Fairbanks, AK",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 9692,
+      "distance_text": "9.7 km",
+      "duration_s": 1857,
+      "duration_text": "31 mins"
+    },
+    "home|nature": {
+      "distance_m": 5347,
+      "distance_text": "5.3 km",
+      "duration_s": 979,
+      "duration_text": "16 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 31349,
+      "distance_text": "31.3 km",
+      "duration_s": 5874,
+      "duration_text": "1 hour 38 mins"
+    },
+    "local icon|home": {
+      "distance_m": 8958,
+      "distance_text": "9.0 km",
+      "duration_s": 1872,
+      "duration_text": "31 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 810,
+      "distance_text": "0.8 km",
+      "duration_s": 143,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 5542,
+      "distance_text": "5.5 km",
+      "duration_s": 1015,
+      "duration_text": "17 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 23993,
+      "distance_text": "24.0 km",
+      "duration_s": 4487,
+      "duration_text": "1 hour 15 mins"
+    },
+    "grocery|home": {
+      "distance_m": 7801,
+      "distance_text": "7.8 km",
+      "duration_s": 1707,
+      "duration_text": "28 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 8509,
+      "distance_text": "8.5 km",
+      "duration_s": 1720,
+      "duration_text": "29 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 9461,
+      "distance_text": "9.5 km",
+      "duration_s": 1863,
+      "duration_text": "31 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 29139,
+      "distance_text": "29.1 km",
+      "duration_s": 5433,
+      "duration_text": "1 hour 31 mins"
+    },
+    "hospital|home": {
+      "distance_m": 6383,
+      "distance_text": "6.4 km",
+      "duration_s": 1380,
+      "duration_text": "23 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2219,
+      "distance_text": "2.2 km",
+      "duration_s": 424,
+      "duration_text": "7 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 5056,
+      "distance_text": "5.1 km",
+      "duration_s": 988,
+      "duration_text": "16 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 25313,
+      "distance_text": "25.3 km",
+      "duration_s": 4735,
+      "duration_text": "1 hour 19 mins"
+    },
+    "stadium|home": {
+      "distance_m": 8101,
+      "distance_text": "8.1 km",
+      "duration_s": 1683,
+      "duration_text": "28 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1231,
+      "distance_text": "1.2 km",
+      "duration_s": 311,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 6403,
+      "distance_text": "6.4 km",
+      "duration_s": 1312,
+      "duration_text": "22 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 23390,
+      "distance_text": "23.4 km",
+      "duration_s": 4333,
+      "duration_text": "1 hour 12 mins"
+    }
+  }
+}

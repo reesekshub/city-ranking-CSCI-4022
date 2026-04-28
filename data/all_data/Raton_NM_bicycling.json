@@ -1,0 +1,126 @@
+{
+  "city": "Raton, NM",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 904,
+      "distance_text": "0.9 km",
+      "duration_s": 570,
+      "duration_text": "10 mins"
+    },
+    "home|nature": {
+      "distance_m": 11152,
+      "distance_text": "11.2 km",
+      "duration_s": 2607,
+      "duration_text": "43 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 255340,
+      "distance_text": "255 km",
+      "duration_s": 47381,
+      "duration_text": "13 hours 10 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1170,
+      "distance_text": "1.2 km",
+      "duration_s": 441,
+      "duration_text": "7 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 505,
+      "distance_text": "0.5 km",
+      "duration_s": 93,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 11600,
+      "distance_text": "11.6 km",
+      "duration_s": 2465,
+      "duration_text": "41 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 252567,
+      "distance_text": "253 km",
+      "duration_s": 46534,
+      "duration_text": "12 hours 56 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1212,
+      "distance_text": "1.2 km",
+      "duration_s": 494,
+      "duration_text": "8 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 355,
+      "distance_text": "0.4 km",
+      "duration_s": 73,
+      "duration_text": "1 min"
+    },
+    "grocery|nature": {
+      "distance_m": 11642,
+      "distance_text": "11.6 km",
+      "duration_s": 2518,
+      "duration_text": "42 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 252545,
+      "distance_text": "253 km",
+      "duration_s": 46633,
+      "duration_text": "12 hours 57 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3766,
+      "distance_text": "3.8 km",
+      "duration_s": 940,
+      "duration_text": "16 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2865,
+      "distance_text": "2.9 km",
+      "duration_s": 557,
+      "duration_text": "9 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 14196,
+      "distance_text": "14.2 km",
+      "duration_s": 2964,
+      "duration_text": "49 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 250394,
+      "distance_text": "250 km",
+      "duration_s": 46141,
+      "duration_text": "12 hours 49 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1595,
+      "distance_text": "1.6 km",
+      "duration_s": 551,
+      "duration_text": "9 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 791,
+      "distance_text": "0.8 km",
+      "duration_s": 159,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 12026,
+      "distance_text": "12.0 km",
+      "duration_s": 2575,
+      "duration_text": "43 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 252052,
+      "distance_text": "252 km",
+      "duration_s": 46484,
+      "duration_text": "12 hours 55 mins"
+    }
+  }
+}

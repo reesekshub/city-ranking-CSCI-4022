@@ -1,0 +1,126 @@
+{
+  "city": "Corvallis, OR",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 591,
+      "distance_text": "0.6 km",
+      "duration_s": 112,
+      "duration_text": "2 mins"
+    },
+    "home|nature": {
+      "distance_m": 7627,
+      "distance_text": "7.6 km",
+      "duration_s": 606,
+      "duration_text": "10 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 17852,
+      "distance_text": "17.9 km",
+      "duration_s": 1051,
+      "duration_text": "18 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2185,
+      "distance_text": "2.2 km",
+      "duration_s": 420,
+      "duration_text": "7 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2305,
+      "distance_text": "2.3 km",
+      "duration_s": 448,
+      "duration_text": "7 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3984,
+      "distance_text": "4.0 km",
+      "duration_s": 512,
+      "duration_text": "9 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 19561,
+      "distance_text": "19.6 km",
+      "duration_s": 1361,
+      "duration_text": "23 mins"
+    },
+    "grocery|home": {
+      "distance_m": 474,
+      "distance_text": "0.5 km",
+      "duration_s": 83,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 595,
+      "distance_text": "0.6 km",
+      "duration_s": 122,
+      "duration_text": "2 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 4924,
+      "distance_text": "4.9 km",
+      "duration_s": 524,
+      "duration_text": "9 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 16983,
+      "distance_text": "17.0 km",
+      "duration_s": 887,
+      "duration_text": "15 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2396,
+      "distance_text": "2.4 km",
+      "duration_s": 288,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2513,
+      "distance_text": "2.5 km",
+      "duration_s": 327,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 5511,
+      "distance_text": "5.5 km",
+      "duration_s": 538,
+      "duration_text": "9 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 16849,
+      "distance_text": "16.8 km",
+      "duration_s": 1039,
+      "duration_text": "17 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2061,
+      "distance_text": "2.1 km",
+      "duration_s": 279,
+      "duration_text": "5 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2653,
+      "distance_text": "2.7 km",
+      "duration_s": 279,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5039,
+      "distance_text": "5.0 km",
+      "duration_s": 443,
+      "duration_text": "7 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 20536,
+      "distance_text": "20.5 km",
+      "duration_s": 1163,
+      "duration_text": "19 mins"
+    }
+  }
+}

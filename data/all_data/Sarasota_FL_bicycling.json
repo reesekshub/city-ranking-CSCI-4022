@@ -1,0 +1,126 @@
+{
+  "city": "Sarasota, FL",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1327,
+      "distance_text": "1.3 km",
+      "duration_s": 323,
+      "duration_text": "5 mins"
+    },
+    "home|nature": {
+      "distance_m": 30589,
+      "distance_text": "30.6 km",
+      "duration_s": 5925,
+      "duration_text": "1 hour 39 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 23364,
+      "distance_text": "23.4 km",
+      "duration_s": 4806,
+      "duration_text": "1 hour 20 mins"
+    },
+    "local icon|home": {
+      "distance_m": 7732,
+      "distance_text": "7.7 km",
+      "duration_s": 1537,
+      "duration_text": "26 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 8016,
+      "distance_text": "8.0 km",
+      "duration_s": 1566,
+      "duration_text": "26 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 38048,
+      "distance_text": "38.0 km",
+      "duration_s": 7308,
+      "duration_text": "2 hours 2 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 16018,
+      "distance_text": "16.0 km",
+      "duration_s": 3312,
+      "duration_text": "55 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2068,
+      "distance_text": "2.1 km",
+      "duration_s": 484,
+      "duration_text": "8 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2235,
+      "distance_text": "2.2 km",
+      "duration_s": 580,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 32221,
+      "distance_text": "32.2 km",
+      "duration_s": 6221,
+      "duration_text": "1 hour 44 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 22356,
+      "distance_text": "22.4 km",
+      "duration_s": 4663,
+      "duration_text": "1 hour 18 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2245,
+      "distance_text": "2.2 km",
+      "duration_s": 472,
+      "duration_text": "8 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2746,
+      "distance_text": "2.7 km",
+      "duration_s": 610,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 29567,
+      "distance_text": "29.6 km",
+      "duration_s": 5745,
+      "duration_text": "1 hour 36 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 25298,
+      "distance_text": "25.3 km",
+      "duration_s": 5198,
+      "duration_text": "1 hour 27 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2117,
+      "distance_text": "2.1 km",
+      "duration_s": 481,
+      "duration_text": "8 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2401,
+      "distance_text": "2.4 km",
+      "duration_s": 510,
+      "duration_text": "9 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 32433,
+      "distance_text": "32.4 km",
+      "duration_s": 6252,
+      "duration_text": "1 hour 44 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 21258,
+      "distance_text": "21.3 km",
+      "duration_s": 4312,
+      "duration_text": "1 hour 12 mins"
+    }
+  }
+}

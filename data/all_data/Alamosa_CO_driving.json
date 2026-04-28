@@ -1,0 +1,126 @@
+{
+  "city": "Alamosa, CO",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 167,
+      "distance_text": "0.2 km",
+      "duration_s": 47,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 55320,
+      "distance_text": "55.3 km",
+      "duration_s": 2301,
+      "duration_text": "38 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 195081,
+      "distance_text": "195 km",
+      "duration_s": 6981,
+      "duration_text": "1 hour 56 mins"
+    },
+    "local icon|home": {
+      "distance_m": 55123,
+      "distance_text": "55.1 km",
+      "duration_s": 2221,
+      "duration_text": "37 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 55019,
+      "distance_text": "55.0 km",
+      "duration_s": 2210,
+      "duration_text": "37 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nearby city": {
+      "distance_m": 202134,
+      "distance_text": "202 km",
+      "duration_s": 7208,
+      "duration_text": "2 hours 0 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1221,
+      "distance_text": "1.2 km",
+      "duration_s": 186,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1057,
+      "distance_text": "1.1 km",
+      "duration_s": 144,
+      "duration_text": "2 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 55247,
+      "distance_text": "55.2 km",
+      "duration_s": 2300,
+      "duration_text": "38 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 195008,
+      "distance_text": "195 km",
+      "duration_s": 6980,
+      "duration_text": "1 hour 56 mins"
+    },
+    "hospital|home": {
+      "distance_m": 503,
+      "distance_text": "0.5 km",
+      "duration_s": 119,
+      "duration_text": "2 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 463,
+      "distance_text": "0.5 km",
+      "duration_s": 72,
+      "duration_text": "1 min"
+    },
+    "hospital|nature": {
+      "distance_m": 55355,
+      "distance_text": "55.4 km",
+      "duration_s": 2317,
+      "duration_text": "39 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 195116,
+      "distance_text": "195 km",
+      "duration_s": 6997,
+      "duration_text": "1 hour 57 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1357,
+      "distance_text": "1.4 km",
+      "duration_s": 163,
+      "duration_text": "3 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1194,
+      "distance_text": "1.2 km",
+      "duration_s": 121,
+      "duration_text": "2 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 55384,
+      "distance_text": "55.4 km",
+      "duration_s": 2277,
+      "duration_text": "38 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 195144,
+      "distance_text": "195 km",
+      "duration_s": 6957,
+      "duration_text": "1 hour 56 mins"
+    }
+  }
+}

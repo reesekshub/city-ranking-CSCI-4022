@@ -1,0 +1,126 @@
+{
+  "city": "Fort Collins, CO",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1724,
+      "distance_text": "1.7 km",
+      "duration_s": 456,
+      "duration_text": "8 mins"
+    },
+    "home|nature": {
+      "distance_m": 14180,
+      "distance_text": "14.2 km",
+      "duration_s": 3489,
+      "duration_text": "58 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 25104,
+      "distance_text": "25.1 km",
+      "duration_s": 5144,
+      "duration_text": "1 hour 26 mins"
+    },
+    "local icon|home": {
+      "distance_m": 22617,
+      "distance_text": "22.6 km",
+      "duration_s": 4359,
+      "duration_text": "1 hour 13 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 21774,
+      "distance_text": "21.8 km",
+      "duration_s": 4178,
+      "duration_text": "1 hour 10 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 11731,
+      "distance_text": "11.7 km",
+      "duration_s": 2700,
+      "duration_text": "45 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 27059,
+      "distance_text": "27.1 km",
+      "duration_s": 5644,
+      "duration_text": "1 hour 34 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1095,
+      "distance_text": "1.1 km",
+      "duration_s": 239,
+      "duration_text": "4 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1486,
+      "distance_text": "1.5 km",
+      "duration_s": 384,
+      "duration_text": "6 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 11249,
+      "distance_text": "11.2 km",
+      "duration_s": 3098,
+      "duration_text": "52 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 25060,
+      "distance_text": "25.1 km",
+      "duration_s": 5055,
+      "duration_text": "1 hour 24 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2569,
+      "distance_text": "2.6 km",
+      "duration_s": 674,
+      "duration_text": "11 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1214,
+      "distance_text": "1.2 km",
+      "duration_s": 319,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 11605,
+      "distance_text": "11.6 km",
+      "duration_s": 3192,
+      "duration_text": "53 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 23095,
+      "distance_text": "23.1 km",
+      "duration_s": 4627,
+      "duration_text": "1 hour 17 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2882,
+      "distance_text": "2.9 km",
+      "duration_s": 663,
+      "duration_text": "11 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2032,
+      "distance_text": "2.0 km",
+      "duration_s": 502,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 11543,
+      "distance_text": "11.5 km",
+      "duration_s": 3066,
+      "duration_text": "51 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 23033,
+      "distance_text": "23.0 km",
+      "duration_s": 4501,
+      "duration_text": "1 hour 15 mins"
+    }
+  }
+}

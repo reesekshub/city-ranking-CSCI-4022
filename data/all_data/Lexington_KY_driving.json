@@ -1,0 +1,126 @@
+{
+  "city": "Lexington, KY",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2701,
+      "distance_text": "2.7 km",
+      "duration_s": 407,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 17833,
+      "distance_text": "17.8 km",
+      "duration_s": 1185,
+      "duration_text": "20 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 19180,
+      "distance_text": "19.2 km",
+      "duration_s": 1520,
+      "duration_text": "25 mins"
+    },
+    "local icon|home": {
+      "distance_m": 13289,
+      "distance_text": "13.3 km",
+      "duration_s": 1047,
+      "duration_text": "17 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 12627,
+      "distance_text": "12.6 km",
+      "duration_s": 972,
+      "duration_text": "16 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 31369,
+      "distance_text": "31.4 km",
+      "duration_s": 1575,
+      "duration_text": "26 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 25847,
+      "distance_text": "25.8 km",
+      "duration_s": 1473,
+      "duration_text": "25 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2443,
+      "distance_text": "2.4 km",
+      "duration_s": 281,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3214,
+      "distance_text": "3.2 km",
+      "duration_s": 465,
+      "duration_text": "8 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 14511,
+      "distance_text": "14.5 km",
+      "duration_s": 944,
+      "duration_text": "16 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 23193,
+      "distance_text": "23.2 km",
+      "duration_s": 1574,
+      "duration_text": "26 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2318,
+      "distance_text": "2.3 km",
+      "duration_s": 315,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1403,
+      "distance_text": "1.4 km",
+      "duration_s": 227,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 19729,
+      "distance_text": "19.7 km",
+      "duration_s": 1429,
+      "duration_text": "24 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 18105,
+      "distance_text": "18.1 km",
+      "duration_s": 1563,
+      "duration_text": "26 mins"
+    },
+    "stadium|home": {
+      "distance_m": 1879,
+      "distance_text": "1.9 km",
+      "duration_s": 305,
+      "duration_text": "5 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3033,
+      "distance_text": "3.0 km",
+      "duration_s": 417,
+      "duration_text": "7 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 18669,
+      "distance_text": "18.7 km",
+      "duration_s": 1285,
+      "duration_text": "21 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 17592,
+      "distance_text": "17.6 km",
+      "duration_s": 1525,
+      "duration_text": "25 mins"
+    }
+  }
+}

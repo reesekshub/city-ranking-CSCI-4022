@@ -1,0 +1,126 @@
+{
+  "city": "Boise, ID",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2531,
+      "distance_text": "2.5 km",
+      "duration_s": 593,
+      "duration_text": "10 mins"
+    },
+    "home|nature": {
+      "distance_m": 732,
+      "distance_text": "0.7 km",
+      "duration_s": 171,
+      "duration_text": "3 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 17346,
+      "distance_text": "17.3 km",
+      "duration_s": 3467,
+      "duration_text": "58 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1801,
+      "distance_text": "1.8 km",
+      "duration_s": 416,
+      "duration_text": "7 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 829,
+      "distance_text": "0.8 km",
+      "duration_s": 249,
+      "duration_text": "4 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 2300,
+      "distance_text": "2.3 km",
+      "duration_s": 534,
+      "duration_text": "9 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 16491,
+      "distance_text": "16.5 km",
+      "duration_s": 3341,
+      "duration_text": "56 mins"
+    },
+    "grocery|home": {
+      "distance_m": 347,
+      "distance_text": "0.3 km",
+      "duration_s": 76,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 2645,
+      "distance_text": "2.6 km",
+      "duration_s": 612,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 456,
+      "distance_text": "0.5 km",
+      "duration_s": 119,
+      "duration_text": "2 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 20915,
+      "distance_text": "20.9 km",
+      "duration_s": 4047,
+      "duration_text": "1 hour 7 mins"
+    },
+    "hospital|home": {
+      "distance_m": 3682,
+      "distance_text": "3.7 km",
+      "duration_s": 831,
+      "duration_text": "14 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2461,
+      "distance_text": "2.5 km",
+      "duration_s": 574,
+      "duration_text": "10 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 4182,
+      "distance_text": "4.2 km",
+      "duration_s": 945,
+      "duration_text": "16 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 14150,
+      "distance_text": "14.2 km",
+      "duration_s": 2819,
+      "duration_text": "47 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4600,
+      "distance_text": "4.6 km",
+      "duration_s": 1070,
+      "duration_text": "18 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2502,
+      "distance_text": "2.5 km",
+      "duration_s": 548,
+      "duration_text": "9 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5100,
+      "distance_text": "5.1 km",
+      "duration_s": 1188,
+      "duration_text": "20 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 17902,
+      "distance_text": "17.9 km",
+      "duration_s": 3490,
+      "duration_text": "58 mins"
+    }
+  }
+}

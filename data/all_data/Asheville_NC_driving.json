@@ -1,0 +1,126 @@
+{
+  "city": "Asheville, NC",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2465,
+      "distance_text": "2.5 km",
+      "duration_s": 392,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 7223,
+      "distance_text": "7.2 km",
+      "duration_s": 891,
+      "duration_text": "15 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 102393,
+      "distance_text": "102 km",
+      "duration_s": 4505,
+      "duration_text": "1 hour 15 mins"
+    },
+    "local icon|home": {
+      "distance_m": 15800,
+      "distance_text": "15.8 km",
+      "duration_s": 1810,
+      "duration_text": "30 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 13501,
+      "distance_text": "13.5 km",
+      "duration_s": 1628,
+      "duration_text": "27 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 8234,
+      "distance_text": "8.2 km",
+      "duration_s": 977,
+      "duration_text": "16 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 110652,
+      "distance_text": "111 km",
+      "duration_s": 5515,
+      "duration_text": "1 hour 32 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1082,
+      "distance_text": "1.1 km",
+      "duration_s": 154,
+      "duration_text": "3 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2857,
+      "distance_text": "2.9 km",
+      "duration_s": 532,
+      "duration_text": "9 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 7312,
+      "distance_text": "7.3 km",
+      "duration_s": 902,
+      "duration_text": "15 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 101915,
+      "distance_text": "102 km",
+      "duration_s": 4516,
+      "duration_text": "1 hour 15 mins"
+    },
+    "hospital|home": {
+      "distance_m": 5247,
+      "distance_text": "5.2 km",
+      "duration_s": 694,
+      "duration_text": "12 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3057,
+      "distance_text": "3.1 km",
+      "duration_s": 418,
+      "duration_text": "7 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2863,
+      "distance_text": "2.9 km",
+      "duration_s": 500,
+      "duration_text": "8 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 101974,
+      "distance_text": "102 km",
+      "duration_s": 4552,
+      "duration_text": "1 hour 16 mins"
+    },
+    "stadium|home": {
+      "distance_m": 2161,
+      "distance_text": "2.2 km",
+      "duration_s": 310,
+      "duration_text": "5 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 540,
+      "distance_text": "0.5 km",
+      "duration_s": 190,
+      "duration_text": "3 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5568,
+      "distance_text": "5.6 km",
+      "duration_s": 769,
+      "duration_text": "13 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 101229,
+      "distance_text": "101 km",
+      "duration_s": 4489,
+      "duration_text": "1 hour 15 mins"
+    }
+  }
+}

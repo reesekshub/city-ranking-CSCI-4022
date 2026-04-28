@@ -1,0 +1,126 @@
+{
+  "city": "Spokane, WA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3869,
+      "distance_text": "3.9 km",
+      "duration_s": 902,
+      "duration_text": "15 mins"
+    },
+    "home|nature": {
+      "distance_m": 15215,
+      "distance_text": "15.2 km",
+      "duration_s": 2880,
+      "duration_text": "48 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 17193,
+      "distance_text": "17.2 km",
+      "duration_s": 3462,
+      "duration_text": "58 mins"
+    },
+    "local icon|home": {
+      "distance_m": 4795,
+      "distance_text": "4.8 km",
+      "duration_s": 1695,
+      "duration_text": "28 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 717,
+      "distance_text": "0.7 km",
+      "duration_s": 164,
+      "duration_text": "3 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 11229,
+      "distance_text": "11.2 km",
+      "duration_s": 2220,
+      "duration_text": "37 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 18996,
+      "distance_text": "19.0 km",
+      "duration_s": 3827,
+      "duration_text": "1 hour 4 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1244,
+      "distance_text": "1.2 km",
+      "duration_s": 315,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2485,
+      "distance_text": "2.5 km",
+      "duration_s": 731,
+      "duration_text": "12 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 13774,
+      "distance_text": "13.8 km",
+      "duration_s": 2741,
+      "duration_text": "46 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 17746,
+      "distance_text": "17.7 km",
+      "duration_s": 3612,
+      "duration_text": "1 hour 0 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2745,
+      "distance_text": "2.7 km",
+      "duration_s": 947,
+      "duration_text": "16 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3281,
+      "distance_text": "3.3 km",
+      "duration_s": 916,
+      "duration_text": "15 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 14006,
+      "distance_text": "14.0 km",
+      "duration_s": 2995,
+      "duration_text": "50 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 15100,
+      "distance_text": "15.1 km",
+      "duration_s": 3107,
+      "duration_text": "52 mins"
+    },
+    "stadium|home": {
+      "distance_m": 5753,
+      "distance_text": "5.8 km",
+      "duration_s": 1867,
+      "duration_text": "31 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1675,
+      "distance_text": "1.7 km",
+      "duration_s": 357,
+      "duration_text": "6 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 10122,
+      "distance_text": "10.1 km",
+      "duration_s": 1936,
+      "duration_text": "32 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 19890,
+      "distance_text": "19.9 km",
+      "duration_s": 3985,
+      "duration_text": "1 hour 6 mins"
+    }
+  }
+}

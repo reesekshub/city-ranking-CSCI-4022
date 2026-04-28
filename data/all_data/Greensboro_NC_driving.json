@@ -1,0 +1,126 @@
+{
+  "city": "Greensboro, NC",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1458,
+      "distance_text": "1.5 km",
+      "duration_s": 258,
+      "duration_text": "4 mins"
+    },
+    "home|nature": {
+      "distance_m": 4130,
+      "distance_text": "4.1 km",
+      "duration_s": 405,
+      "duration_text": "7 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 45339,
+      "distance_text": "45.3 km",
+      "duration_s": 1981,
+      "duration_text": "33 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1146,
+      "distance_text": "1.1 km",
+      "duration_s": 217,
+      "duration_text": "4 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 688,
+      "distance_text": "0.7 km",
+      "duration_s": 107,
+      "duration_text": "2 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3320,
+      "distance_text": "3.3 km",
+      "duration_s": 335,
+      "duration_text": "6 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 46511,
+      "distance_text": "46.5 km",
+      "duration_s": 1931,
+      "duration_text": "32 mins"
+    },
+    "grocery|home": {
+      "distance_m": 3438,
+      "distance_text": "3.4 km",
+      "duration_s": 348,
+      "duration_text": "6 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3920,
+      "distance_text": "3.9 km",
+      "duration_s": 413,
+      "duration_text": "7 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 3928,
+      "distance_text": "3.9 km",
+      "duration_s": 334,
+      "duration_text": "6 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 42652,
+      "distance_text": "42.7 km",
+      "duration_s": 1869,
+      "duration_text": "31 mins"
+    },
+    "hospital|home": {
+      "distance_m": 2706,
+      "distance_text": "2.7 km",
+      "duration_s": 252,
+      "duration_text": "4 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 3255,
+      "distance_text": "3.3 km",
+      "duration_s": 324,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2792,
+      "distance_text": "2.8 km",
+      "duration_s": 275,
+      "duration_text": "5 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 43167,
+      "distance_text": "43.2 km",
+      "duration_s": 1839,
+      "duration_text": "31 mins"
+    },
+    "stadium|home": {
+      "distance_m": 5913,
+      "distance_text": "5.9 km",
+      "duration_s": 463,
+      "duration_text": "8 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 3864,
+      "distance_text": "3.9 km",
+      "duration_s": 355,
+      "duration_text": "6 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 1421,
+      "distance_text": "1.4 km",
+      "duration_s": 214,
+      "duration_text": "4 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 41732,
+      "distance_text": "41.7 km",
+      "duration_s": 1791,
+      "duration_text": "30 mins"
+    }
+  }
+}

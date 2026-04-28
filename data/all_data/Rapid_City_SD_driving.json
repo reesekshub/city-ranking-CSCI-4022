@@ -1,0 +1,126 @@
+{
+  "city": "Rapid City, SD",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2856,
+      "distance_text": "2.9 km",
+      "duration_s": 290,
+      "duration_text": "5 mins"
+    },
+    "home|nature": {
+      "distance_m": 3112,
+      "distance_text": "3.1 km",
+      "duration_s": 337,
+      "duration_text": "6 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 44930,
+      "distance_text": "44.9 km",
+      "duration_s": 1811,
+      "duration_text": "30 mins"
+    },
+    "local icon|home": {
+      "distance_m": 38963,
+      "distance_text": "39.0 km",
+      "duration_s": 1985,
+      "duration_text": "33 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 38555,
+      "distance_text": "38.6 km",
+      "duration_s": 1881,
+      "duration_text": "31 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 40149,
+      "distance_text": "40.1 km",
+      "duration_s": 2112,
+      "duration_text": "35 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 84345,
+      "distance_text": "84.3 km",
+      "duration_s": 3539,
+      "duration_text": "59 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2146,
+      "distance_text": "2.1 km",
+      "duration_s": 229,
+      "duration_text": "4 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1717,
+      "distance_text": "1.7 km",
+      "duration_s": 180,
+      "duration_text": "3 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 1461,
+      "distance_text": "1.5 km",
+      "duration_s": 151,
+      "duration_text": "3 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 44044,
+      "distance_text": "44.0 km",
+      "duration_s": 1632,
+      "duration_text": "27 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4488,
+      "distance_text": "4.5 km",
+      "duration_s": 566,
+      "duration_text": "9 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2056,
+      "distance_text": "2.1 km",
+      "duration_s": 313,
+      "duration_text": "5 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 3080,
+      "distance_text": "3.1 km",
+      "duration_s": 489,
+      "duration_text": "8 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 47276,
+      "distance_text": "47.3 km",
+      "duration_s": 1916,
+      "duration_text": "32 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4164,
+      "distance_text": "4.2 km",
+      "duration_s": 444,
+      "duration_text": "7 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2039,
+      "distance_text": "2.0 km",
+      "duration_s": 289,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 1566,
+      "distance_text": "1.6 km",
+      "duration_s": 190,
+      "duration_text": "3 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 45088,
+      "distance_text": "45.1 km",
+      "duration_s": 1592,
+      "duration_text": "27 mins"
+    }
+  }
+}

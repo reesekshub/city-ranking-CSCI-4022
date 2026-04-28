@@ -1,0 +1,126 @@
+{
+  "city": "Carlsbad, CA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|nature": {
+      "distance_m": 10206,
+      "distance_text": "10.2 km",
+      "duration_s": 676,
+      "duration_text": "11 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 5051,
+      "distance_text": "5.1 km",
+      "duration_s": 585,
+      "duration_text": "10 mins"
+    },
+    "local icon|home": {
+      "distance_m": 7066,
+      "distance_text": "7.1 km",
+      "duration_s": 758,
+      "duration_text": "13 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 7066,
+      "distance_text": "7.1 km",
+      "duration_s": 758,
+      "duration_text": "13 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 9181,
+      "distance_text": "9.2 km",
+      "duration_s": 783,
+      "duration_text": "13 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 12747,
+      "distance_text": "12.7 km",
+      "duration_s": 859,
+      "duration_text": "14 mins"
+    },
+    "grocery|home": {
+      "distance_m": 1413,
+      "distance_text": "1.4 km",
+      "duration_s": 296,
+      "duration_text": "5 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 1413,
+      "distance_text": "1.4 km",
+      "duration_s": 296,
+      "duration_text": "5 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 9874,
+      "distance_text": "9.9 km",
+      "duration_s": 602,
+      "duration_text": "10 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 6908,
+      "distance_text": "6.9 km",
+      "duration_s": 524,
+      "duration_text": "9 mins"
+    },
+    "hospital|home": {
+      "distance_m": 6596,
+      "distance_text": "6.6 km",
+      "duration_s": 510,
+      "duration_text": "9 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 6596,
+      "distance_text": "6.6 km",
+      "duration_s": 510,
+      "duration_text": "9 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 14659,
+      "distance_text": "14.7 km",
+      "duration_s": 717,
+      "duration_text": "12 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 7770,
+      "distance_text": "7.8 km",
+      "duration_s": 424,
+      "duration_text": "7 mins"
+    },
+    "stadium|home": {
+      "distance_m": 6220,
+      "distance_text": "6.2 km",
+      "duration_s": 633,
+      "duration_text": "11 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 6220,
+      "distance_text": "6.2 km",
+      "duration_s": 633,
+      "duration_text": "11 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 5592,
+      "distance_text": "5.6 km",
+      "duration_s": 610,
+      "duration_text": "10 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 11901,
+      "distance_text": "11.9 km",
+      "duration_s": 734,
+      "duration_text": "12 mins"
+    }
+  }
+}

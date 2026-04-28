@@ -1,0 +1,126 @@
+{
+  "city": "Tacoma, WA",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 2923,
+      "distance_text": "2.9 km",
+      "duration_s": 342,
+      "duration_text": "6 mins"
+    },
+    "home|nature": {
+      "distance_m": 8005,
+      "distance_text": "8.0 km",
+      "duration_s": 749,
+      "duration_text": "12 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 14271,
+      "distance_text": "14.3 km",
+      "duration_s": 1261,
+      "duration_text": "21 mins"
+    },
+    "local icon|home": {
+      "distance_m": 5607,
+      "distance_text": "5.6 km",
+      "duration_s": 526,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1731,
+      "distance_text": "1.7 km",
+      "duration_s": 251,
+      "duration_text": "4 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 10093,
+      "distance_text": "10.1 km",
+      "duration_s": 828,
+      "duration_text": "14 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 16365,
+      "distance_text": "16.4 km",
+      "duration_s": 979,
+      "duration_text": "16 mins"
+    },
+    "grocery|home": {
+      "distance_m": 89,
+      "distance_text": "89 m",
+      "duration_s": 12,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 2834,
+      "distance_text": "2.8 km",
+      "duration_s": 329,
+      "duration_text": "5 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 7917,
+      "distance_text": "7.9 km",
+      "duration_s": 736,
+      "duration_text": "12 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 14182,
+      "distance_text": "14.2 km",
+      "duration_s": 1248,
+      "duration_text": "21 mins"
+    },
+    "hospital|home": {
+      "distance_m": 1972,
+      "distance_text": "2.0 km",
+      "duration_s": 290,
+      "duration_text": "5 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 1304,
+      "distance_text": "1.3 km",
+      "duration_s": 250,
+      "duration_text": "4 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 8752,
+      "distance_text": "8.8 km",
+      "duration_s": 958,
+      "duration_text": "16 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 14873,
+      "distance_text": "14.9 km",
+      "duration_s": 1067,
+      "duration_text": "18 mins"
+    },
+    "stadium|home": {
+      "distance_m": 5870,
+      "distance_text": "5.9 km",
+      "duration_s": 703,
+      "duration_text": "12 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2975,
+      "distance_text": "3.0 km",
+      "duration_s": 367,
+      "duration_text": "6 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 11377,
+      "distance_text": "11.4 km",
+      "duration_s": 997,
+      "duration_text": "17 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 14511,
+      "distance_text": "14.5 km",
+      "duration_s": 932,
+      "duration_text": "16 mins"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "city": "Cedar Rapids, IA",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 902,
+      "distance_text": "0.9 km",
+      "duration_s": 158,
+      "duration_text": "3 mins"
+    },
+    "home|nature": {
+      "distance_m": 3427,
+      "distance_text": "3.4 km",
+      "duration_s": 629,
+      "duration_text": "10 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 51417,
+      "distance_text": "51.4 km",
+      "duration_s": 9675,
+      "duration_text": "2 hours 41 mins"
+    },
+    "local icon|home": {
+      "distance_m": 1151,
+      "distance_text": "1.2 km",
+      "duration_s": 237,
+      "duration_text": "4 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 897,
+      "distance_text": "0.9 km",
+      "duration_s": 189,
+      "duration_text": "3 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 4195,
+      "distance_text": "4.2 km",
+      "duration_s": 800,
+      "duration_text": "13 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 52568,
+      "distance_text": "52.6 km",
+      "duration_s": 9913,
+      "duration_text": "2 hours 45 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2694,
+      "distance_text": "2.7 km",
+      "duration_s": 627,
+      "duration_text": "10 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 2445,
+      "distance_text": "2.4 km",
+      "duration_s": 577,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5734,
+      "distance_text": "5.7 km",
+      "duration_s": 1183,
+      "duration_text": "20 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 54111,
+      "distance_text": "54.1 km",
+      "duration_s": 10302,
+      "duration_text": "2 hours 52 mins"
+    },
+    "hospital|home": {
+      "distance_m": 833,
+      "distance_text": "0.8 km",
+      "duration_s": 144,
+      "duration_text": "2 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 861,
+      "distance_text": "0.9 km",
+      "duration_s": 150,
+      "duration_text": "3 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2433,
+      "distance_text": "2.4 km",
+      "duration_s": 433,
+      "duration_text": "7 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 51798,
+      "distance_text": "51.8 km",
+      "duration_s": 9764,
+      "duration_text": "2 hours 43 mins"
+    },
+    "stadium|home": {
+      "distance_m": 865,
+      "distance_text": "0.9 km",
+      "duration_s": 151,
+      "duration_text": "3 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 150,
+      "distance_text": "0.2 km",
+      "duration_s": 27,
+      "duration_text": "1 min"
+    },
+    "stadium|nature": {
+      "distance_m": 3327,
+      "distance_text": "3.3 km",
+      "duration_s": 617,
+      "duration_text": "10 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 52282,
+      "distance_text": "52.3 km",
+      "duration_s": 9827,
+      "duration_text": "2 hours 44 mins"
+    }
+  }
+}

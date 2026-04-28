@@ -1,0 +1,126 @@
+{
+  "city": "Columbia, SC",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3802,
+      "distance_text": "3.8 km",
+      "duration_s": 572,
+      "duration_text": "10 mins"
+    },
+    "home|nature": {
+      "distance_m": 35939,
+      "distance_text": "35.9 km",
+      "duration_s": 1990,
+      "duration_text": "33 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 67340,
+      "distance_text": "67.3 km",
+      "duration_s": 3600,
+      "duration_text": "1 hour 0 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2672,
+      "distance_text": "2.7 km",
+      "duration_s": 333,
+      "duration_text": "6 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 888,
+      "distance_text": "0.9 km",
+      "duration_s": 262,
+      "duration_text": "4 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 35524,
+      "distance_text": "35.5 km",
+      "duration_s": 1962,
+      "duration_text": "33 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 69839,
+      "distance_text": "69.8 km",
+      "duration_s": 3808,
+      "duration_text": "1 hour 3 mins"
+    },
+    "grocery|home": {
+      "distance_m": 4648,
+      "distance_text": "4.6 km",
+      "duration_s": 533,
+      "duration_text": "9 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 6740,
+      "distance_text": "6.7 km",
+      "duration_s": 862,
+      "duration_text": "14 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 37149,
+      "distance_text": "37.1 km",
+      "duration_s": 2085,
+      "duration_text": "35 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 68152,
+      "distance_text": "68.2 km",
+      "duration_s": 3693,
+      "duration_text": "1 hour 2 mins"
+    },
+    "hospital|home": {
+      "distance_m": 4022,
+      "distance_text": "4.0 km",
+      "duration_s": 551,
+      "duration_text": "9 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4398,
+      "distance_text": "4.4 km",
+      "duration_s": 687,
+      "duration_text": "11 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 41264,
+      "distance_text": "41.3 km",
+      "duration_s": 2383,
+      "duration_text": "40 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 90904,
+      "distance_text": "90.9 km",
+      "duration_s": 3714,
+      "duration_text": "1 hour 2 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4666,
+      "distance_text": "4.7 km",
+      "duration_s": 513,
+      "duration_text": "9 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 4165,
+      "distance_text": "4.2 km",
+      "duration_s": 489,
+      "duration_text": "8 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 31561,
+      "distance_text": "31.6 km",
+      "duration_s": 1510,
+      "duration_text": "25 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 68546,
+      "distance_text": "68.5 km",
+      "duration_s": 3395,
+      "duration_text": "57 mins"
+    }
+  }
+}

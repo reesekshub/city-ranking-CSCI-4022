@@ -1,0 +1,126 @@
+{
+  "city": "Jacksonville, FL",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 3178,
+      "distance_text": "3.2 km",
+      "duration_s": 424,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 31580,
+      "distance_text": "31.6 km",
+      "duration_s": 2318,
+      "duration_text": "39 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 34687,
+      "distance_text": "34.7 km",
+      "duration_s": 1672,
+      "duration_text": "28 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2759,
+      "distance_text": "2.8 km",
+      "duration_s": 461,
+      "duration_text": "8 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1514,
+      "distance_text": "1.5 km",
+      "duration_s": 330,
+      "duration_text": "6 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 29916,
+      "distance_text": "29.9 km",
+      "duration_s": 2223,
+      "duration_text": "37 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 36926,
+      "distance_text": "36.9 km",
+      "duration_s": 1778,
+      "duration_text": "30 mins"
+    },
+    "grocery|home": {
+      "distance_m": 468,
+      "distance_text": "0.5 km",
+      "duration_s": 90,
+      "duration_text": "2 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3303,
+      "distance_text": "3.3 km",
+      "duration_s": 478,
+      "duration_text": "8 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 31705,
+      "distance_text": "31.7 km",
+      "duration_s": 2372,
+      "duration_text": "40 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 35139,
+      "distance_text": "35.1 km",
+      "duration_s": 1740,
+      "duration_text": "29 mins"
+    },
+    "hospital|home": {
+      "distance_m": 963,
+      "distance_text": "1.0 km",
+      "duration_s": 189,
+      "duration_text": "3 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2414,
+      "distance_text": "2.4 km",
+      "duration_s": 340,
+      "duration_text": "6 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 30816,
+      "distance_text": "30.8 km",
+      "duration_s": 2233,
+      "duration_text": "37 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 35940,
+      "distance_text": "35.9 km",
+      "duration_s": 1677,
+      "duration_text": "28 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4788,
+      "distance_text": "4.8 km",
+      "duration_s": 701,
+      "duration_text": "12 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2962,
+      "distance_text": "3.0 km",
+      "duration_s": 407,
+      "duration_text": "7 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 28623,
+      "distance_text": "28.6 km",
+      "duration_s": 2096,
+      "duration_text": "35 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 28484,
+      "distance_text": "28.5 km",
+      "duration_s": 1992,
+      "duration_text": "33 mins"
+    }
+  }
+}

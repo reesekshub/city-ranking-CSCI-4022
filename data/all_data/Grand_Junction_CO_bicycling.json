@@ -1,0 +1,126 @@
+{
+  "city": "Grand Junction, CO",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 9852,
+      "distance_text": "9.9 km",
+      "duration_s": 1985,
+      "duration_text": "33 mins"
+    },
+    "home|nature": {
+      "distance_m": 7034,
+      "distance_text": "7.0 km",
+      "duration_s": 1574,
+      "duration_text": "26 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 176880,
+      "distance_text": "177 km",
+      "duration_s": 38746,
+      "duration_text": "10 hours 46 mins"
+    },
+    "local icon|home": {
+      "distance_m": 6196,
+      "distance_text": "6.2 km",
+      "duration_s": 1157,
+      "duration_text": "19 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 14570,
+      "distance_text": "14.6 km",
+      "duration_s": 2838,
+      "duration_text": "47 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "local icon|nearby city": {
+      "distance_m": 181598,
+      "distance_text": "182 km",
+      "duration_s": 39598,
+      "duration_text": "11 hours 0 mins"
+    },
+    "grocery|home": {
+      "distance_m": 11364,
+      "distance_text": "11.4 km",
+      "duration_s": 2512,
+      "duration_text": "42 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 3814,
+      "distance_text": "3.8 km",
+      "duration_s": 848,
+      "duration_text": "14 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 16543,
+      "distance_text": "16.5 km",
+      "duration_s": 3665,
+      "duration_text": "1 hour 1 min"
+    },
+    "grocery|nearby city": {
+      "distance_m": 169069,
+      "distance_text": "169 km",
+      "duration_s": 37414,
+      "duration_text": "10 hours 24 mins"
+    },
+    "hospital|home": {
+      "distance_m": 9227,
+      "distance_text": "9.2 km",
+      "duration_s": 1929,
+      "duration_text": "32 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 387,
+      "distance_text": "0.4 km",
+      "duration_s": 113,
+      "duration_text": "2 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 14405,
+      "distance_text": "14.4 km",
+      "duration_s": 3082,
+      "duration_text": "51 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 168473,
+      "distance_text": "168 km",
+      "duration_s": 37425,
+      "duration_text": "10 hours 24 mins"
+    },
+    "stadium|home": {
+      "distance_m": 8719,
+      "distance_text": "8.7 km",
+      "duration_s": 1791,
+      "duration_text": "30 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 1047,
+      "distance_text": "1.0 km",
+      "duration_s": 259,
+      "duration_text": "4 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 13898,
+      "distance_text": "13.9 km",
+      "duration_s": 2944,
+      "duration_text": "49 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 169586,
+      "distance_text": "170 km",
+      "duration_s": 37462,
+      "duration_text": "10 hours 24 mins"
+    }
+  }
+}

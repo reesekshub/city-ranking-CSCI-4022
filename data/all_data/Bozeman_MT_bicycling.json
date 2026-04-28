@@ -1,0 +1,126 @@
+{
+  "city": "Bozeman, MT",
+  "modality": "bicycling",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 1765,
+      "distance_text": "1.8 km",
+      "duration_s": 427,
+      "duration_text": "7 mins"
+    },
+    "home|nature": {
+      "distance_m": 1128,
+      "distance_text": "1.1 km",
+      "duration_s": 267,
+      "duration_text": "4 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 173575,
+      "distance_text": "174 km",
+      "duration_s": 32750,
+      "duration_text": "9 hours 6 mins"
+    },
+    "local icon|home": {
+      "distance_m": 3741,
+      "distance_text": "3.7 km",
+      "duration_s": 628,
+      "duration_text": "10 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 2509,
+      "distance_text": "2.5 km",
+      "duration_s": 344,
+      "duration_text": "6 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 2721,
+      "distance_text": "2.7 km",
+      "duration_s": 434,
+      "duration_text": "7 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 174994,
+      "distance_text": "175 km",
+      "duration_s": 32776,
+      "duration_text": "9 hours 6 mins"
+    },
+    "grocery|home": {
+      "distance_m": 2238,
+      "distance_text": "2.2 km",
+      "duration_s": 456,
+      "duration_text": "8 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 622,
+      "distance_text": "0.6 km",
+      "duration_s": 95,
+      "duration_text": "2 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 1552,
+      "distance_text": "1.6 km",
+      "duration_s": 314,
+      "duration_text": "5 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 173680,
+      "distance_text": "174 km",
+      "duration_s": 32658,
+      "duration_text": "9 hours 4 mins"
+    },
+    "hospital|home": {
+      "distance_m": 5320,
+      "distance_text": "5.3 km",
+      "duration_s": 970,
+      "duration_text": "16 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 6803,
+      "distance_text": "6.8 km",
+      "duration_s": 1351,
+      "duration_text": "23 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 6165,
+      "distance_text": "6.2 km",
+      "duration_s": 1191,
+      "duration_text": "20 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 177602,
+      "distance_text": "178 km",
+      "duration_s": 33507,
+      "duration_text": "9 hours 18 mins"
+    },
+    "stadium|home": {
+      "distance_m": 3387,
+      "distance_text": "3.4 km",
+      "duration_s": 580,
+      "duration_text": "10 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2002,
+      "distance_text": "2.0 km",
+      "duration_s": 286,
+      "duration_text": "5 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 2367,
+      "distance_text": "2.4 km",
+      "duration_s": 386,
+      "duration_text": "6 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 174454,
+      "distance_text": "174 km",
+      "duration_s": 32703,
+      "duration_text": "9 hours 5 mins"
+    }
+  }
+}

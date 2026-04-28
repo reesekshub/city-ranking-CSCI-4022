@@ -1,0 +1,126 @@
+{
+  "city": "Madison, WI",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 4026,
+      "distance_text": "4.0 km",
+      "duration_s": 585,
+      "duration_text": "10 mins"
+    },
+    "home|nature": {
+      "distance_m": 5700,
+      "distance_text": "5.7 km",
+      "duration_s": 867,
+      "duration_text": "14 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 14296,
+      "distance_text": "14.3 km",
+      "duration_s": 1206,
+      "duration_text": "20 mins"
+    },
+    "local icon|home": {
+      "distance_m": 2406,
+      "distance_text": "2.4 km",
+      "duration_s": 338,
+      "duration_text": "6 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 1534,
+      "distance_text": "1.5 km",
+      "duration_s": 342,
+      "duration_text": "6 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 3538,
+      "distance_text": "3.5 km",
+      "duration_s": 694,
+      "duration_text": "12 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 13607,
+      "distance_text": "13.6 km",
+      "duration_s": 1126,
+      "duration_text": "19 mins"
+    },
+    "grocery|home": {
+      "distance_m": 174,
+      "distance_text": "0.2 km",
+      "duration_s": 44,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 4186,
+      "distance_text": "4.2 km",
+      "duration_s": 579,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 5860,
+      "distance_text": "5.9 km",
+      "duration_s": 861,
+      "duration_text": "14 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 14357,
+      "distance_text": "14.4 km",
+      "duration_s": 1193,
+      "duration_text": "20 mins"
+    },
+    "hospital|home": {
+      "distance_m": 7293,
+      "distance_text": "7.3 km",
+      "duration_s": 896,
+      "duration_text": "15 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 4194,
+      "distance_text": "4.2 km",
+      "duration_s": 521,
+      "duration_text": "9 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 2637,
+      "distance_text": "2.6 km",
+      "duration_s": 473,
+      "duration_text": "8 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 9282,
+      "distance_text": "9.3 km",
+      "duration_s": 897,
+      "duration_text": "15 mins"
+    },
+    "stadium|home": {
+      "distance_m": 5597,
+      "distance_text": "5.6 km",
+      "duration_s": 761,
+      "duration_text": "13 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2498,
+      "distance_text": "2.5 km",
+      "duration_s": 386,
+      "duration_text": "6 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 1861,
+      "distance_text": "1.9 km",
+      "duration_s": 346,
+      "duration_text": "6 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 8765,
+      "distance_text": "8.8 km",
+      "duration_s": 837,
+      "duration_text": "14 mins"
+    }
+  }
+}

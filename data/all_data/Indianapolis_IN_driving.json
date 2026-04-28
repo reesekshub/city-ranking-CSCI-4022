@@ -1,0 +1,126 @@
+{
+  "city": "Indianapolis, IN",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 12201,
+      "distance_text": "12.2 km",
+      "duration_s": 1464,
+      "duration_text": "24 mins"
+    },
+    "home|nature": {
+      "distance_m": 14924,
+      "distance_text": "14.9 km",
+      "duration_s": 1290,
+      "duration_text": "22 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 14480,
+      "distance_text": "14.5 km",
+      "duration_s": 953,
+      "duration_text": "16 mins"
+    },
+    "local icon|home": {
+      "distance_m": 15337,
+      "distance_text": "15.3 km",
+      "duration_s": 1445,
+      "duration_text": "24 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 8628,
+      "distance_text": "8.6 km",
+      "duration_s": 1057,
+      "duration_text": "18 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 13585,
+      "distance_text": "13.6 km",
+      "duration_s": 932,
+      "duration_text": "16 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 39979,
+      "distance_text": "40.0 km",
+      "duration_s": 1876,
+      "duration_text": "31 mins"
+    },
+    "grocery|home": {
+      "distance_m": 275,
+      "distance_text": "0.3 km",
+      "duration_s": 69,
+      "duration_text": "1 min"
+    },
+    "grocery|downtown": {
+      "distance_m": 12281,
+      "distance_text": "12.3 km",
+      "duration_s": 1453,
+      "duration_text": "24 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 15004,
+      "distance_text": "15.0 km",
+      "duration_s": 1279,
+      "duration_text": "21 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 14205,
+      "distance_text": "14.2 km",
+      "duration_s": 884,
+      "duration_text": "15 mins"
+    },
+    "hospital|home": {
+      "distance_m": 10807,
+      "distance_text": "10.8 km",
+      "duration_s": 1234,
+      "duration_text": "21 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 2317,
+      "distance_text": "2.3 km",
+      "duration_s": 400,
+      "duration_text": "7 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 17967,
+      "distance_text": "18.0 km",
+      "duration_s": 1022,
+      "duration_text": "17 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 36757,
+      "distance_text": "36.8 km",
+      "duration_s": 1652,
+      "duration_text": "28 mins"
+    },
+    "stadium|home": {
+      "distance_m": 13791,
+      "distance_text": "13.8 km",
+      "duration_s": 1499,
+      "duration_text": "25 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 2227,
+      "distance_text": "2.2 km",
+      "duration_s": 416,
+      "duration_text": "7 mins"
+    },
+    "stadium|nature": {
+      "distance_m": 19672,
+      "distance_text": "19.7 km",
+      "duration_s": 1267,
+      "duration_text": "21 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 40766,
+      "distance_text": "40.8 km",
+      "duration_s": 1834,
+      "duration_text": "31 mins"
+    }
+  }
+}

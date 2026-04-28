@@ -1,0 +1,126 @@
+{
+  "city": "Tulsa, OK",
+  "modality": "driving",
+  "distances": {
+    "home|home": {
+      "distance_m": 0,
+      "distance_text": "1 m",
+      "duration_s": 0,
+      "duration_text": "1 min"
+    },
+    "home|downtown": {
+      "distance_m": 5074,
+      "distance_text": "5.1 km",
+      "duration_s": 562,
+      "duration_text": "9 mins"
+    },
+    "home|nature": {
+      "distance_m": 8062,
+      "distance_text": "8.1 km",
+      "duration_s": 619,
+      "duration_text": "10 mins"
+    },
+    "home|nearby city": {
+      "distance_m": 21009,
+      "distance_text": "21.0 km",
+      "duration_s": 1166,
+      "duration_text": "19 mins"
+    },
+    "local icon|home": {
+      "distance_m": 5922,
+      "distance_text": "5.9 km",
+      "duration_s": 550,
+      "duration_text": "9 mins"
+    },
+    "local icon|downtown": {
+      "distance_m": 6723,
+      "distance_text": "6.7 km",
+      "duration_s": 542,
+      "duration_text": "9 mins"
+    },
+    "local icon|nature": {
+      "distance_m": 14523,
+      "distance_text": "14.5 km",
+      "duration_s": 674,
+      "duration_text": "11 mins"
+    },
+    "local icon|nearby city": {
+      "distance_m": 19114,
+      "distance_text": "19.1 km",
+      "duration_s": 1038,
+      "duration_text": "17 mins"
+    },
+    "grocery|home": {
+      "distance_m": 587,
+      "distance_text": "0.6 km",
+      "duration_s": 98,
+      "duration_text": "2 mins"
+    },
+    "grocery|downtown": {
+      "distance_m": 5335,
+      "distance_text": "5.3 km",
+      "duration_s": 601,
+      "duration_text": "10 mins"
+    },
+    "grocery|nature": {
+      "distance_m": 8647,
+      "distance_text": "8.6 km",
+      "duration_s": 680,
+      "duration_text": "11 mins"
+    },
+    "grocery|nearby city": {
+      "distance_m": 21040,
+      "distance_text": "21.0 km",
+      "duration_s": 1212,
+      "duration_text": "20 mins"
+    },
+    "hospital|home": {
+      "distance_m": 6027,
+      "distance_text": "6.0 km",
+      "duration_s": 512,
+      "duration_text": "9 mins"
+    },
+    "hospital|downtown": {
+      "distance_m": 11324,
+      "distance_text": "11.3 km",
+      "duration_s": 756,
+      "duration_text": "13 mins"
+    },
+    "hospital|nature": {
+      "distance_m": 10898,
+      "distance_text": "10.9 km",
+      "duration_s": 547,
+      "duration_text": "9 mins"
+    },
+    "hospital|nearby city": {
+      "distance_m": 15879,
+      "distance_text": "15.9 km",
+      "duration_s": 945,
+      "duration_text": "16 mins"
+    },
+    "stadium|home": {
+      "distance_m": 4833,
+      "distance_text": "4.8 km",
+      "duration_s": 525,
+      "duration_text": "9 mins"
+    },
+    "stadium|downtown": {
+      "distance_m": 383,
+      "distance_text": "0.4 km",
+      "duration_s": 84,
+      "duration_text": "1 min"
+    },
+    "stadium|nature": {
+      "distance_m": 9472,
+      "distance_text": "9.5 km",
+      "duration_s": 507,
+      "duration_text": "8 mins"
+    },
+    "stadium|nearby city": {
+      "distance_m": 23800,
+      "distance_text": "23.8 km",
+      "duration_s": 1155,
+      "duration_text": "19 mins"
+    }
+  }
+}
