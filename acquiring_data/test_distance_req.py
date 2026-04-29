@@ -1,4 +1,4 @@
-from distance_requests import get_distances
+from acquiring_data.distance_requests import get_distances
 
 
 results = get_distances("Boulder, CO", "bicycling")

@@ -2,7 +2,7 @@ import csv
 import json
 import os
 
-from distance_requests import CSV_PATH, get_distances
+from acquiring_data.distance_requests import CSV_PATH, get_distances
 
 OUTPUT_DIR = os.path.join("data", "all_data")
 
