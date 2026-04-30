@@ -3,8 +3,26 @@
 import csv
 import requests
 
-API_KEY = "AIzaSyBEt3eMxLSFSm2maeJNld8j776jy8z7cBw"
+SECRETS_PATH = "secrets.txt"
 CSV_PATH = "townNamesLatLong.csv"
+
+
+def _load_api_key() -> str:
+    """Read the Google Maps Distance Matrix API key from SECRETS_PATH.
+
+    Expects a line of the form:
+        Google Maps Distance Matrix API key: <KEY>
+    """
+    with open(SECRETS_PATH, encoding="utf-8") as f:
+        for line in f:
+            if "Google Maps Distance Matrix API key" in line:
+                return line.split(":", 1)[1].strip()
+    raise RuntimeError(
+        f"Google Maps Distance Matrix API key not found in {SECRETS_PATH}"
+    )
+
+
+API_KEY = _load_api_key()
 
 COLUMN_INDEX = {
     "home": 1,
